@@ -38,6 +38,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Body", name: "body", widget: "text"}
   - name: "layout"
     label: "Layout"
+    editor:
+      preview: false
     files:
       - name: "default"
         label: "Default"
