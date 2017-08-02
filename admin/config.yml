@@ -14,8 +14,8 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Title", name: "title", widget: "hidden"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "page"
     label: "Page"
     files:
