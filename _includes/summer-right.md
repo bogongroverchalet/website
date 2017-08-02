@@ -1,3 +1,6 @@
+---
+title: Summer Right
+---
 #### How to book
 
 <div><!-- TODO shorten/tighten this? -->

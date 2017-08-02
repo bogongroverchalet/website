@@ -1,3 +1,6 @@
+---
+title: Winter Venturer
+---
 There are three Venturer weeks available each year.
 
 The [South Australian](#winter-interstater) week is organised separately to normal weeks and is only open to South Australians. [Find out more.](#winter-interstater)

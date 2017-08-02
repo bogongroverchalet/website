@@ -1,5 +1,5 @@
 ---
-name: Main overview
+title: Main overview
 ---
 
 #### Overview
