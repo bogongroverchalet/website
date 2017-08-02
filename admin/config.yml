@@ -28,3 +28,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+  - name: "homepage"
+    label: "Homepage"
+    file: "index.html"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
