@@ -19,3 +19,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categories", name: "categories", widget: "string"}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+  - name: "snippets" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Snippet" # Used in the UI, ie.: "New Post"
+    folder: "_includes"
+    create: true
+    slug: "{{name}}"
+    fields: # The fields each document in this collection have
+      - {label: "Name", name: "name", widget: "string", tagname: "span"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}

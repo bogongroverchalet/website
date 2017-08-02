@@ -2,22 +2,248 @@
 layout: default
 ---
 
-<div class="home">
+<header id='top' class='main-header'>
+  <div class='row' style='max-width: 60em; margin: 0 auto;'>
+    <h2 class='not-mobile'>
+      The Bogong Rover Chalet
+      <a style='margin-left: 0.5em' href='https://www.facebook.com/BogongRoverChalet'><small class='fa fa-facebook-square'></small></a>
+    </h2>
+    <div>
+    </div>
+    <div class='header__got-questions'>
+      Got a question?
+    </div>
+    <div class='header__search'>
+      <div class='header__search__wrapper'>
+        <form action='http://help.dobt.co/search' method='get' onsubmit='alert("Placeholder, inspirational site.")' style='display: inline-block; position: relative;'>
+          <input id='main-search' name='q' type='search' placeholder='Search term'>
+          <button class='fa fa-search no-style' style='position: absolute; top: 0; bottom: 0;'></button>
+          <label for='main-search' class='like-link' style='display: inline-block;'>
+            Search our infomation hub.
+          </label>
+        </form>
+      </div>
+      <a href='http://help.dobt.co/articles/screendoor/' onclick='alert("Placeholder, inspirational site.")'>Or have a browse.</a><!-- TODO -->
+    </div>
+  </div>
+</header>
+<nav class='side-nav'>
+  <ul>
+    <a data-scroll href='#top' class='dark' style='background-color: green;'>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        Top
       </li>
-    {% endfor %}
+    </a>
+    <a data-scroll href='#winter' class='dark' style='background-color: blue;'>
+      <li>
+        Winter
+      </li>
+    </a>
+    <a data-scroll href='#winter-venturer' class='dark' style='background-color: maroon;'>
+      <li>
+        Snow Venture
+      </li>
+    </a>
+    <a data-scroll href='#winter-rover' class='dark' style='background-color: red;'>
+      <li>
+        Ski Moot
+      </li>
+    </a>
+    <a data-scroll href='#summer' style='background-color: yellow;'>
+      <li>
+        Summer
+      </li>
+    </a>
+    <a data-scroll href='#more-info' class='dark' style='background-color: #999;'>
+      <li>
+        More info
+      </li>
+    </a>
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</nav>
+<main class='pos-rel'> <!-- xxxstyle='margin-bottom: 20%'> -->
+  <div class='hero-image hero-image__main not-mobile'></div>
+  <h1 style='text-align: center' class='only-mobile'>
+    Bogong Rover Chalet
+  </h1>
+  <div class='hero-image hero-image__main only-mobile'></div>
+  <h3 style='text-align: center' class='only-mobile'>
+    A magical place in Victoria's Highcountry
+  </h3>
+  <article class='article__main'>
+    <h1 style='text-align: center' class='not-mobile'>
+      The Bogong Rover Chalet<br>
+      <small>
+        A magical place in Victoria's Highcountry
+      </small>
+    </h1>
+    <div style='text-align: center'>
+      <a class='button button-primary' href='http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=74559'>Book now!</a>
+    </div>
+    <div class='row' style='max-height: 13em;'>
+      <div class='cell'>
+        {% capture main_overview %}{% include main-overview.md %}{% endcapture %}
+        {{ main_overview | markdownify }}
+      </div>
+      <div class='cell'>
+        <h4>News</h4>
+        {% capture news %}{% include news.md %}{% endcapture %}
+        {{ news | markdownify }}
+      </div>
+      <div class='cell'>
+        <h4>Testimonials</h4>
+        <div style='max-height: 9em; overflow: auto;'>
+          <p>The best thing I ever did in Rovers <br><span>— Someone, BP Awardee</span></p>
+          <p>I don't even like skiing, but I still go every year <span>— Someone, non skier</span></p>
+          <p>I've skied all over the world, but I still go every year <span>— Someone, avid skier</span></p>
+        </div>
+      </div>
+    </div>
+  </article>
+</main>
+<section id='winter' class='hero-image pos-rel' style='background: rgba(0, 200, 200, 1);'>
+  <h2 style='background: rgba(0, 100, 100, 1); border-color: rgba(0, 200, 200, 1); color: white;'>Winter</h2>
+  <div class='hero-image hero-image__winter'></div>
+  <article class='article__winter'>
+    <div class='row row__not-narrow row--padding'>
+      <div>
+        <h4 onclick='this.classList.toggle("expand")' class='narrow-shrink-origin' style='text-align: center;'><span class='under-desktop'><button class='material-icons no-style'>expand_more</button> </span>Dates</h4>
+        <div class='narrow-shrink'>
+          <table class='dates'>
+            <tr><td>Vic Snow Venture 1</td><td>Jun 25th – Jul 2nd</td></tr>
+            <tr><td>Ski Week X</td><td>Jul 2nd – Jul 9th</td></tr>
+            <tr><td>Ski Moot</td><td>Jul 9th – Jul 16th</td></tr>
+            <tr><td>SA Snow Venture</td><td>Jul 15th – Jul 24th</td></tr>
+            <tr><td>Ski Week X</td><td>Jul 23rd – July 30th</td></tr>
+            <tr><td>Ski Week X</td><td>July 30th – Aug 6th</td></tr>
+            <tr><td>Ski Week X</td><td>Aug 6th – Aug 13th</td></tr>
+            <tr><td>Ski Week 8a</td><td>Aug 13th – Aug 17th</td></tr>
+            <tr><td>Ski Week 8b</td><td>Aug 17th – Aug 20th</td></tr>
+            <tr><td>Ski Week X</td><td>Aug 20th – Aug 27th</td></tr>
+            <tr><td>Ski Week X</td><td>Aug 27th – Sep 3rd</td></tr>
+            <tr><td>Ski Week X</td><td>Sep 3rd – Sep 10th</td></tr>
+            <tr><td>Ski Week X</td><td>Sep 10th – Sep 17th</td></tr>
+            <tr><td>Vic Snow Venture 2</td><td>Sep 16th – Sep 24th</td></tr>
+          </table>
+        </div>
+      </div>
+      <div>
+        <span id='winter-overview'></span>
+        <span id='winter-venturer'></span>
+        <span id='winter-rover'></span>
+        <span id='winter-interstater'></span>
+        <span id='winter-other'></span>
+        <ul class='tab tab-block'>
+          <li class='tab-item'>
+            <a href='#winter-overview'>Overview</a>
+          </li>
+          <li class='tab-item'>
+            <a href='#winter-venturer'>Venturer</a>
+          </li>
+          <li class='tab-item'>
+            <a href='#winter-rover'>Rover</a>
+          </li>
+          <li class='tab-item'>
+            <a href='#winter-interstater'>Interstater</a>
+          </li>
+          <li class='tab-item'>
+            <a href='#winter-other'>Other</a>
+          </li>
+        </ul>
+        <div class='tab-contents' style='padding: 1em;'>
+          <div data-id='winter-overview'>
+            {% capture winter_overview %}{% include winter-overview.md %}{% endcapture %}
+            {{ winter_overview | markdownify }}
+          </div>
+          <div data-id='winter-venturer'>
+            {% capture winter_venturer %}{% include winter-venturer.md %}{% endcapture %}
+            {{ winter_venturer | markdownify }}
+          </div>
+          <div data-id='winter-rover'>
+            {% capture winter_rover %}{% include winter-rover.md %}{% endcapture %}
+            {{ winter_rover | markdownify }}
+          </div>
+          <div data-id='winter-interstater'>
+            {% capture winter_interstater %}{% include winter-interstater.md %}{% endcapture %}
+            {{ winter_interstater | markdownify }}
+          </div>
+          <div data-id='winter-other'>
+            {% capture winter_other %}{% include winter-other.md %}{% endcapture %}
+            {{ winter_other | markdownify }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</section>
+<section id='summer' class='hero-image' style='background: rgba(255, 255, 0, 1); font-size: 120%;'>
+  <h2 style='background: rgba(255, 255, 120, 1); border-color: rgba(255, 255, 0, 1);'>Summer</h2>
+  <article>
+    <div class='row row--padding'>
+      <div>
+        {% capture summer_left %}{% include summer-left.md %}{% endcapture %}
+        {{ summer_left | markdownify }}
+      </div>
+      <div>
+        {% capture summer_right %}{% include summer-right.md %}{% endcapture %}
+        {{ summer_right | markdownify }}
+      </div>
+    </div>
+    <hr style='max-width: 30em; margin-top: 2em;'>
+    <div class='row row--padding row--center'>
+      <div>
+        <h4>Dates</h4>
+        <div>
+          <i>Below is our table of key Summer dates, but that's not the only time you can visit in Summer!</i>
+          <div style='text-align: center'>
+            <h5>Key dates</h5>
+            <table class='dates' style='text-align: center; font-size: 0.9em;'>
+              <!--<tr><th>Week</th><th>Dates</th></tr>-->
+              <tr><td>Working bee</td><td>29 Oct - 1 Nov</td></tr>
+              <tr><td>Working bee</td><td>…</td></tr>
+              <tr><td>Working bee</td><td>…</td></tr>
+              <tr><td>Working bee</td><td>…</td></tr>
+              <tr><td>Working bee</td><td>…</td></tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</section>
+<section id='more-info' class='hero-image' style='background: rgba(200, 200, 200, 1);'>
+  <h2 style='background: rgba(220, 220, 220, 1); border-color: rgba(200, 200, 200, 1);'>More info</h2>
+  <article>
+    <div>
+      <h3 style='text-align: center'>Need to know something else?</h3>
+      <div style='text-align: center;'>
+        <form action='http://help.dobt.co/search' method='get' onsubmit='alert("Placeholder, inspirational site.")' style='display: inline-block; position: relative;'>
+          <input required name='q' type='search' placeholder='Search our information hub.' style='font-size: 1.6em; width: 14em; padding-right: 1.25em;'>
+          <button class='fa fa-search no-style' style='position: absolute; top: 0; bottom: 0; right: 0.5em;'></button>
+        </form>
+      </div>
+      <div style='text-align: center'><a href='http://help.dobt.co/articles/screendoor/' onclick='alert("Placeholder, inspirational site.")'>Browse our information hub articles.</a></div><!-- TODO -->
+      <div style='text-align: center'>
+        <h4>Or you can contact us:</h4>
+        <div>
+          <div>Phone: 0407 CHALET</div>
+          <div>Email: <a href='mailto:bookings@bogongroverchalet.org.au'>bookings@bogongroverchalet.org.au</a></div>
+          <div><a href='https://www.facebook.com/BogongRoverChalet'>Facebook</a></div>
+        </div>
+      </div>
+    </div>
+  </article>
+</section>
+<script src='https://rawgit.com/cferdinandi/smooth-scroll/master/dist/js/smooth-scroll.js'></script>
+<script>
+  new SmoothScroll('[data-scroll]', { easing: 'easeOutQuad' })
+  Array.from(document.querySelectorAll('[data-scroll], .tab-item a, .tab-contents a[href^="#"]')).forEach(function(el) {
+    el.onclick = function(event) {
+      var st = document.body.scrollTop
+      event.preventDefault()
+      window.location.href = this.href
+      document.body.scrollTop = st
+    }
+  })
+</script>
