@@ -36,3 +36,12 @@ collections: # A list of collections the CMS should be able to edit
         file: "index.html"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
+  - name: "layout"
+    label: "Layout"
+    create: true
+    files:
+      - name: "default"
+        label: "Default"
+        file: "_layouts/default.html"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
