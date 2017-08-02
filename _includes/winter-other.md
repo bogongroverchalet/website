@@ -1,7 +1,3 @@
----
-title: Winter Other
----
-
 Even non-Scouts are welcome at the Bogong Rover Chalet.
 
 In winter we have visits from groups from walkings clubs, but we also have visits

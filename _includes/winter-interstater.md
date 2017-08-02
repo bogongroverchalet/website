@@ -1,7 +1,3 @@
----
-title: Winter Interstater
----
-
 A week at the Bogong Rover Chalet makes for the highlight of any Rover or
 Venturer year.
 
