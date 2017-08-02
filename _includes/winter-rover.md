@@ -1,6 +1,7 @@
 ---
 title: Winter Rover
 ---
+
 _The jewel of the Rover section._
 
 The Bogong Rover Chalet is a owned and managed by the Rover section. And that
