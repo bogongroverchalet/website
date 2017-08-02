@@ -83,13 +83,11 @@ layout: default
     </div>
     <div class='row' style='max-height: 13em;'>
       <div class='cell'>
-        {% capture main_overview %}{% include main-overview.md %}{% endcapture %}
-        {{ main_overview | markdownify }}
+        {% include_markdown main-overview.md %}
       </div>
       <div class='cell'>
         <h4>News</h4>
-        {% capture news %}{% include news.md %}{% endcapture %}
-        {{ news | markdownify }}
+        {% include_markdown news.md %}
       </div>
       <div class='cell'>
         <h4>Testimonials</h4>
@@ -153,24 +151,19 @@ layout: default
         </ul>
         <div class='tab-contents' style='padding: 1em;'>
           <div data-id='winter-overview'>
-            {% capture winter_overview %}{% include winter-overview.md %}{% endcapture %}
-            {{ winter_overview | markdownify }}
+            {% include_markdown winter-overview.md %}
           </div>
           <div data-id='winter-venturer'>
-            {% capture winter_venturer %}{% include winter-venturer.md %}{% endcapture %}
-            {{ winter_venturer | markdownify }}
+            {% include_markdown winter-venturer.md %}
           </div>
           <div data-id='winter-rover'>
-            {% capture winter_rover %}{% include winter-rover.md %}{% endcapture %}
-            {{ winter_rover | markdownify }}
+            {% include_markdown winter-rover.md %}
           </div>
           <div data-id='winter-interstater'>
-            {% capture winter_interstater %}{% include winter-interstater.md %}{% endcapture %}
-            {{ winter_interstater | markdownify }}
+            {% include_markdown winter-interstater.md %}
           </div>
           <div data-id='winter-other'>
-            {% capture winter_other %}{% include winter-other.md %}{% endcapture %}
-            {{ winter_other | markdownify }}
+            {% include_markdown winter-other.md %}
           </div>
         </div>
       </div>
@@ -182,12 +175,10 @@ layout: default
   <article>
     <div class='row row--padding'>
       <div>
-        {% capture summer_left %}{% include summer-left.md %}{% endcapture %}
-        {{ summer_left | markdownify }}
+        {% include_markdown summer-left.md %}
       </div>
       <div>
-        {% capture summer_right %}{% include summer-right.md %}{% endcapture %}
-        {{ summer_right | markdownify }}
+        {% include_markdown summer-right.md %}
       </div>
     </div>
     <hr style='max-width: 30em; margin-top: 2em;'>
