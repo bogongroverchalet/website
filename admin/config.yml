@@ -35,9 +35,10 @@ collections: # A list of collections the CMS should be able to edit
         label: "Homepage"
         file: "index.html"
         fields:
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Body", name: "body", widget: "text"}
   - name: "layout"
     label: "Layout"
     folder: "_layouts"
+    create: true
     fields:
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "text"}
