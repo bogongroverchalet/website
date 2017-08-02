@@ -38,10 +38,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Body", name: "body", widget: "markdown"}
   - name: "layout"
     label: "Layout"
-    create: true
-    files:
-      - name: "default"
-        label: "Default"
-        file: "_layouts/default.html"
-        fields:
-          - {label: "Body", name: "body", widget: "markdown"}
+    folder: "_layouts"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
