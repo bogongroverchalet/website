@@ -79,14 +79,13 @@ layout: default
       </small>
     </h1>
     <div style='text-align: center'>
-      <a class='button button-primary' href='http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=74559'>Book now!</a>
+      <a class='button button-primary' href='{{ site.booknow }}'>Book now!</a>
     </div>
     <div class='row' style='max-height: 13em;'>
       <div class='cell'>
         {% include_markdown main-overview.md %}
       </div>
       <div class='cell'>
-        <h4>News</h4>
         {% include_markdown news.md %}
       </div>
       <div class='cell'>
