@@ -100,25 +100,7 @@ layout: default
   <article class='article__winter'>
     <div class='row row__not-narrow row--padding'>
       <div>
-        <h4 onclick='this.classList.toggle("expand")' class='narrow-shrink-origin' style='text-align: center;'><span class='under-desktop'><button class='material-icons no-style'>expand_more</button> </span>Dates</h4>
-        <div class='narrow-shrink'>
-          <table class='dates'>
-            <tr><td>Vic Snow Venture 1</td><td>Jun 25th – Jul 2nd</td></tr>
-            <tr><td>Ski Week X</td><td>Jul 2nd – Jul 9th</td></tr>
-            <tr><td>Ski Moot</td><td>Jul 9th – Jul 16th</td></tr>
-            <tr><td>SA Snow Venture</td><td>Jul 15th – Jul 24th</td></tr>
-            <tr><td>Ski Week X</td><td>Jul 23rd – July 30th</td></tr>
-            <tr><td>Ski Week X</td><td>July 30th – Aug 6th</td></tr>
-            <tr><td>Ski Week X</td><td>Aug 6th – Aug 13th</td></tr>
-            <tr><td>Ski Week 8a</td><td>Aug 13th – Aug 17th</td></tr>
-            <tr><td>Ski Week 8b</td><td>Aug 17th – Aug 20th</td></tr>
-            <tr><td>Ski Week X</td><td>Aug 20th – Aug 27th</td></tr>
-            <tr><td>Ski Week X</td><td>Aug 27th – Sep 3rd</td></tr>
-            <tr><td>Ski Week X</td><td>Sep 3rd – Sep 10th</td></tr>
-            <tr><td>Ski Week X</td><td>Sep 10th – Sep 17th</td></tr>
-            <tr><td>Vic Snow Venture 2</td><td>Sep 16th – Sep 24th</td></tr>
-          </table>
-        </div>
+        {% include_markdown dates.md %}
       </div>
       <div>
         <span id='winter-overview'></span>

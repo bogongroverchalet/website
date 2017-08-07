@@ -246,8 +246,13 @@ input
   margin: 0 auto 1em
   overflow: auto
 
-.dates td
-  width: 10em
+  td
+    width: 10em
+
+  .material-icons
+    font-size: 1em
+    line-height: inherit
+    vertical-align: bottom
 
 button
   cursor: pointer
@@ -354,6 +359,13 @@ main
     max-height: 0em
     overflow: none
     transition: max-height 0.3s
+
+.narrow-shrink-origin .expand-more
+  transition: transform 0.5s
+  vertical-align: bottom
+.narrow-shrink-origin.expand .expand-more
+  transform: rotate(180deg)
+
 .only-mobile
   +above-mobile
     display: none
