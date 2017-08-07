@@ -10,4 +10,4 @@ from general members of the public.
 Even if you're not a member of the Scout Association, you can still book and
 come to the Bogong Rover Chalet.
 
-[Book now!](http://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=74559)
+[Book now!]({{ site.booknow }})

@@ -13,4 +13,4 @@ party environment.
 Any Ski Week is open to Rovers, but our [Ski Moots](#TODO_ROVER_SKI_MOOT) are
 the best of the best.
 
-[Book now!](#TODO_ROVER_BOOK)
+[Book now!]({{ site.booknow }})
