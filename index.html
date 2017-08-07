@@ -186,15 +186,3 @@ layout: default
     </div>
   </article>
 </section>
-<script src='https://rawgit.com/cferdinandi/smooth-scroll/master/dist/js/smooth-scroll.js'></script>
-<script>
-  new SmoothScroll('[data-scroll]', { easing: 'easeOutQuad' })
-  Array.from(document.querySelectorAll('[data-scroll], .tab-item a, .tab-contents a[href^="#"]')).forEach(function(el) {
-    el.onclick = function(event) {
-      var st = document.body.scrollTop
-      event.preventDefault()
-      window.location.href = this.href
-      document.body.scrollTop = st
-    }
-  })
-</script>
