@@ -14,8 +14,8 @@ tabs:
 ---
 
 <header id='top' class='main-header'>
-  <div class='row' style='max-width: 60em; margin: 0 auto;'>
-    <h2 class='not-mobile'>
+  <div class='row not-mobile' style='max-width: 60em; margin: 0 auto;'>
+    <h2>
       The Bogong Rover Chalet
       <a style='margin-left: 0.5em' href='https://www.facebook.com/BogongRoverChalet'><small class='fa fa-facebook-square'></small></a>
     </h2>
@@ -35,11 +35,27 @@ tabs:
       <a href='{{ site.knowledge }}'>Or have a browse.</a>
     </div>
   </div>
+  <div class='only-mobile'>
+    <h2>
+      <button data-js='menu' class='material-icons no-style' style='color: white; font-size: 120%; vertical-align: bottom; padding: 0'>menu</button>
+      <script>
+        document.querySelector('[data-js=menu]').addEventListener('click', function() {
+          document.body.classList.toggle('mobile-nav-visible')
+          Array.from(document.querySelectorAll('.side-nav a')).forEach(function(el) {
+            el.addEventListener('click', function(e) {
+              document.body.classList.remove('mobile-nav-visible')
+            })
+          })
+        })
+      </script>
+      Bogong Rover Chalet
+      <a style='margin-left: 0.5em' href='https://www.facebook.com/BogongRoverChalet'><small class='fa fa-facebook-square'></small></a>
+    </h2>
+  </div>
 </header>
 <nav class='side-nav'>
   <ul>
     <a data-scroll href='#top' class='dark' style='background-color: green;'>
-
       <li>
         Top
       </li>
@@ -64,20 +80,27 @@ tabs:
         Summer
       </li>
     </a>
-    <a data-scroll href='#more-info' class='dark' style='background-color: #999;'>
+    <a data-scroll href='#more-info' class='dark not-mobile' style='background-color: #999;'>
       <li>
         More info
+      </li>
+    </a>
+    <a href='{{ site.knowledge }}' class='dark only-mobile' style='background-color: #999;'>
+      <li>
+        Information hub
+      </li>
+    </a>
+    <a href='#' onclick='window.event.preventDefault()' class='dark only-mobile' style='background-color: #333;'>
+      <li>
+        Close menu
       </li>
     </a>
   </ul>
 </nav>
 <main class='pos-rel'> <!-- xxxstyle='margin-bottom: 20%'> -->
   <div class='hero-image hero-image__main not-mobile'></div>
-  <h1 style='text-align: center' class='only-mobile'>
-    Bogong Rover Chalet
-  </h1>
   <div class='hero-image hero-image__main only-mobile'></div>
-  <h3 style='text-align: center' class='only-mobile'>
+  <h3 style='text-align: center; margin: 0.5em 0.25em' class='only-mobile'>
     A magical place in Victoria's Highcountry
   </h3>
   <article class='article__main'>
@@ -158,7 +181,7 @@ tabs:
           </li>
           {% endfor %}
         </ul>
-        <div class='tab-contents' style='padding: 1em;'>
+        <div class='tab-contents'>
           {% for tab in page.tabs %}
           <div data-id='{{ tab.href }}'>
             {% include_markdown {{ tab.href }}.md %}
@@ -191,22 +214,22 @@ tabs:
     </div>
   </article>
 </section>
-<section id='more-info' class='hero-image' style='background: rgba(200, 200, 200, 1);'>
+<section id='more-info' class='hero-image' style='background: rgba(200, 200, 200, 1); padding-bottom: 1em'>
   <h2 style='background: rgba(220, 220, 220, 1); border-color: rgba(200, 200, 200, 1);'>More info</h2>
   <article>
     <div>
       <h3 style='text-align: center'>Need to know something else?</h3>
       <div style='text-align: center;'>
-        <form action='{{ site.search }}' method='get' style='display: inline-block; position: relative;'>
-          <input required name='q' type='search' placeholder='Search our information hub.' style='font-size: 1.6em; width: 14em; padding-right: 1.25em;'>
+        <form action='{{ site.search }}' method='get' style='display: inline-block; position: relative; max-width: 100%;'>
+          <input required name='q' type='search' placeholder='Search our information hub.' style='font-size: 1.6em; width: 14em; padding-right: 1.25em; max-width: 100%;'>
           <button class='fa fa-search no-style' style='position: absolute; top: 0; bottom: 0; right: 0.5em;'></button>
         </form>
       </div>
-      <div style='text-align: center'><a href='{{ site.knowledge }}'>Browse our information hub articles.</a></div>
+      <div style='text-align: center; margin: 0.75em 0;'><a href='{{ site.knowledge }}'>Browse our information hub articles.</a></div>
       <div style='text-align: center'>
         <h4>Or you can contact us:</h4>
-        <div>
-          <div>Phone: 0407 CHALET</div>
+        <div class='footer-links'>
+          <div>Phone: <a href='tel:+61407242538'>0407 CHALET</a></div>
           <div>Email: <a href='mailto:bookings@bogongroverchalet.org.au'>bookings@bogongroverchalet.org.au</a></div>
           <div><a href='https://www.facebook.com/BogongRoverChalet'>Facebook</a></div>
         </div>

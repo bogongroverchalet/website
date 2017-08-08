@@ -12,4 +12,4 @@ Most weeks are open to anyone over 18 (Scout member or not), although some weeks
 
 External group bookings are also taken, subject to availability. <i class='material-icons' title='Weeks 11 and 12 are often available.'>help_outline</i>
 
-[How's it work?](#INFO_BASIC)
+[How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/)

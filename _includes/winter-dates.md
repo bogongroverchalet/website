@@ -1,10 +1,7 @@
-<h4 class='narrow-shrink-origin' style='text-align: center;'>
-  <span onclick='this.parentNode.classList.toggle("expand")'>
-    <button class='under-desktop material-icons no-style expand-more'>expand_more</button>
-    Dates
-  </span>
+<h4 style='text-align: center;'>
+  Dates
 </h4>
-<div class='narrow-shrink'>
+<div class='dates-container'>
   <table class='dates'>
     <tr><td>Vic Snow Venture 1</td><td>Jul 1st – Jul 8th</td></tr>
     <tr><td>Ski Week 2</td><td>Jul 8th – Jul 15th</td></tr>

@@ -34,6 +34,9 @@ $desktop-width: 1024px
   @media (max-width: #{$desktop-width - 1px})
     @content
 
+a
+  text-decoration: underline
+
 .under-desktop
   +desktop
     display: none
@@ -46,14 +49,32 @@ body
   xxxmin-width: 1350px
   overflow: auto
 
+  +mobile
+    padding-top: 4.1em
+  @media (max-width: 500px)
+    padding-top: 3em
+
 .main-header
   background: #333
   color: white
   @media (max-width: 70em)
     padding: 0 1em
+  +mobile
+    position: fixed
+    top: 0
+    left: 0
+    right: 0
+    z-index: 1
   h2
     +under-desktop
       margin-top: 0
+  h2
+    +mobile
+      padding: 0.5em 0
+      margin: 0
+      font-size: 1.9em
+    @media (max-width: 500px)
+      font-size: 1.4em
 
 .header__got-questions
   +under-tablet
@@ -131,7 +152,7 @@ article
   position: fixed
   +mobile
     z-index: 10000
-    top: 2em
+    top: 4em
     transform: translateX(-100%)
     transition: transform 0.3s
   +above-mobile
@@ -151,6 +172,8 @@ article
   list-style: none
   padding-left: 0
   margin-left: 0
+  +mobile
+    margin: 0
 
 .side-nav a
   height: 2em
@@ -283,20 +306,22 @@ $all-winter-tabs: append($winter-tabs, overview)
     color: #3b49af
 
 .tab-contents
-  height: 16em
   overflow: auto
   position: relative
+  +above-mobile
+    height: 16em
 
 .tab-contents [data-id]
-  position: absolute
   opacity: 0
   height: 0
   overflow: hidden
   pointer-events: none
   transition: opacity 0.3s, height 0.1s
-  padding: 1rem
-  left: 0
-  right: 0
+  +above-mobile
+    position: absolute
+    padding: 1rem
+    left: 0
+    right: 0
 
 .tab-contents [data-id='winter-overview']
   opacity: 1
@@ -330,6 +355,15 @@ p .material-icons
     padding: 1em
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)
 
+.article__winter
+  &, .nav .nav-item a
+    color: #333
+  .nav .nav-item a:hover
+    color: white
+  .tab-contents
+    +above-mobile
+      padding: 0 1em
+
 .hero-image
   background: rgba(0, 200, 0, 1)
   background-size: cover
@@ -355,14 +389,10 @@ main
     padding-bottom: 55%
     height: 0
 
-.narrow-shrink
-  &, .narrow-shrink-origin.expand ~ &
+.dates-container
+  +above-tablet
     max-height: 16em
     overflow-y: auto
-  +under-desktop
-    max-height: 0em
-    overflow: none
-    transition: max-height 0.3s
 
 .expand-more
   transition: transform 0.5s
@@ -372,15 +402,16 @@ main
 
 .only-mobile
   +above-mobile
-    display: none
+    display: none !important
 .not-mobile
   +mobile
-    display: none
+    display: none !important
 
 .drop-content
   max-width: 20em
 
 .mobile-tabs__expand
+  text-align: center
   +mobile
     overflow: hidden
     transition: max-height 0.3s
@@ -398,5 +429,16 @@ main
 .row .cell
   +under-desktop
     margin: 0
+
+.testimonials-body
+  +above-mobile
+    max-height: 9em
+    overflow: auto
+
+.footer-links > *
+  margin-bottom: 0.75em
+
+::placeholder, [placeholder]
+  text-overflow: ellipsis
 
 @import "drop"
