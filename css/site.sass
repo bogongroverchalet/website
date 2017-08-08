@@ -104,7 +104,8 @@ h1, h2, h3, h4, h5, h6
     justify-content: space-between
 
 .row--padding > div
-  padding: 0 1em
+  +above-mobile
+    padding: 0 1em
 
 .row--padding > div:first-child
   padding-left: 0
@@ -245,8 +246,9 @@ input
   border-radius: 0.25em
 
 .dates
-  margin: 0 auto 1em
   overflow: auto
+  +above-mobile
+    margin: 0 auto 1em
 
   td
     width: 10em
@@ -362,10 +364,10 @@ main
     overflow: none
     transition: max-height 0.3s
 
-.narrow-shrink-origin .expand-more
+.expand-more
   transition: transform 0.5s
   vertical-align: bottom
-.narrow-shrink-origin.expand .expand-more
+.expand .expand-more
   transform: rotate(180deg)
 
 .only-mobile
@@ -377,5 +379,24 @@ main
 
 .drop-content
   max-width: 20em
+
+.mobile-tabs__expand
+  +mobile
+    overflow: hidden
+    transition: max-height 0.3s
+    max-height: 0em
+.mobile-tabs__expand--expanded
+  max-height: 12em
+
+.only-mobile.dates-container
+  margin-top: 1em
+  padding-bottom: 1em
+
+.main-content__row
+  +above-mobile
+    max-height: 13em
+.row .cell
+  +under-desktop
+    margin: 0
 
 @import "drop"

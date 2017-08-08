@@ -1,5 +1,16 @@
 ---
 layout: default
+tabs:
+  - href: winter-overview
+    title: Overview
+  - href: winter-venturer
+    title: Venturer
+  - href: winter-rover
+    title: Rover
+  - href: winter-interstater
+    title: Interstater
+  - href: winter-other
+    title: Other
 ---
 
 <header id='top' class='main-header'>
@@ -15,13 +26,13 @@ layout: default
     </div>
     <div class='header__search'>
       <div class='header__search__wrapper'>
-        <form action='https://duckduckgo.com/?site%3Abogongroverchalet.org.au&ia=web' method='get' style='display: inline-block; position: relative;'>
+        <form action='{{ site.search }}' method='get' style='display: inline-block; position: relative;'>
           <input id='main-search' name='q' type='search' placeholder='Search term'>
           <button class='fa fa-search no-style' style='position: absolute; top: 0; bottom: 0;'></button>
           <label for='main-search' class='like-link' style='display: inline-block;'>Search our infomation hub.</label>
         </form>
       </div>
-      <a href='http://help.dobt.co/articles/screendoor/' onclick='alert("Placeholder, inspirational site.")'>Or have a browse.</a><!-- TODO -->
+      <a href='{{ site.knowledge }}'>Or have a browse.</a>
     </div>
   </div>
 </header>
@@ -79,7 +90,7 @@ layout: default
     <div style='text-align: center'>
       <a class='button button-primary' href='{{ site.booknow }}'>Book now!</a>
     </div>
-    <div class='row' style='max-height: 13em;'>
+    <div class='row main-content__row'>
       <div class='cell'>
         {% include_markdown main-overview.md %}
       </div>
@@ -97,49 +108,66 @@ layout: default
   <div class='hero-image hero-image__winter'></div>
   <article class='article__winter'>
     <div class='row row__not-narrow row--padding'>
-      <div>
+      <div class='not-mobile'>
         {% include_markdown winter-dates.md %}
       </div>
       <div>
-        <span id='winter-overview'></span>
-        <span id='winter-venturer'></span>
-        <span id='winter-rover'></span>
-        <span id='winter-interstater'></span>
-        <span id='winter-other'></span>
-        <ul class='tab tab-block'>
-          <li class='tab-item'>
-            <a href='#winter-overview'>Overview</a>
+        {% for tab in page.tabs %}
+          <span id='{{ tab.href }}'></span>
+        {% endfor %}
+        <div class='only-mobile'>
+          <h4 data-js='winter-tab-target' style='text-align: center;'>
+          <span>
+            <button style='vertical-align: bottom' class='under-desktop material-icons no-style expand-more'>expand_more</button>
+            <span data-js="winter-tab-target-text">Overview</span>
+          </span>
+          </h4>
+          <script>
+            var clickTarget = document.querySelector('[data-js="winter-tab-target"]')
+            clickTarget.onclick = toggleExpand
+            function toggleExpand(e) {
+              clickTarget.parentNode.classList.toggle('expand')
+              document.querySelector('.mobile-tabs__expand').classList.toggle('mobile-tabs__expand--expanded')
+            }
+            document.querySelector('[data-js="winter-tab-target"]').parentNode.parentNode.onclick = function(e) {
+              if( !(e.target.tagName === 'A' && e.target.href) ) return
+              toggleExpand()
+            }
+            window.addEventListener('hashchange', updateHash)
+            function updateHash() {
+              var title = document.querySelector('[data-js="winter-tab-target-text"]').innerText
+              var newTitleEl = document.querySelector('.nav-item [href="' + window.location.hash + '"]')
+              if(!newTitleEl) return
+              var newTitle = newTitleEl.innerText
+              document.querySelector('[data-js="winter-tab-target-text"]').innerText = newTitle
+            }
+            updateHash()
+          </script>
+        </div>
+        <ul class='nav only-mobile mobile-tabs__expand'>
+          {% for tab in page.tabs %}
+          <li class='nav-item'>
+            <a href='#{{ tab.href }}'>{{ tab.title }}</a>
           </li>
+          {% endfor %}
+        </ul>
+        <ul class='tab tab-block not-mobile'>
+          {% for tab in page.tabs %}
           <li class='tab-item'>
-            <a href='#winter-venturer'>Venturer</a>
+            <a href='#{{ tab.href }}'>{{ tab.title }}</a>
           </li>
-          <li class='tab-item'>
-            <a href='#winter-rover'>Rover</a>
-          </li>
-          <li class='tab-item'>
-            <a href='#winter-interstater'>Interstater</a>
-          </li>
-          <li class='tab-item'>
-            <a href='#winter-other'>Other</a>
-          </li>
+          {% endfor %}
         </ul>
         <div class='tab-contents' style='padding: 1em;'>
-          <div data-id='winter-overview'>
-            {% include_markdown winter-overview.md %}
+          {% for tab in page.tabs %}
+          <div data-id='{{ tab.href }}'>
+            {% include_markdown {{ tab.href }}.md %}
           </div>
-          <div data-id='winter-venturer'>
-            {% include_markdown winter-venturer.md %}
-          </div>
-          <div data-id='winter-rover'>
-            {% include_markdown winter-rover.md %}
-          </div>
-          <div data-id='winter-interstater'>
-            {% include_markdown winter-interstater.md %}
-          </div>
-          <div data-id='winter-other'>
-            {% include_markdown winter-other.md %}
-          </div>
+          {% endfor %}
         </div>
+      </div>
+      <div class='only-mobile dates-container'>
+        {% include_markdown winter-dates.md %}
       </div>
     </div>
   </article>
@@ -169,12 +197,12 @@ layout: default
     <div>
       <h3 style='text-align: center'>Need to know something else?</h3>
       <div style='text-align: center;'>
-        <form action='https://duckduckgo.com/?site%3Abogongroverchalet.org.au&ia=web' method='get' style='display: inline-block; position: relative;'>
+        <form action='{{ site.search }}' method='get' style='display: inline-block; position: relative;'>
           <input required name='q' type='search' placeholder='Search our information hub.' style='font-size: 1.6em; width: 14em; padding-right: 1.25em;'>
           <button class='fa fa-search no-style' style='position: absolute; top: 0; bottom: 0; right: 0.5em;'></button>
         </form>
       </div>
-      <div style='text-align: center'><a href='http://help.dobt.co/articles/screendoor/' onclick='alert("Placeholder, inspirational site.")'>Browse our information hub articles.</a></div><!-- TODO -->
+      <div style='text-align: center'><a href='{{ site.knowledge }}'>Browse our information hub articles.</a></div>
       <div style='text-align: center'>
         <h4>Or you can contact us:</h4>
         <div>
