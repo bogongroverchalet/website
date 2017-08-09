@@ -15,7 +15,7 @@
   <!-- <script src='{{site.baseurl}}/js/site.js'></script> -->
   <script src='/js/site.js'></script>
   <script>
-    document.querySelectorAll('[title]:not([title=""])').forEach( (e) => {
+    document.querySelectorAll('[title]:not([title=""])').forEach(function(e) {
       new Drop({
         target: e,
         content: e.title,

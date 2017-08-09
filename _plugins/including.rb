@@ -1,5 +1,3 @@
-require 'yajl'
-
 module Jekyll
   class IncludeMarkdown < Jekyll::Tags::IncludeTag
     def render(context)
@@ -7,7 +5,7 @@ module Jekyll
       arr = text.split(/^---$/)
       for_out = arr.size > 2 ? arr[2] : arr[0]
       site = context.registers[:site]
-      converter = site.getConverterImpl(Jekyll::Converters::Markdown)
+      converter = site.find_converter_instance(Jekyll::Converters::Markdown)
       converter.convert(for_out)
     end
   end

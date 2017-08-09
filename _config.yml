@@ -13,3 +13,6 @@ search: "https://info.bogongroverchalet.org.au/search/"
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-minifier
