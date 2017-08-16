@@ -7,6 +7,7 @@
       <tr><td>Working bee</td><td>4 Nov - 7 Nov</td></tr>
       <tr><td>Working bee</td><td>26 Jan - 28 Jan</td></tr>
       <tr><td>Working bee</td><td>30 Mar - 2 Apr</td></tr>
+      <tr><td>Mountain Bike Weekend</td><td>(TBC) Easter School Holidays</td></tr>
     </table>
   </div>
 </div>
