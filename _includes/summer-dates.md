@@ -1,4 +1,4 @@
-<h4>Dates</h4>
+<h4 id='summer-dates'>Dates</h4>
 <div>
   <i>Below is our table of key Summer dates, but that's not the only time you can visit in Summer!</i>
   <div style='text-align: center'>
