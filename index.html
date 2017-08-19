@@ -121,7 +121,12 @@ tabs:
         {% include_markdown news.md %}
       </div>
       <div class='cell'>
-        {% include_markdown testimonials.md %}
+        <h4>Testimonials</h4>
+        <div class='testimonials-body'>
+          {% for t in site.data.testimonials %}
+          <p>{{ t.body }} <span>— {{ t.author }}</span></p>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </article>
