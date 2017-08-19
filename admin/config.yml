@@ -42,4 +42,4 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Order", name: "order", widget: "number"}
-      - {label: "Category", name: "category", widget: "hidden", value: "testimonials"}
+      - {label: "Category", name: "category", widget: "hidden", default: "testimonials"}
