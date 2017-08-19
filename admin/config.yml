@@ -12,6 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Snippet" # Used in the UI, ie.: "New Post"
     folder: "_includes"
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "hidden"}
       - {label: "Description", name: "description", widget: "text"}
@@ -37,6 +38,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "testimonials"
     label: "Testimonial"
     folder: "_posts/testimonials"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "text"}
