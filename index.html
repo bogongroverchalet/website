@@ -123,8 +123,9 @@ tabs:
       <div class='cell'>
         <h4>Testimonials</h4>
         <div class='testimonials-body'>
-          {% for t in site.data.testimonials %}
-          <p>{{ t.body }} <span>— {{ t.author }}</span></p>
+          {% assign testimonials = site.categories.testimonials | sort: "order" %}
+          {% for t in testimonials | sort: "order" %}
+          {{ t }}
           {% endfor %}
         </div>
       </div>

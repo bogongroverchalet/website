@@ -41,3 +41,5 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Author", name: "title", widget: "text"}
       - {label: "Body", name: "body", widget: "text"}
+      - {label: "Order", name: "order", widget: "number"}
+      - {label: "Order", name: "order", widget: "hidden", value: "category"}
