@@ -8,7 +8,7 @@ The [South Australian](#winter-interstater) week is organised separately to norm
 
 The remaining two Venturer weeks are available to any Venturer (or close friend [we've even had exchange students!]).
 
-We help organise all your ski gear and coordinate transport (often with help from friendly parents ;-) ) from Melbourne. <i class='material-icons' onclick='alert(this.title);' title='We depart from Heathmont, or if you&#39;re not from Melbourne (or even Victoria), we can still usually help!'>help_outline</i>
+We help organise all your ski gear and coordinate transport (often with help from friendly parents ;-) ) from Melbourne. <i class='material-icons' title='We depart from Heathmont, or if you&#39;re not from Melbourne (or even Victoria), we can still usually help!'>help_outline</i>
 
 Venturer weeks are an amazing experience for an incredibly low price, and can even be used for badgework.
 
