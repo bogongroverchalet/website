@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "hidden"}
-      - {label: "Description", name: "description", widget: "hidden"}
+      - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "page"
     label: "Page"
@@ -34,13 +34,13 @@ collections: # A list of collections the CMS should be able to edit
         file: "_layouts/default.html"
         fields:
           - {label: "Body", name: "body", widget: "text"}
-  - name: "testimonials"
-    label: "Testimonial" # Used in the UI, ie.: "New Post"
-    create: true
+  - name: "data"
+    label: "Data"
     files:
       - name: "testimonials"
         label: "Testimonials"
         file: "_data/testimonials.yml"
+        create: true
         fields:
           - {label: "Author", name: "author", widget: "text"}
           - {label: "Body", name: "body", widget: "text"}
