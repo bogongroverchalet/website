@@ -39,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_posts/testimonials"
     create: true
     fields:
-      - {label: "Author", name: "title", widget: "text"}
+      - {label: "Title", name: "title", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Order", name: "order", widget: "number"}
       - {label: "Category", name: "category", widget: "hidden", value: "testimonials"}
