@@ -124,7 +124,7 @@ tabs:
         <h4>Testimonials</h4>
         <div class='testimonials-body'>
           {% assign testimonials = site.categories.testimonials | sort: "order" %}
-          {% for t in testimonials | sort: "order" %}
+          {% for t in testimonials %}
           {{ t }}
           {% endfor %}
         </div>
