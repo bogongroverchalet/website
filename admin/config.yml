@@ -35,9 +35,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: "Body", name: "body", widget: "text"}
   - name: "testimonials"
-    label: "Testimonials"
-    file: "_data/testimonials.yml"
+    label: "Testimonial"
+    folder: "_posts/testimonials"
     create: true
     fields:
-      - {label: "Author", name: "author", widget: "text"}
+      - {label: "Author", name: "title", widget: "text"}
       - {label: "Body", name: "body", widget: "text"}
