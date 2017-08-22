@@ -43,5 +43,5 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Title", name: "title", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Order", name: "order", widget: "number", step: 1, min: 0, type: "int"}
+      - {label: "Order", name: "order", widget: "number", step: 1, min: 0, valueType: "int"}
       - {label: "Category", name: "category", widget: "hidden", default: "testimonials"}
