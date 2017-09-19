@@ -306,11 +306,13 @@ $all-winter-tabs: append($winter-tabs, overview)
     border-bottom-color: #3b49af
     color: #3b49af
 
+$winter-container-height: 17em
+
 .tab-contents
   overflow: auto
   position: relative
   +above-mobile
-    height: 16em
+    height: $winter-container-height
 
 .tab-contents [data-id]
   opacity: 0
@@ -392,7 +394,7 @@ main
 
 .dates-container
   +above-tablet
-    max-height: 16em
+    max-height: $winter-container-height
     overflow-y: auto
 
 .expand-more
