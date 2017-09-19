@@ -19,7 +19,8 @@
 
 /contact-us/ https://info.bogongroverchalet.org.au/about/contact/ 302
 
-/about-us/ https://info.bogongroverchalet.org.au/category/about/ 302
+/about-us/chalet-history/ https://info.bogongroverchalet.org.au/about/history/ 302
+/about-us/* https://info.bogongroverchalet.org.au/category/about/ 302
 
 /merchandise/ https://info.bogongroverchalet.org.au/about/merchandise/ 302
 
