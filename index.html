@@ -153,15 +153,15 @@ tabs:
           </h4>
           <script>
             var clickTarget = document.querySelector('[data-js="winter-tab-target"]')
-            clickTarget.onclick = toggleExpand
+            clickTarget.addEventListener('click', toggleExpand)
             function toggleExpand(e) {
               clickTarget.parentNode.classList.toggle('expand')
               document.querySelector('.mobile-tabs__expand').classList.toggle('mobile-tabs__expand--expanded')
             }
-            document.querySelector('[data-js="winter-tab-target"]').parentNode.parentNode.onclick = function(e) {
+            document.querySelector('[data-js="winter-tab-target"]').parentNode.parentNode.addEventListener('click', function(e) {
               if( !(e.target.tagName === 'A' && e.target.href) ) return
               toggleExpand()
-            }
+            })
             window.addEventListener('hashchange', updateHash)
             function updateHash() {
               var title = document.querySelector('[data-js="winter-tab-target-text"]').innerText
@@ -201,6 +201,15 @@ tabs:
     </div>
   </article>
 </section>
+<script>
+  Array.from(document.querySelectorAll('#winter a[href^="#"]')).forEach(function(el){
+    el.addEventListener('click', function(e) {
+      var x = window.pageXOffset
+        , y = window.pageYOffset
+      window.requestAnimationFrame(function() { window.scrollTo(x, y) })
+    })
+  })
+</script>
 <section id='summer' class='hero-image' style='background: rgba(255, 255, 0, 1); font-size: 120%;'>
   <h2 style='background: rgba(255, 255, 120, 1); border-color: rgba(255, 255, 0, 1);'>Summer</h2>
   <article>
