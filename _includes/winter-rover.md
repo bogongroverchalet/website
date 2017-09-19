@@ -14,3 +14,5 @@ Any Ski Week is open to Rovers, but our Ski Moots <i class='material-icons'
 title='Ski Week 4 and Ski Week 10.'>info_outline</i> are the best of the best.
 
 [Book now!]({{ site.booknow }})
+
+[How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
