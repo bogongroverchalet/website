@@ -9,4 +9,8 @@ Rover Chalet this year".
 
 [Book now]({{ site.booknow }}) while spots last.
 
+#### News: AGM Oct 11
+
+The BCMG AGM is coming up, [find out more](https://www.facebook.com/events/439361193129406/).
+
 [More news.](https://www.facebook.com/BogongRoverChalet/)
