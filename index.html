@@ -1,6 +1,6 @@
 ---
 layout: default
-tabs:
+winter_tabs:
   - href: winter-overview
     title: Overview
   - href: winter-venturer
@@ -11,6 +11,11 @@ tabs:
     title: Interstater
   - href: winter-other
     title: Other
+summer_tabs:
+  - href: summer-overview
+    title: Overview
+  - href: summer-book
+    title: Book
 ---
 
 <script>
@@ -24,7 +29,7 @@ if(target) {
 
 <header id='top' class='main-header'>
   <div class='row not-mobile' style='max-width: 60em; margin: 0 auto;'>
-    <h2>
+    <h2 style='margin-bottom: 0'>
       The Bogong Rover Chalet
       <a style='margin-left: 0.5em' href='https://www.facebook.com/BogongRoverChalet'><small class='fa fa-facebook-square'></small></a>
     </h2>
@@ -150,14 +155,14 @@ if(target) {
         {% include_markdown winter-dates.md %}
       </div>
       <div>
-        {% for tab in page.tabs %}
+        {% for tab in page.winter_tabs %}
           <span id='{{ tab.href }}'></span>
         {% endfor %}
         <div class='only-mobile'>
-          <h4 data-js='winter-tab-target' style='text-align: center;'>
+          <h4 data-js='winter-tab-target'>
           <span>
-            <button style='vertical-align: bottom' class='under-desktop material-icons no-style expand-more'>expand_more</button>
             <span data-js="winter-tab-target-text">Overview</span>
+            <button style='vertical-align: bottom' class='under-desktop material-icons no-style expand-more'>expand_more</button>
           </span>
           </h4>
           <script>
@@ -183,21 +188,21 @@ if(target) {
           </script>
         </div>
         <ul class='nav only-mobile mobile-tabs__expand'>
-          {% for tab in page.tabs %}
+          {% for tab in page.winter_tabs %}
           <li class='nav-item'>
             <a href='#{{ tab.href }}'>{{ tab.title }}</a>
           </li>
           {% endfor %}
         </ul>
         <ul class='tab tab-block not-mobile'>
-          {% for tab in page.tabs %}
+          {% for tab in page.winter_tabs %}
           <li class='tab-item'>
             <a href='#{{ tab.href }}'>{{ tab.title }}</a>
           </li>
           {% endfor %}
         </ul>
         <div class='tab-contents'>
-          {% for tab in page.tabs %}
+          {% for tab in page.winter_tabs %}
           <div data-id='{{ tab.href }}'>
             {% include_markdown {{ tab.href }}.md %}
           </div>
@@ -210,8 +215,48 @@ if(target) {
     </div>
   </article>
 </section>
+<section id='summer' class='hero-image pos-rel' style='background: rgba(255, 255, 0, 1);'>
+  <h2 style='background: rgba(255, 255, 120, 1); border-color: rgba(255, 255, 0, 1);'>Summer</h2>
+  <div class='hero-image hero-image__summer'></div>
+  <article class='article__summer'>
+    <div class='row row__not-narrow row--padding'>
+      <div class='not-mobile'>
+        {% include_markdown summer-dates.md %}
+      </div>
+      <div>
+        {% for tab in page.summer_tabs %}
+          <span id='{{ tab.href }}'></span>
+        {% endfor %}
+        <ul class='tab tab-block not-mobile'>
+          {% for tab in page.summer_tabs %}
+          <li class='tab-item'>
+            <a href='#{{ tab.href }}'>{{ tab.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+        <div class='tab-contents not-mobile'>
+          {% for tab in page.summer_tabs %}
+          <div data-id='{{ tab.href }}'>
+            {% include_markdown {{ tab.href }}.md %}
+          </div>
+          {% endfor %}
+        </div>
+        <div class='tab-contents only-mobile'>
+          {% for tab in page.summer_tabs %}
+          <div>
+            {% include_markdown {{ tab.href }}.md %}
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class='only-mobile dates-container'>
+        {% include_markdown summer-dates.md %}
+      </div>
+    </div>
+  </article>
+</section>
 <script>
-  Array.from(document.querySelectorAll('#winter a[href^="#"]')).forEach(function(el){
+  Array.from(document.querySelectorAll('#winter a[href^="#"], #summer a[href^="#"]')).forEach(function(el){
     el.addEventListener('click', function(e) {
       var x = window.pageXOffset
         , y = window.pageYOffset
@@ -219,25 +264,6 @@ if(target) {
     })
   })
 </script>
-<section id='summer' class='hero-image' style='background: rgba(255, 255, 0, 1); font-size: 120%;'>
-  <h2 style='background: rgba(255, 255, 120, 1); border-color: rgba(255, 255, 0, 1);'>Summer</h2>
-  <article>
-    <div class='row row--padding'>
-      <div>
-        {% include_markdown summer-left.md %}
-      </div>
-      <div>
-        {% include_markdown summer-right.md %}
-      </div>
-    </div>
-    <hr style='max-width: 30em; margin-top: 2em;'>
-    <div class='row row--padding row--center'>
-      <div>
-        {% include_markdown summer-dates.md %}
-      </div>
-    </div>
-  </article>
-</section>
 <section id='more-info' class='hero-image' style='background: rgba(200, 200, 200, 1); padding-bottom: 1em'>
   <h2 style='background: rgba(220, 220, 220, 1); border-color: rgba(200, 200, 200, 1);'>More info</h2>
   <article>

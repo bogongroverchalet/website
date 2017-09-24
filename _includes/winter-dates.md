@@ -1,6 +1,4 @@
-<h4 style='text-align: center;'>
-  Dates
-</h4>
+<h4 class='dates-title'>Dates</h4>
 <div class='dates-container'>
   <table class='dates'>
     <tr><td>Vic Snow Venture 1</td><td>Jul 1st – Jul 8th</td></tr>

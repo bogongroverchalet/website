@@ -296,6 +296,9 @@ button.no-style
 $winter-tabs: rover venturer interstater other
 $all-winter-tabs: append($winter-tabs, overview)
 
+$summer-tabs: book
+$all-summer-tabs: append($summer-tabs, overview)
+
 @each $tab in $winter-tabs
   #winter-#{$tab}:target ~ .tab .tab-item a[href="#winter-overview"]
     color: inherit
@@ -306,13 +309,31 @@ $all-winter-tabs: append($winter-tabs, overview)
     border-bottom-color: #3b49af
     color: #3b49af
 
+.tab .tab-item a[href='#summer-overview']
+  border-bottom-color: #3b49af
+  color: #3b49af
+
+@each $tab in $summer-tabs
+  #summer-#{$tab}:target ~ .tab .tab-item a[href="#summer-overview"]
+    color: inherit
+    border-bottom-color: transparent
+
+@each $tab in $all-summer-tabs
+  #summer-#{$tab}:target ~ .tab .tab-item a[href="#summer-#{$tab}"]
+    border-bottom-color: #3b49af
+    color: #3b49af
+
 $winter-container-height: 17em
+$summer-container-height: 16em
 
 .tab-contents
   overflow: auto
   position: relative
   +above-mobile
-    height: $winter-container-height
+    #winter &
+      height: $winter-container-height
+    #summer &
+      height: $summer-container-height
 
 .tab-contents [data-id]
   opacity: 0
@@ -331,6 +352,11 @@ $winter-container-height: 17em
   pointer-events: auto
   height: auto
 
+.tab-contents [data-id='summer-overview']
+  opacity: 1
+  pointer-events: auto
+  height: auto
+
 @each $tab in $winter-tabs
   #winter-#{$tab}:target ~ .tab-contents [data-id='winter-overview']
     opacity: 0
@@ -343,12 +369,24 @@ $winter-container-height: 17em
     pointer-events: auto
     height: auto
 
+@each $tab in $summer-tabs
+  #summer-#{$tab}:target ~ .tab-contents [data-id='summer-overview']
+    opacity: 0
+    height: 0
+    pointer-events: none
+
+@each $tab in $all-summer-tabs
+  #summer-#{$tab}:target ~ .tab-contents [data-id='summer-#{$tab}']
+    opacity: 1
+    pointer-events: auto
+    height: auto
+
 p .material-icons
   font-size: 1em
   position: relative
   bottom: -0.2em
 
-.article__main, .article__winter
+.article__main, .article__winter, .article__summer
   +above-tablet
     position: absolute
     bottom: 0.5em
@@ -358,7 +396,7 @@ p .material-icons
     padding: 1em
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)
 
-.article__winter
+.article__winter, .article__summer
   &, .nav .nav-item a
     color: #333
   .nav .nav-item a:hover
@@ -366,6 +404,13 @@ p .material-icons
   .tab-contents
     +above-mobile
       padding: 0 1em
+
++mobile
+  .article__summer
+    h4
+      margin-top: 1.5em
+  #why-come-in-summer
+    margin-top: 0
 
 .hero-image
   background: rgba(0, 200, 0, 1)
@@ -377,6 +422,12 @@ p .material-icons
 .hero-image__winter
   +above-tablet
     background-image: url(../img/winter2.jpg)
+    height: 0
+    padding-bottom: 60%
+
+.hero-image__summer
+  +above-tablet
+    background-image: url(../img/summer2.jpg)
     height: 0
     padding-bottom: 60%
 
@@ -394,8 +445,15 @@ main
 
 .dates-container
   +above-tablet
-    max-height: $winter-container-height
     overflow-y: auto
+    #winter &
+      max-height: $winter-container-height
+
+.dates-title, .dates-container__winter
+  +above-tablet
+    text-align: center
+    p
+      margin: 0 auto
 
 .expand-more
   transition: transform 0.5s
@@ -414,13 +472,13 @@ main
   max-width: 20em
 
 .mobile-tabs__expand
-  text-align: center
   +mobile
     overflow: hidden
     transition: max-height 0.3s
     max-height: 0em
 .mobile-tabs__expand--expanded
-  max-height: 12em
+  max-height: 13em
+  padding-bottom: 1em
 
 .only-mobile.dates-container
   margin-top: 1em
