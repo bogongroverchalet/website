@@ -19,6 +19,5 @@
     <tr style='text-decoration: line-through' title='Booked out!'><td>Ski Week 12a</td><td>Sep 16th - Sep 19th</td></tr>
     <tr><td>Ski Week 12b <i class='material-icons' title='Join us for a half week!'>info_outline</i></td><td>Sep 19th - Sep 23rd</td></tr>
     <tr><td>Vic Snow Venture 2</td><td>Sep 23rd – Sep 30th</td></tr>
-    <tr><td>Ski Week 14 (TBC)</td><td>Sep 30th – Oct 7th</td></tr>
   </table>
 </div>
