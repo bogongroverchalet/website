@@ -132,7 +132,18 @@ if(target) {
         {% include_markdown main-overview.md %}
       </div>
       <div class='cell'>
-        {% include_markdown news.md %}
+        {% assign news = site.categories.news %}
+        {% for n in news %}
+          {% if n.expires %}
+            {% if site.date < n.expires %}
+              <h4>News: {{ n.title }}</h4>
+              {{ n }}
+            {% endif %}
+          {% else %}
+            <h4>News: {{ n.title }}</h4>
+            {{ n }}
+          {% endif %}
+        {% endfor %}
       </div>
       <div class='cell'>
         <h4>Testimonials</h4>
