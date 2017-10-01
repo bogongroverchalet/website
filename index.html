@@ -132,18 +132,28 @@ if(target) {
         {% include_markdown main-overview.md %}
       </div>
       <div class='cell'>
+        {% assign count = 0 %}
         {% assign news = site.categories.news %}
+        {% assign current_time = site.time | date: "%s" %}
         {% for n in news %}
           {% if n.expires %}
-            {% if site.date < n.expires %}
+            {% assign expires = n.expires | date: "%s" %}
+            {% if current_time < expires %}
               <h4>News: {{ n.title }}</h4>
               {{ n }}
+              {% assign count = count | plus: 1 %}
             {% endif %}
           {% else %}
             <h4>News: {{ n.title }}</h4>
             {{ n }}
+            {% assign count = count | plus: 1 %}
           {% endif %}
         {% endfor %}
+        {% if count == 0 %}
+          <h4>Facebook</h4>
+          <p>Follow the Bogong Rover Chalet on Facebook to keep up with our latest news!</p>
+          <p><a href="https://www.facebook.com/BogongRoverChalet/">Visit our page.</a></p>
+        {% endif %}
       </div>
       <div class='cell'>
         <h4>Testimonials</h4>
