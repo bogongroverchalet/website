@@ -52,8 +52,8 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Title", name: "title", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
-        #- {label: "Order", name: "order", widget: "number", step: 1, min: 0, valueType: "int"}
       - {label: "Expiry", name: "expires", widget: "date"}
       - {label: "Publish date", name: "date", widget: "date"}
       - {label: "Category", name: "category", widget: "hidden", default: "news"}
+      - {label: "Body", name: "body", widget: "markdown"}
+        #- {label: "Order", name: "order", widget: "number", step: 1, min: 0, valueType: "int"}
