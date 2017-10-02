@@ -136,7 +136,7 @@ if(target) {
         {% assign news = site.categories.news %}
         {% assign current_time = site.time | date: "%s" %}
         {% for n in news %}
-          {% if n.expires and n.expires != blank %}
+          {% if n.expires and n.expires != '' %}
             {% assign expires = n.expires | date: "%s" %}
             {% if current_time < expires %}
               <h4>News: {{ n.title }}</h4>
