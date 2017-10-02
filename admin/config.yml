@@ -52,7 +52,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Expiry", name: "expires", widget: "date", required: false}
+      - {label: "Expiry", name: "expires", widget: "date", default: false, required: false}
       - {label: "Publish date", name: "date", widget: "date"}
       - {label: "Category", name: "category", widget: "hidden", default: "news"}
       - {label: "Body", name: "body", widget: "markdown"}
