@@ -1,6 +1,6 @@
 ---
 title: Huge snow fall
-date: 2017-8-8
+date: 2017-08-08
 expires: 2017-10-01
 category: news
 ---
