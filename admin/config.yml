@@ -41,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "text"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Order", name: "order", widget: "number", step: 1, min: 0, valueType: "int"}
       - {label: "Category", name: "category", widget: "hidden", default: "testimonials"}
@@ -51,7 +51,7 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "text"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Expiry", name: "expires", widget: "date", default: null}
       - {label: "Publish date", name: "date", widget: "date"}
       - {label: "Category", name: "category", widget: "hidden", default: "news"}
