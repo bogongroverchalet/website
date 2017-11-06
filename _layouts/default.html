@@ -15,16 +15,18 @@
   <!-- <script src='{{site.baseurl}}/js/site.js'></script> -->
   <script src='/js/site.js'></script>
   <script>
+    var hasTouch = 'ontouchstart' in document.documentElement
     document.querySelectorAll('[title]:not([title=""])').forEach(function(e) {
       new Drop({
         target: e,
         content: e.title,
         classes: 'drop-theme-arrows-bounce-dark',
-        openOn: 'ontouchstart' in document.documentElement ? 'click' : 'hover',
+        openOn: hasTouch ? 'click' : 'hover',
         position: 'top center',
         constrainToScrollParent: false,
       })
       e.title = ''
+      e.style.cursor = hasTouch ? 'pointer' : 'help'
     })
   </script>
   <script>
