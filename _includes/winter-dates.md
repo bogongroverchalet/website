@@ -1,3 +1,7 @@
+---
+title: Winter dates
+---
+
 <h4 class='dates-title'>Dates</h4>
 <div class='dates-container'>
   <table class='dates'>
