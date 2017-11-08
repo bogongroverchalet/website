@@ -1,3 +1,7 @@
+---
+title: Summer dates
+---
+
 <div class='dates-container__winter'>
   <h4>Dates</h4>
   <p style='max-width: 24em; margin-bottom: 1em'>
