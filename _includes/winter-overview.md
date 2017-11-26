@@ -7,7 +7,7 @@ Most weeks are open to anyone over 18 (Scout member or not), although some weeks
 
 [Venturers](#winter-venturer) <i class='material-icons' title='15-18 year old Scouts.'>help_outline</i> have three weeks; one of which is specifically for <a href='#winter-interstater'>South Australians</a>.
 
-<!--\[Other.](#TODO_OTHER) Not a member of the Scout Association? You're still welcome!  \[Find out more.](#TODO_OTHER)-->
+<!--[Other.](#TODO_OTHER) Not a member of the Scout Association? You're still welcome! [Find out more.](#TODO_OTHER)-->
 
 External group bookings are also taken, subject to availability. <i class='material-icons' title='Weeks 11 and 12 are often available.'>help_outline</i>
 
@@ -15,4 +15,4 @@ Our Ski Weeks are incredibly good value <i class='material-icons' title='With di
 
 [How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
 
-<!--\[Book now!]({{ site.booknow }})-->
+<!--[Book now!]({{ site.booknow }})-->
