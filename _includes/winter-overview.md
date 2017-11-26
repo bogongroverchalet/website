@@ -13,6 +13,6 @@ External group bookings are also taken, subject to availability. <i class='mater
 
 Our Ski Weeks are incredibly good value <i class='material-icons' title='With discounted prices for booking before May 1!'>info_outline</i>.
 
-\[How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
+[How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
 
 <!--\[Book now!]({{ site.booknow }})-->
