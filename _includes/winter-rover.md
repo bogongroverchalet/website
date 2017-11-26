@@ -14,4 +14,4 @@ title='Ski Week 4 and Ski Week 10.'>info_outline</i> are the best of the best.
 
 [How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
 
-<!--\[Book now!]({{ site.booknow }})-->
+<!--[Book now!]({{ site.booknow }})-->
