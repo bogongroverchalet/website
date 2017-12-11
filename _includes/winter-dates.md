@@ -5,7 +5,7 @@ title: Winter dates
 <div class='dates-container'>
   <table class='dates'>
     <tr><td>Week 1 - Ski Moot 1</td><td>Jun 30th – Jul 7th</td></tr>
-    <tr><td>Vic/NSW Snow Venture 1</td><td>Jul 7th – Jul 14th</td></tr>
+    <tr><td>Vic/NSW Venture 1</td><td>Jul 7th – Jul 14th</td></tr>
     <tr><td>SA Snow Venture</td><td>Jul 12th – Jul 21st</td></tr>
     <tr><td>Week 4 - Ski Moot 2</td><td>Jul 21st – Jul 28th</td></tr>
     <tr><td>Ski Week 5</td><td>Jul 28th – Aug 4th</td></tr>
