@@ -15,4 +15,5 @@ title: Summer Right
   <div>Phone: <a href='tel:+61407242538'>0407 CHALET</a> (0407 242 538)</div>
   <div>Email: <a href='mailto:bookings@bogongroverchalet.org.au'>bookings@bogongroverchalet.org.au</a></div>
   <div><a href='https://www.facebook.com/BogongRoverChalet'>Facebook</a></div>
+  <div><a href='https://www.trybooking.com/UAND'>Mountain Bike Weekend bookings</a></div>
 </div>
