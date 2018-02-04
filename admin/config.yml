@@ -29,13 +29,13 @@ collections: # A list of collections the CMS should be able to edit
             widget: "list"
             fields:
               - {label: "Title", name: "title", widget: "string"}
-              - {label: "Tab's slug", name: "slug", widget: "string"}
+              - {label: "Tab's slug", name: "href", widget: "string"}
           - label: "Winter tabs"
             name: "winter_tabs"
             widget: "list"
             fields:
               - {label: "Title", name: "title", widget: "string"}
-              - {label: "Tab's slug", name: "slug", widget: "string"}
+              - {label: "Tab's slug", name: "href", widget: "string"}
           - {label: "Body", name: "body", widget: "text"}
   - name: "layout"
     label: "Layout"
