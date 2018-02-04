@@ -10,4 +10,3 @@ The trip will be an action packed experience, allowing Venturers to enjoy the th
 Thursday 5th April - Sunday 8th April 2018
 </p>
 <div><a href='https://www.trybooking.com/UAND'>Book now!</a></div>
-</div>
