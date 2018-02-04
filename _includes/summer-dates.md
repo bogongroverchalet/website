@@ -14,7 +14,7 @@ title: Summer dates
       <tr><td>Working bee</td><td>26 Jan - 28 Jan</td></tr>
       <!--<tr><td>Summer Moot</td><td>9 Feb - 14 Feb</td></tr>-->
       <tr><td>Working bee</td><td>30 Mar - 2 Apr</td></tr>
-      <tr><td><a href="https://info.bogongroverchalet.org.au/visiting/visiting-in-summer/#mountain-bike-weekend">Mountain Bike Weekend</a></td><td>(TBC) Easter School Holidays</td></tr>
+      <tr><td><a href="https://info.bogongroverchalet.org.au/visiting/visiting-in-summer/#mountain-bike-weekend">Mountain Bike Weekend</a></td><td>5 Apr - 8 Apr</td></tr>
     </table>
   </div>
 </div>
