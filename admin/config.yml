@@ -37,6 +37,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Title", name: "title", widget: "string"}
               - {label: "Tab's slug", name: "href", widget: "string"}
           - {label: "Body", name: "body", widget: "text"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
   - name: "layout"
     label: "Layout"
     editor:
