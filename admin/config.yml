@@ -24,6 +24,18 @@ collections: # A list of collections the CMS should be able to edit
         label: "Homepage"
         file: "index.html"
         fields:
+          - label: "Summer tabs"
+            name: "summer_tabs"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Tab's slug", name: "slug", widget: "string"}
+          - label: "Winter tabs"
+            name: "winter_tabs"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Tab's slug", name: "slug", widget: "string"}
           - {label: "Body", name: "body", widget: "text"}
   - name: "layout"
     label: "Layout"
