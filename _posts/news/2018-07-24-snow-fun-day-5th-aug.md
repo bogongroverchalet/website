@@ -10,4 +10,4 @@ Whether you’ll be seeing snow for the first time, or an experienced Nordic ski
 
 An event for the wider Scouting community!
 
-[More info](www.trybooking.com/xail)
+[More info](http://www.trybooking.com/xail)
