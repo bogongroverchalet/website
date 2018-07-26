@@ -15,7 +15,8 @@ title: Winter dates
     <tr><td>Ski Week 8a <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Aug 18th – Aug 21st</td></tr>
     <tr><td>Ski Week 8b <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Aug 21st – Aug 25th</td></tr>
     <tr><td>Ski Week 9</td><td>Aug 25th – Sep 1st</td></tr>
-    <tr><td>Week 10 - Ski Moot 3</td><td>Sep 1st – Sep 8th</td></tr>
+<tr style='text-decoration: line-through' title='Booked out!'><td>Ski Week 10a</td><td>Sep 1st - Sep 4th</td></tr>
+    <tr><td>Week 10b - Ski Moot 3</td><td>Sep 4th – Sep 8th</td></tr>
     <tr><td>Ski Week 11</td><td>Sep 8th – Sep 15th</td></tr>
     <tr><td>Ski Week 11a <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Sep 8th - Sep 11th</td></tr>
     <tr><td>Ski Week 11b <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Sep 11th - Sep 15th</td></tr>
