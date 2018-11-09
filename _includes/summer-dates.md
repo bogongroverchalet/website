@@ -16,6 +16,7 @@ title: Summer dates
       <tr><td><a href="https://info.bogongroverchalet.org.au/visiting/visiting-in-summer/#mountain-bike-weekend">Mountain Bike Weekend</a></td><td>11 Apr - 14 Apr</td></tr>
       <tr><td>Working bee</td><td>19 Apr - 22 Apr</td></tr>
       <tr><td><i>Summer use ends</i></td><td>28 Apr</td></tr>
+      <tr><td>Working bee</td><td>4 May - 5 May</td></tr>
     </table>
   </div>
 </div>
