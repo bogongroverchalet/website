@@ -12,6 +12,6 @@ We help organise all your ski gear and coordinate transport (often with help fro
 
 Venturer weeks are an amazing experience for an incredibly low price, and can even be used for badgework.
 
-[Book now!]({{ site.booknow }})
+<!--[Book now!]({{ site.booknow }})-->
 
 [How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
