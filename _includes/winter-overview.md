@@ -2,7 +2,7 @@
 title: Winter Overview
 ---
 
-_Bookings open February 1._
+***Bookings open February 1.***
 
 Because of the remote location (11km out of Falls Creek <i class='material-icons' title='We organise a bus from Mt Beauty to Falls Creek, then we ski as a group from <a href="https://www.openstreetmap.org/directions?engine=mapzen_foot&route=-36.8658%2C147.2870%3B-36.9041%2C147.3031#map=14/-36.8849/147.3041">Falls Creek to the Chalet.</a>'>help_outline</i>) winter is run as a series week-long events.
 
