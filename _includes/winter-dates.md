@@ -4,6 +4,7 @@ title: Winter dates
 <h4 class='dates-title'>Dates</h4>
 <div class='dates-container'>
   <table class='dates'>
+    <div style='font-style: italic; text-align: center; font-weight: bold'>Bookings open February 1.</div>
     <tr><td>Week 1 - Ski Moot 1</td><td>Jun 29th – Jul 6th</td></tr>
     <tr><td>Snow Venture 1</td><td>Jul 6th – Jul 13th</td></tr>
     <tr><td>SA Snow Venture</td><td>Jul 11th – Jul 20th</td></tr>
