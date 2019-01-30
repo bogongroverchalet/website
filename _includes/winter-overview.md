@@ -18,4 +18,4 @@ Our Ski Weeks are incredibly good value <i class='material-icons' title='With di
 
 [How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
 
-<!--[Book now!]({{ site.booknow }})-->
+[Book now!]({{ site.booknow }})
