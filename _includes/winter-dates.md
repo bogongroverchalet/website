@@ -11,6 +11,7 @@ title: Winter dates
     <tr><td>Ski Week 5</td><td>Jul 28th – Aug 4th</td></tr>
     <tr><td>Ski Week 6</td><td>Aug 4th – Aug 11th</td></tr>
     <tr><td>Ski Week 7</td><td>Aug 11th – Aug 18th</td></tr>
+    <tr><td>Ski Fun Day <i class='material-icons' title='At a mountain closer than the Chalet.'>info_outline</i></td><td>Aug 17th</td></tr>
     <tr><td>Ski Week 8</td><td>Aug 18th – Aug 25th</td></tr>
     <tr><td>Ski Week 8a <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Aug 18th – Aug 21st</td></tr>
     <tr><td>Ski Week 8b <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Aug 21st – Aug 25th</td></tr>
