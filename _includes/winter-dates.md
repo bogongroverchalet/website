@@ -12,6 +12,7 @@ title: Winter dates
     <tr><td>Ski Week 6</td><td>Aug 3rd – Aug 10th</td></tr>
     <tr><td>Ski Week 7</td><td>Aug 10th – Aug 17th</td></tr>
     <tr><td>Ski Week 8</td><td>Aug 17th – Aug 24th</td></tr>
+    <tr><td>Ski Fun Day <i class='material-icons' title='Our fun one-day event closer to home. More deets to come.'>info_outline</i></td><td>Aug 17th</td></tr>
     <tr><td>Ski Week 8a <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Aug 17th – Aug 20th</td></tr>
     <tr><td>Ski Week 8b <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Aug 20th – Aug 24th</td></tr>
     <tr><td>Ski Week 9</td><td>Aug 24th – Aug 31st</td></tr>
