@@ -8,7 +8,7 @@ category: news
 We're having a big year! So in bitter sweet news, a lot of our weeks are filling
 or full.
 
-If your week is full contact our [mailto:bookings@bogongroverchalet.org.au](bookings
-team) to get on our waiting list.
+If your week is full contact our [bookings team](mailto:bookings@bogongroverchalet.org.au)
+to get on our waiting list.
 
 Or come to another week instead!
