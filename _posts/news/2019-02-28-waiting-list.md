@@ -1,7 +1,7 @@
 ---
-title: 'Bookings filling up'
+title: Bookings filling up
 expires: '2019-09-10'
-date: '2019-02-27'
+date: 2019-04-30T14:00:00.000Z
 category: news
 ---
 
