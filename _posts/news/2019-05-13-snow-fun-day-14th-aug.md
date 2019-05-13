@@ -1,5 +1,5 @@
 ---
-title: 'Snow Fun Day: 5th Aug'
+title: 'Snow Fun Day: 14th Aug'
 expires: '2019-08-14'
 date: '2019-05-13'
 category: news
