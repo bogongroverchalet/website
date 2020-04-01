@@ -7,7 +7,6 @@ The Bogong Rover Chalet offers a unique opportunity for Venturer’s to experien
 
 The trip will be an action packed experience, allowing Venturers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
-<p style='font-weight: bold'>
+<p style='font-weight: bold; text-decoration: line-through'>
 Thursday 2nd April - Sunday 5th April 2020
 </p>
-<div><a href='https://www.trybooking.com/BIBYB'>Book now!</a></div>
