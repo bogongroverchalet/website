@@ -29,47 +29,8 @@ if(target) {
 }
 </script>
 
-<header id='top' class='main-header'>
-  <div class='row not-mobile' style='max-width: 60em; margin: 0 auto;'>
-    <h2 style='margin-bottom: 0'>
-      The Bogong Rover Chalet
-      <a style='margin-left: 0.5em' href='https://www.facebook.com/BogongRoverChalet'><small class='fa fa-facebook-square'></small></a>
-      <a style='margin-left: 0.5em' href='https://www.instagram.com/bogongroverchalet/'><small class='fa fa-instagram'></small></a>
-    </h2>
-    <div>
-    </div>
-    <div class='header__got-questions'>
-      Got a question?
-    </div>
-    <div class='header__search'>
-      <div class='header__search__wrapper'>
-        <form action='{{ site.search }}' method='get' style='display: inline-block; position: relative;'>
-          <input id='main-search' name='q' type='search' placeholder='Search term'>
-          <button class='fa fa-search no-style' style='position: absolute; top: 0; bottom: 0;'></button>
-          <label for='main-search' class='like-link' style='display: inline-block;'>Search our infomation hub.</label>
-        </form>
-      </div>
-      <a href='{{ site.knowledge }}'>Or have a browse.</a>
-    </div>
-  </div>
-  <div class='only-mobile'>
-    <h2>
-      <button data-js='menu' class='material-icons no-style' style='color: white; font-size: 120%; vertical-align: bottom; padding: 0'>menu</button>
-      <script>
-        document.querySelector('[data-js=menu]').addEventListener('click', function() {
-          document.body.classList.toggle('mobile-nav-visible')
-          Array.from(document.querySelectorAll('.side-nav a')).forEach(function(el) {
-            el.addEventListener('click', function(e) {
-              document.body.classList.remove('mobile-nav-visible')
-            })
-          })
-        })
-      </script>
-      Bogong Rover Chalet
-      <a style='margin-left: 0.5em' href='https://www.facebook.com/BogongRoverChalet'><small class='fa fa-facebook-square'></small></a>
-    </h2>
-  </div>
-</header>
+{% include header.html %}
+
 <nav class='side-nav'>
   <ul>
     <a data-scroll href='#top' class='dark' style='background-color: green;'>
@@ -322,5 +283,39 @@ if(target) {
       </div>
     </div>
   </article>
-  <div style='background: url("/img/bogong-small.png"); width: 400px; max-width: 100%; height: 360px; max-height: 100%; background-size: contain; background-repeat: no-repeat; margin: 0 auto; background-position: center'></div>
+  <div alt='Bogong Rover Chalet logo' style='background: url("/img/logo.svg"); width: 400px; max-width: 100%; height: 360px; max-height: 100%; background-size: contain; background-repeat: no-repeat; margin: 0 auto; background-position: center'></div>
 </section>
+<footer style='background: #333; color: white; display: flex; justify-content: center '>
+  <nav>
+    <h3 style='text-align: center; margin-top: 1em'>Sitemap</h6>
+    <ul style='display: flex'>
+      <li>
+        <h4><a href='javascript:alert("TODO")' style='text-decoration: none'>About</a></h4>
+        <ul>
+          <li><a href='{% article_url bogong-bulletin %}'>Bogong Bulletin</a></li>
+          <li><a href='{% article_url contact %}'>Contact us</a></li>
+          <li><a href='{% article_url history %}'>History</a></li>
+          <li><a href='{% article_url how-it-runs %}'>How the Chalet is run</a></li>
+          <li><a href='{% article_url merchandise %}'>Merchandise</a></li>
+        </ul>
+      </li>
+      <li>
+        <h4><a href='javascript:alert("TODO")' style='text-decoration: none'>Visiting</a></h4>
+        <ul>
+        <li><a href='{% article_url booking-conditions %}'>Booking conditions</a></li>
+        <li><a href='{% article_url visiting-in-summer %}'>Visiting in Summer</a></li>
+        <li><a href='{% article_url visiting-in-winter %}'>Visiting in Winter</a></li>
+        </ul>
+      </li>
+      <li>
+        <h4><a href='javascript:alert("TODO")' style='text-decoration: none'>Winter attendee info</a></h4>
+        <ul>
+          <li><a href='{% article_url winter-preparation %}'>Winter preparation</a></li>
+          <li><a href='{% article_url winter-gear %}'>Winter gear</a></li>
+          <li><a href='{% article_url winter-attendee %}'>What to expect</a></li>
+          <li><a href='{% article_url winter-blisters %}'>Avoiding blisters</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</footer>

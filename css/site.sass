@@ -505,4 +505,53 @@ main
 a[href]
   cursor: pointer
 
+.info-nav-wrapper
+  background: rgba(0, 0, 0, 0.2)
+
+.info-nav
+  display: flex
+  align-items: center
+  max-width: 60em
+  margin: 0 auto
+  ul
+    font-size: 2.25rem
+    margin: 0.5em 0
+  li
+    width: 13em
+    width: max-content
+    display: block
+    padding: 0.2em 0
+    margin: 0 1em
+    position: relative
+    ul
+      margin: 0
+      position: absolute
+      max-height: 0
+      transition: max-height 0.2s, padding 0.2s
+      overflow: hidden
+      background: #333
+      left: 0
+    &:hover ul
+      padding: 1em 0
+      max-height: 14em
+
+header h2
+  transition: padding 0.2s
+
+footer
+  h4
+    text-align: center
+  ul
+    margin: 0
+  li
+    display: block
+    ul
+      margin: 0 2em
+
+.sidebar
+  position: fixed
+  top: 85px
+.tutorial .tutorial-content
+  margin-left: 230px
+
 @import "drop"

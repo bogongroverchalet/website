@@ -15,3 +15,16 @@ search: "https://info.bogongroverchalet.org.au/search/"
 markdown: kramdown
 include: [ _redirects ]
 future: false
+
+collections:
+  articles:
+    output: true
+    permalink: /:categories/:title/
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'articles'
+    values:
+      layout: 'article'
