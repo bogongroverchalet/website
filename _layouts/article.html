@@ -18,7 +18,9 @@ layout: default
     </nav>
     <script>
       window.addEventListener('load', function() {
-        var elem = document.querySelector(window.location.hash)
+        try {
+          var elem = document.body.querySelector(window.location.hash)
+        } catch(e) {}
         window.scrollTo({
           behavior: 'smooth',
           top: elem.getBoundingClientRect().top + window.pageYOffset - Math.min.apply(null, Array.from(document.querySelectorAll('.main-header')).map(function(el) { return el.getBoundingClientRect().height }))
