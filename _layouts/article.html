@@ -21,6 +21,7 @@ layout: default
         try {
           var elem = document.body.querySelector(window.location.hash)
         } catch(e) {}
+        if(!elem) return
         window.scrollTo({
           behavior: 'smooth',
           top: elem.getBoundingClientRect().top + window.pageYOffset - Math.min.apply(null, Array.from(document.querySelectorAll('.main-header')).map(function(el) { return el.getBoundingClientRect().height }))
