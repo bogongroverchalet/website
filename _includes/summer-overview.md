@@ -21,4 +21,4 @@ title: Summer Left
 <!-- We're 11km out of Falls Creek; comfortable walking distance from the [Cope Hut
 carpark](https://www.google.com.au/maps/dir/Bogong+chalet+car+park/Bogong+Rover+Chalet,+Nelse,+Victoria/@-36.9057949,147.2963949,16z/data=!4m8!4m7!1m2!1m1!1s0x0:0x5c7e07098a6b0fbd!1m2!1m1!1s0x6b2447ea5e2780c1:0xd9d7ac523322deeb!3e2). -->
 
-[Getting to the Chalet.]({{ site.knowledge }}visiting/visiting-in-summer#getting-here/)
+[Getting to the Chalet.]({{ site.knowledge }}visiting/visiting-in-summer#getting-here)

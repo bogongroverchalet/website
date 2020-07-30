@@ -92,7 +92,7 @@ C. Beeston
 Roy Driver
 E. Hulme
 
-![Bogong Rover Crew of 1933, Cope Hut](/images/bogongRoverCrew1939.jpg)
+![Bogong Rover Crew of 1933, Cope Hut](/img/info/bogongRoverCrew1939.jpg)
 This picture shows the initial Bogong Rover Crew of 1933 outside Cope Hut on the
 Bogong High Plains, Victoria.
 

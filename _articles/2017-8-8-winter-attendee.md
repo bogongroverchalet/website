@@ -10,21 +10,23 @@ list_order: null
 related_links: false
 ---
 
-{% for post in site.posts %}
-  {% if post.slug == 'winter-overview' %}
-    {% assign winter_overview = post.content %}
+{% assign articles = site.collections | where: 'label', 'articles' | first %}
+
+{% for article in articles.docs %}
+  {% if article.slug == 'winter-overview' %}
+    {% assign winter_overview = article.content %}
   {% endif %}
-  {% if post.slug == 'winter-preparation' %}
-    {% assign winter_preparation = post.content %}
+  {% if article.slug == 'winter-preparation' %}
+    {% assign winter_preparation = article.content %}
   {% endif %}
-  {% if post.slug == 'winter-gear' %}
-    {% assign winter_gear = post.content %}
+  {% if article.slug == 'winter-gear' %}
+    {% assign winter_gear = article.content %}
   {% endif %}
-  {% if post.slug == 'winter-blisters' %}
-    {% assign winter_blisters = post.content %}
+  {% if article.slug == 'winter-blisters' %}
+    {% assign winter_blisters = article.content %}
   {% endif %}
-  {% if post.slug == 'winter-getting-in' %}
-    {% assign winter_getting_in = post.content %}
+  {% if article.slug == 'winter-getting-in' %}
+    {% assign winter_getting_in = article.content %}
   {% endif %}
 {% endfor %}
 

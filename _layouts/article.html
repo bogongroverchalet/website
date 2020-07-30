@@ -5,16 +5,37 @@ layout: default
 {% include header.html %}
 <main style='max-width: 60em; margin: 0 auto'>
 <section class="tutorial">
-    <section class="sidebar sticky">
+    <nav class="sidebar sticky">
         <ul>
             {% assign sub_navigation = content | extract_element: 'h2' %}
+            {% if sub_navigation.size > 0 %}
+                <li><a data-role=scroll-to href="#{{ page.title | slugify }}">{{ page.title }}</a></li>
+            {% endif %}
             {% for item in sub_navigation %}
-                <li><a href="#{{ item.id }}">{{ item.text }}</a></li>
+                <li><a data-role=scroll-to href="#{{ item.id }}">{{ item.text }}</a></li>
             {% endfor %}
         </ul>
-    </section>
+    </nav>
+    <script>
+      window.addEventListener('load', function() {
+        var elem = document.querySelector(window.location.hash)
+        window.scrollTo({
+          behavior: 'smooth',
+          top: elem.getBoundingClientRect().top + window.pageYOffset - Math.min.apply(null, Array.from(document.querySelectorAll('.main-header')).map(function(el) { return el.getBoundingClientRect().height }))
+        })
+      })
+      document.querySelectorAll('[data-role=scroll-to]').forEach(function(elem) {
+        elem.onclick = function(e) {
+          e.preventDefault()
+          window.scrollTo({
+            behavior: 'smooth',
+            top: document.querySelector(e.target.getAttribute('href')).getBoundingClientRect().top + window.pageYOffset - Math.min.apply(null, Array.from(document.querySelectorAll('.main-header')).map(function(el) { return el.getBoundingClientRect().height }))
+          })
+        }
+      })
+    </script>
     <section class="tutorial-content">
-        <h1>{{ page.title }}</h1>
+        <h1 id='{{ page.title | slugify }}'>{{ page.title }}</h1>
 
         {% if page.type == "Video" %}
             {% include youtube.html video_id=page.video_id %}
@@ -29,7 +50,6 @@ layout: default
                 </div>
             {% endif %}
         {% endif %}
-        
         <div class="tutorial-main">
             {{ content }}
         </div>
@@ -56,43 +76,141 @@ layout: default
 
 </main>
 
-<script src="/js/main.js"></script>
+<section id='more-info' class='hero-image' style='background: rgba(200, 200, 200, 1); padding-bottom: 1em; position: relative; z-index: 100; margin-top: 4em;'>
+  <h2 style='background: rgba(220, 220, 220, 1); border-color: rgba(200, 200, 200, 1);'>More info</h2>
+  <article>
+    <div>
+      <div style='text-align: center'>
+        <h4>You can always contact us:</h4>
+        <div class='footer-links'>
+          <div>Phone: <a href='tel:+61407242538'>0407 CHALET</a></div>
+          <div>Email: <a href='mailto:bookings@bogongroverchalet.org.au'>bookings@bogongroverchalet.org.au</a></div>
+          <div>Email (website): <a href='mailto:webmaster@bogongroverchalet.org.au'>webmaster@bogongroverchalet.org.au</a></div>
+          <div><a href='https://www.facebook.com/BogongRoverChalet'>Facebook</a></div>
+          <div><a href='https://www.instagram.com/bogongroverchalet/'>Instagram</a></div>
+        </div>
+      </div>
+    </div>
+  </article>
+  <div alt='Bogong Rover Chalet logo' style='background: url("/img/logo.svg"); width: 400px; max-width: 100%; height: 360px; max-height: 100%; background-size: contain; background-repeat: no-repeat; margin: 0 auto; background-position: center'></div>
+</section>
+<footer style='background: #333; color: white; display: flex; justify-content: center '>
+  <nav>
+    <ul style='display: flex'>
+      <li>
+        <h4>About</h4>
+        <ul>
+          <li><a href='{% article_url bogong-bulletin %}'>Bogong Bulletin</a></li>
+          <li><a href='{% article_url contact %}'>Contact us</a></li>
+          <li><a href='{% article_url history %}'>History</a></li>
+          <li><a href='{% article_url how-it-runs %}'>How the Chalet is run</a></li>
+          <li><a href='{% article_url merchandise %}'>Merchandise</a></li>
+        </ul>
+      </li>
+      <li>
+        <h4>Visiting</h4>
+        <ul>
+        <li><a href='{% article_url booking-conditions %}'>Booking conditions</a></li>
+        <li><a href='{% article_url visiting-in-summer %}'>Visiting in Summer</a></li>
+        <li><a href='{% article_url visiting-in-winter %}'>Visiting in Winter</a></li>
+        </ul>
+      </li>
+      <li>
+        <h4>Winter attendee info</h4>
+        <ul>
+          <li><a href='{% article_url winter-preparation %}'>Winter preparation</a></li>
+          <li><a href='{% article_url winter-gear %}'>Winter gear</a></li>
+          <li><a href='{% article_url winter-attendee %}'>What to expect</a></li>
+          <li><a href='{% article_url winter-blisters %}'>Avoiding blisters</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</footer>
+
+<script src="/js/site.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script>
 
 <script>
+    var snack
+    function createSnack(message) {
+        var elem = document.createElement('div')
+        elem.innerText = message
+        elem.style.display = 'inline-block'
+        elem.style.background = '#333'
+        elem.style.color = 'white'
+        elem.style.padding = '0.5em 1em'
+        elem.style.margin = '0 auto 0.3em'
+        elem.style.fontSize = '1.5em'
+        elem.style.borderRadius = '3px'
+        var wrapper = document.createElement('div')
+        wrapper.style.position = 'fixed'
+        wrapper.style.bottom = wrapper.style.left = wrapper.style.right = '0'
+        wrapper.style.textAlign = 'center'
+        wrapper.appendChild(elem)
+        document.body.appendChild(wrapper)
+        return {
+            destroy: function() {
+                wrapper.remove()
+                snack = null
+            }
+        }
+    }
     var headings = document.querySelectorAll("h2[id]");
 
-    console.log(headings);
     for (var i = 0; i < headings.length; i++) {
         var anchorLink = document.createElement("a");
         anchorLink.innerText = "#";
         anchorLink.href = "#" + headings[i].id;
         anchorLink.classList.add("header-link");
+        anchorLink.onclick = function(e) {
+            e.preventDefault()
+            var top = window.pageYOffset || document.documentElement.scrollTop
+            window.location.href = e.target.href
+            window.pageYOffset = document.documentElement.scrollTop = top
+        }
+        var clipboard = new ClipboardJS(anchorLink, { text: function(target) { return target.href } })
+        clipboard.on('success', function(e) {
+            if(snack) snack.destroy()
+            snack = createSnack('Link copied to clipboard.')
+            setTimeout(function() {
+                if(snack) snack.destroy()
+            }, 2e3)
+        })
+        clipboard.on('error', function(e) {
+            if(snack) snack.destroy()
+            snack = createSnack('Copy to clipboard failed. Hit control-c (or equiv) to copy.')
+            setTimeout(function() {
+                if(snack) snack.destroy()
+            }, 2e3)
+        })
 
         headings[i].appendChild(anchorLink);
     }
 
-    $(".modalOpen").click(function() {
-        var id = $(this).attr("href");
-        $(id).addClass("show");
+    //$(".modalOpen").click(function() {
+    //    var id = $(this).attr("href");
+    //    $(id).addClass("show");
 
-        $(window).click(function() {
-            $(".show").removeClass("show");
-        });
+    //    $(window).click(function() {
+    //        $(".show").removeClass("show");
+    //    });
 
-        $(id + " > div").click(function(event){
-            event.stopPropagation();
-        });
-        return false;
-    });
+    //    $(id + " > div").click(function(event){
+    //        event.stopPropagation();
+    //    });
+    //    return false;
+    //});
 
-    $(".close").click(function() {
-        $(".show").removeClass("show");
-        return false;
-    });
+    //$(".close").click(function() {
+    //    $(".show").removeClass("show");
+    //    return false;
+    //});
 
-    $(document).keyup(function(e) {
-        if (e.keyCode == 27) {
-            $(".show").removeClass("show");
-        }
-    });
+    //$(document).keyup(function(e) {
+    //    if (e.keyCode == 27) {
+    //        $(".show").removeClass("show");
+    //    }
+    //});
 </script>

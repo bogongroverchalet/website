@@ -24,9 +24,9 @@ Buang was to be the venue for a number of early ski trips. The early days of Mt
 Donna Buang skiing are highlighted in the photo.
 
 <p style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap" markdown="1">
-![Mt Donna Buang Ski Run 2/8/1931](/images/earlyDonnaBuang.jpg)
-![Early skier](/images/earlySkier.jpg)
-![Early Rover Chalet](/images/earlyChalet.jpg)
+![Mt Donna Buang Ski Run 2/8/1931](/img/info/earlyDonnaBuang.jpg)
+![Early skier](/img/info/earlySkier.jpg)
+![Early Rover Chalet](/img/info/earlyChalet.jpg)
 </p>
 
 The first Rover ski trip to the Bogong High Plains was in the August of 1932

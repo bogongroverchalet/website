@@ -9,7 +9,6 @@ categories:
 list_order: 4
 ---
 
-## Avoiding blisters
 - Keep your feet dry - use 'Snowseal' on your boots (if leather) and wear
   gaiters
 - Do lots of walking or skiing with a pack prior to the event

@@ -52,7 +52,9 @@ _Sleds are strictly prohibited, gear must be carried in a pack._
   articles lower down and nearer your back. Put spare clothes that you may need
   nearer to the top or in the pockets. Nothing should be tied to the outside of
   your pack as it may be lost.
-![Packing diagram](/images/pack.png)
+
+![Packing diagram](/img/info/pack.png)
+
 - _Load_ – Keep the weight down to about 15 kilograms including your allowance
   for fresh food, about 2 kilograms.
 - _Extra Space at Top_ – All winter party members are expected to carry in a
