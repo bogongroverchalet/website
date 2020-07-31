@@ -12,6 +12,20 @@
 </head>
 <body>
   {{content}}
+  <script id="netlify-identity" src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
+  <script>
+    document.getElementById('netlify-identity').onload = function() {
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', function(user) {
+          if (!user) {
+            window.netlifyIdentity.on('login', function() {
+              document.location.href = '/admin/'
+            })
+          }
+        })
+      }
+    }
+  </script>
   <!-- <script src='{{site.baseurl}}/js/site.js'></script> -->
   <script src='/js/site.js'></script>
   <script>
