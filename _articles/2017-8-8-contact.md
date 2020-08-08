@@ -1,14 +1,16 @@
 ---
-date: 2017-8-8
 title: Contact us
-description: >
+description: |
   Get in touch!
 categories:
   - about
+date: 2017-8-8
 list_order: 3
 ---
 
 ## General
+
+Testing
 
 Get in touch on [Facebook](http://www.facebook.com/BogongRoverChalet).
 
