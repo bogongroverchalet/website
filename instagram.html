@@ -1,0 +1,17 @@
+---
+---
+{% raw %}
+<script src="https://cdn.jsdelivr.net/npm/instafeed.js@2.0.0-rc2/src/instafeed.min.js"></script>
+
+<div id="instafeed"></div>
+
+<script src='https://bogong-instagram.herokuapp.com/token.js'></script>
+<script type="text/javascript">
+debugger
+var feed = new Instafeed({
+  accessToken: InstagramToken,
+  template: '<a href="{{link}}"><img title="{{caption}}" src="{{image}}" /></a><div>{{caption}}</div>'
+})
+feed.run()
+</script>
+{% endraw %}
