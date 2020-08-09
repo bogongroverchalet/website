@@ -13,9 +13,9 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Date", name: "date", widget: "hidden", default: "2017-8-8"}
       - {label: "List order", name: "list_order", widget: "hidden", required: false}
   - name: "snippets" # Used in routes, ie.: /admin/collections/:slug/edit
