@@ -1,10 +1,10 @@
 ---
-date: 2017-8-8
 title: Contact us
-description: >
+description: |
   Get in touch!
 categories:
   - about
+date: 2017-8-8
 list_order: 3
 ---
 
@@ -25,6 +25,9 @@ Email us at [bookings@bogongroverchalet.org.au](mailto:bookings@bogongroverchale
 Our wonderful Bogong Chalet Management Group chairperson can be contacted by
 email at [bogong@vicscouts.asn.au](mailto:bogong@vicscouts.asn.au).
 
+## Facebook
+
+Something.
 
 ## Website
 
