@@ -1,0 +1,30 @@
+- title: About
+  children:
+    - article_url: bogong-bulletin
+      title: Bogong Bulletin
+    - article_url: contact
+      title: Contact us
+    - article_url: history
+      title: History
+    - article_url: how-it-runs
+      title: How the Chalet is run
+    - article_url: merchandise
+      title: Merchandise
+- title: Visiting
+  children:
+    - article_url: booking-conditions
+      title: Booking conditions
+    - article_url: visiting-in-summer
+      title: Visiting in Summer
+    - article_url: visiting-in-winter
+      title: Visiting in Winter
+- title: Winter attendee info
+  children:
+    - article_url: winter-preparation
+      title: Winter preparation
+    - article_url: winter-gear
+      title: Winter gear
+    - article_url: winter-attendee
+      title: What to expect
+    - article_url: winter-blisters
+      title: Avoiding blisters

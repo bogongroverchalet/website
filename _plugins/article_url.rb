@@ -12,13 +12,14 @@ module Jekyll
 
       def render(context)
         @context = context
+        slug = Liquid::Template.parse(@slug).render(context)
         site = context.registers[:site]
 
         site.collections['articles'].docs.each do |document|
-          return relative_url(document) if @slug == document['slug']
+          return relative_url(document) if slug == document['slug']
         end
         raise Jekyll::Errors::PostURLError, <<~MSG
-          Could not find post "#{@slug}" in tag 'article_url'.
+          Could not find post "#{slug}" in tag 'article_url'.
           Make sure the post exists and the name is correct.
         MSG
       end

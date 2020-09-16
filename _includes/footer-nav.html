@@ -1,0 +1,17 @@
+<footer style='background: #333; color: white; display: flex; justify-content: center '>
+  <nav>
+    <h3 style='text-align: center; margin-top: 1em'>Sitemap</h6>
+    <ul style='display: flex'>
+      {% for link in site.data.menu %}
+      <li>
+        <h4>{{ child.title }}</h4>
+        <ul>
+          {% for child in link.children %}
+          <li><a href='{% article_url {{ child.article_url }} %}'>{{ child.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</footer>

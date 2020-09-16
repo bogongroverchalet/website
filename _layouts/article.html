@@ -95,41 +95,10 @@ layout: default
       </div>
     </div>
   </article>
-  <div alt='Bogong Rover Chalet logo' style='background: url("/img/logo.svg"); width: 400px; max-width: 100%; height: 360px; max-height: 100%; background-size: contain; background-repeat: no-repeat; margin: 0 auto; background-position: center'></div>
+  <img alt='Bogong Rover Chalet logo' src='/img/logo.svg' style='display: block; width: 400px; max-width: 100%; height: 360px; max-height: 100%; background-size: contain; background-repeat: no-repeat; margin: 0 auto; background-position: center'></img>
+  <p style='text-align: center; max-width: 30em; margin: 1em auto; font-size: 2em; line-height: 120%'>We acknowledge the Traditional Owners of the land on which we reside. We pay our respects to their Elders, past and present, and the Aboriginal Elders of other communities.</p>
 </section>
-<footer style='background: #333; color: white; display: flex; justify-content: center '>
-  <nav>
-    <ul style='display: flex'>
-      <li>
-        <h4>About</h4>
-        <ul>
-          <li><a href='{% article_url bogong-bulletin %}'>Bogong Bulletin</a></li>
-          <li><a href='{% article_url contact %}'>Contact us</a></li>
-          <li><a href='{% article_url history %}'>History</a></li>
-          <li><a href='{% article_url how-it-runs %}'>How the Chalet is run</a></li>
-          <li><a href='{% article_url merchandise %}'>Merchandise</a></li>
-        </ul>
-      </li>
-      <li>
-        <h4>Visiting</h4>
-        <ul>
-        <li><a href='{% article_url booking-conditions %}'>Booking conditions</a></li>
-        <li><a href='{% article_url visiting-in-summer %}'>Visiting in Summer</a></li>
-        <li><a href='{% article_url visiting-in-winter %}'>Visiting in Winter</a></li>
-        </ul>
-      </li>
-      <li>
-        <h4>Winter attendee info</h4>
-        <ul>
-          <li><a href='{% article_url winter-preparation %}'>Winter preparation</a></li>
-          <li><a href='{% article_url winter-gear %}'>Winter gear</a></li>
-          <li><a href='{% article_url winter-attendee %}'>What to expect</a></li>
-          <li><a href='{% article_url winter-blisters %}'>Avoiding blisters</a></li>
-        </ul>
-      </li>
-    </ul>
-  </nav>
-</footer>
+{% include footer-nav.html %}
 
 <script src="/js/site.js"></script>
 
