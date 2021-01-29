@@ -17,7 +17,7 @@ need to vary because of weather and safety requirements).
 
 The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 
-## 2020 Prices
+## 2021 Prices
 
 ### Early bird (before March 31)
 
