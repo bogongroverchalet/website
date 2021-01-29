@@ -19,7 +19,7 @@ The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 
 ## 2020 Prices
 
-### Early bird (before May 1)
+### Early bird (before March 31)
 
  - Current Rover $300
  - Scout Movement Member $355
