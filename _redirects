@@ -2,16 +2,16 @@
 /winter/ski-moot/ /?target=winter-rover 302
 /calendar/ /?target=winter 302
 
-/winter-equipment-information/ https://info.bogongroverchalet.org.au/winter%20attendee%20information/winter-gear/ 302
+/winter-equipment-information/ https://bogongroverchalet.org.au/winter%20attendee%20information/winter-gear/ 302
 
-/winter/winter-party-briefing-nights/ https://info.bogongroverchalet.org.au/visiting/visiting-in-winter/ 302
+/winter/winter-party-briefing-nights/ https://bogongroverchalet.org.au/visiting/visiting-in-winter/ 302
 
 /winter/* /?target=winter 302
 
-/summer/activities/ https://info.bogongroverchalet.org.au/visiting/visiting-in-summer/ 302
-/summer/mountain-bike-weekend/ https://info.bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
-/venturer-mountain-bike-weekend/ https://info.bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
-/2017-venturer-mtb-weekend/ https://info.bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
+/summer/activities/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/ 302
+/summer/mountain-bike-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
+/venturer-mountain-bike-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
+/2017-venturer-mtb-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
 
 /summer/* /?target=summer 302
 
@@ -23,28 +23,28 @@
 /2017-winter-dates/ / 302
 /2017-aug-snow-forecast/ / 302
 
-/getting-there/ https://info.bogongroverchalet.org.au/category/visiting/ 302
+/getting-there/ https://bogongroverchalet.org.au/category/visiting/ 302
 
-/contact-us/ https://info.bogongroverchalet.org.au/about/contact/ 302
+/contact-us/ https://bogongroverchalet.org.au/about/contact/ 302
 
-/about-us/chalet-history/ https://info.bogongroverchalet.org.au/about/history/ 302
-/about-us/bogong-rover-crew/ https://info.bogongroverchalet.org.au/about/how-it-runs/?target=the-bogong-rover-crew 302
-/about-us/alpine-rover-crew/ https://info.alpineroverchalet.org.au/about/how-it-runs/?target=the-alpine-rover-crew 302
-/about-us/alpine-venturer-crew/ https://info.alpineventurerchalet.org.au/about/how-it-runs/?target=the-alpine-venturer-unit 302
+/about-us/chalet-history/ https://bogongroverchalet.org.au/about/history/ 302
+/about-us/bogong-rover-crew/ https://bogongroverchalet.org.au/about/how-it-runs/?target=the-bogong-rover-crew 302
+/about-us/alpine-rover-crew/ https://bogongroverchalet.org.au/about/how-it-runs/?target=the-alpine-rover-crew 302
+/about-us/alpine-venturer-crew/ https://alpineventurerchalet.org.au/about/how-it-runs/?target=the-alpine-venturer-unit 302
 /about-us/chalet-photos/ https://www.facebook.com/pg/BogongRoverChalet/photos/ 302
-/about-us/bogong-bulletin/ https://info.bogongroverchalet.org.au/about/bogong-bulletin/ 302
-/about-us/* https://info.bogongroverchalet.org.au/category/about/ 302
-/aboutus/bogong-rover-crew/ https://info.bogongroverchalet.org.au/about/how-it-runs/?target=the-bogong-rover-crew 302
-/aboutus/alpine-rover-crew/ https://info.alpineroverchalet.org.au/about/how-it-runs/?target=the-alpine-rover-crew 302
-/aboutus/alpine-venturer-crew/ https://info.alpineventurerchalet.org.au/about/how-it-runs/?target=the-alpine-venturer-unit 302
+/about-us/bogong-bulletin/ https://bogongroverchalet.org.au/about/bogong-bulletin/ 302
+/about-us/* https://bogongroverchalet.org.au/category/about/ 302
+/aboutus/bogong-rover-crew/ https://bogongroverchalet.org.au/about/how-it-runs/?target=the-bogong-rover-crew 302
+/aboutus/alpine-rover-crew/ https://bogongroverchalet.org.au/about/how-it-runs/?target=the-alpine-rover-crew 302
+/aboutus/alpine-venturer-crew/ https://alpineventurerchalet.org.au/about/how-it-runs/?target=the-alpine-venturer-unit 302
 /aboutus/chalet-photos/ https://www.facebook.com/pg/BogongRoverChalet/photos/ 302
-/aboutus/bogong-bulletin/ https://info.bogongroverchalet.org.au/about/bogong-bulletin/ 302
-/aboutus/bogongrovercrew/ https://info.bogongroverchalet.org.au/about/how-it-runs/?target=the-bogong-rover-crew 302
-/aboutus/* https://info.bogongroverchalet.org.au/category/about/ 302
+/aboutus/bogong-bulletin/ https://bogongroverchalet.org.au/about/bogong-bulletin/ 302
+/aboutus/bogongrovercrew/ https://bogongroverchalet.org.au/about/how-it-runs/?target=the-bogong-rover-crew 302
+/aboutus/* https://bogongroverchalet.org.au/category/about/ 302
 
-/merchandise/ https://info.bogongroverchalet.org.au/about/merchandise/ 302
+/merchandise/ https://bogongroverchalet.org.au/about/merchandise/ 302
 
-/wp-content/uploads/2012/05/winterPartyInformation.pdf https://info.bogongroverchalet.org.au/winter%20attendee%20information/winter-attendee/ 302
-/downloads/flyers/winterPartyInformation.pdf https://info.bogongroverchalet.org.au/winter%20attendee%20information/winter-attendee/ 302
+/wp-content/uploads/2012/05/winterPartyInformation.pdf https://bogongroverchalet.org.au/winter%20attendee%20information/winter-attendee/ 302
+/downloads/flyers/winterPartyInformation.pdf https://bogongroverchalet.org.au/winter%20attendee%20information/winter-attendee/ 302
 
-/wp-content/uploads/2012/05/bogongRoverCrewNominationForm.pdf https://info.bogongroverchalet.org.au/downloads/bogongRoverCrewNominationForm.pdf 302
+/wp-content/uploads/2012/05/bogongRoverCrewNominationForm.pdf https://bogongroverchalet.org.au/downloads/bogongRoverCrewNominationForm.pdf 302
