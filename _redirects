@@ -48,3 +48,7 @@
 /downloads/flyers/winterPartyInformation.pdf https://bogongroverchalet.org.au/winter%20attendee%20information/winter-attendee/ 302
 
 /wp-content/uploads/2012/05/bogongRoverCrewNominationForm.pdf https://bogongroverchalet.org.au/downloads/bogongRoverCrewNominationForm.pdf 302
+
+
+https://info.bogongroverchalet.org.au/* https://bogongroverchalet.org.au/:splat 302!
+http://info.bogongroverchalet.org.au/* https://bogongroverchalet.org.au/:splat 302!
