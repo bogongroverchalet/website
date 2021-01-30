@@ -8,6 +8,20 @@ list_order: 3
 
 _Note, winter parties require a minimum of ten participants to run._
 
+
+## COVID-19 Situation
+
+We will be operating to a maximum capacity in line with the Victorian Government
+Covid-Safe restrictions and Scouts Victoria's Covid policy. We are currently
+restricted to a capacity of 30 (at 27 Jan 2022) and if restrictions change, we
+will increase or decrease our capacity in line with Government restrictions and
+Scouts Victoria policy.  In the event of our capacity being reduced, bookings
+will be cancelled on a last in, first out basis.  These participants will be
+offered a transfer to another week or put on the waiting list for that week.  If
+anyone has to withdraw from a winter party at anytime prior to commencement due
+to Covid-19 (sickness, unwell, travel restrictions & capacity restriction) the
+BCMG will process a full refund.
+
 ## Winter Party Withdrawal
 
  - Refunds may be applied for in writing addressed to the BCMG.
