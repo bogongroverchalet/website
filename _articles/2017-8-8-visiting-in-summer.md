@@ -28,13 +28,13 @@ Or just relax and take in our beautiful natural environment.  There's a heap to 
 
 ## Mountain Bike Weekend
 
-[Book now, before it books out!](https://www.trybooking.com/BIBYB)
+[Book now, before it books out!](https://www.trybooking.com/BOMKI)
 
 The Bogong Rover Chalet offers a unique opportunity for Venturers to experience Mountain Bike Riding in the Victorian High Country at a great price. The trip will be an action packed experience, allowing Venturers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
 Whether you are a die-hard mountain biker or someone who would enjoy a casual ride in the scenic Victorian high country this weekend is for YOU. *NOTE: You still need to be a fairly strong cycler.* Venturer Leaders are encouraged to accompany their Venturers.
 
-**When:** TBC.
+**When:** 8 Apr - 11 Apr
 
 **Cost:** $120 ($40 + $80 transport from Heathmont) covers meals, accommodation, and bus transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007)
 
@@ -53,7 +53,7 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual ri
 
 **Award Scheme:** Venturer Award Level Outdoors or Pursuits can be completed on the weekend with the approval of your Unit Council, and/or District/Zone Venturer Council. The weekend includes 15 hours of riding on trails, obstacles and single track, instruction on MTB safety, skills and maintenance. This weekend can contribute towards the Queen Scout Level Outdoors and Pursuits badges, which both require 30 hours over 6 months.
 
-[Book now!](https://www.trybooking.com/BIBYB)
+[Book now!](https://www.trybooking.com/BOMKI)
 
 For more details contact our [Bookings Team]({% article_url contact %}#bookings).
 
