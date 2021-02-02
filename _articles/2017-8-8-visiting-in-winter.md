@@ -19,7 +19,7 @@ The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 
 ## 2021 Prices
 
-### Early bird (before March 31)
+### Early bird (before April 30)
 
  - Current Rover $300
  - Scout Movement Member $355
