@@ -52,3 +52,5 @@
 
 https://info.bogongroverchalet.org.au/* https://bogongroverchalet.org.au/:splat 302!
 http://info.bogongroverchalet.org.au/* https://bogongroverchalet.org.au/:splat 302!
+
+/category/winter-attendee-information/ /winter%20attendee%20information/winter-attendee/ 302
