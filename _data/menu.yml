@@ -20,6 +20,8 @@
       title: Visiting in Winter
 - title: Winter attendee info
   children:
+    - article_url: winter-attendee
+      title: Winter attendee pack
     - article_url: winter-preparation
       title: Winter preparation
     - article_url: winter-gear
