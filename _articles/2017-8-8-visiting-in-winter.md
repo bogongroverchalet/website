@@ -48,11 +48,14 @@ All our other weeks are open to everyone 18+.
 
 ## How it works
 
+**Note: For the 2021 season we be staying in the Mt Beauty Scout Hall on the
+first night (rather than Tawonga as in the past).**
+
 The normal run down of a week is as follows:
 
 - A few weeks before the Ski Week, all participants attend a [Briefing
   Night](#briefing-night) - details are provided
-- Friday night we all meet and sleep in [Tawonga](https://www.google.com.au/maps/place/Tawonga+Hall,+Tawonga+VIC+3697/@-36.6868208,147.1410288,14z/data=!4m2!3m1!1s0x6b2417adf98d5afb:0x71c2625a84776f38) (Venturers, we organise car pooling from Melbourne)
+- Friday night we all meet and sleep in [Mt Beauty Scout Hall](https://goo.gl/maps/Sx9m2s9pAoFy8csd6) (Venturers, we organise car pooling from Melbourne)
 - Saturday morning we all head to [Falls Creek Coaches](https://www.google.com.au/maps/place/Falls+Creek+Coaches,+Tawonga+South+VIC+3698/@-36.7379858,147.1609871,17z/data=!4m2!3m1!1s0x6b243d96db96a74f:0xa74a0c7ad6694da1),
    park our cars (they're very nice and do a cheaper parking rate for Chalet
    participants), and get the bus up to [Falls Creek](https://www.google.com.au/maps/place/Windy+Corner+Car+Park,+Bogong+High+Plains+Rd,+Falls+Creek+VIC+3699/@-36.8645073,147.2864847,17z/data=!4m2!3m1!1s0x6b2447639a2dd45b:0x21aeee899c12bda5)
@@ -62,9 +65,9 @@ The normal run down of a week is as follows:
 - The following Saturday we, with great regret, pack up and leave; skiing back
   to Falls Creek before getting the Bus down again, and then driving back home.
 
-## Getting to Tawonga
+## Getting to Mt Beauty
 
-Everyone is expected to make their own way to Tawonga - although we make a
+Everyone is expected to make their own way to Mt Beauty - although we make a
 special point to help our Venturer aged participants.
 
 We communicate as a group of participants before our Ski Week commences and to

@@ -20,8 +20,8 @@ list_order: 4
 - Keep your pack weight down
 - Soak your feet in methylated spirits for about 5 minutes every 2 or 3 nights
   in the fortnight before your winter party.
-- Pretape your feet with 'Leukoplast' or 'Second Skin' before leaving Tawonga
-  Hall on Saturday morning. Guess the likely blister zones eg heels, toes,
+- Pretape your feet with 'Leukoplast' or 'Second Skin' before leaving Mt Beauty
+  Scout Hall on Saturday morning. Guess the likely blister zones eg heels, toes,
   sides.
 
 **Above all if you feel a hot spot or blister developing stop and deal with it.

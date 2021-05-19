@@ -21,7 +21,7 @@ Chalet. When choosing clothing go for wool, softshell, polar fleece, thermals
 and similar. **Avoid cotton and denim.** Try your local disposal store for
 cheaper items. If in any doubt, speak to your Party Leader.
 
-## For Tawonga Hall on Friday night
+## For Mt Beauty Scout Hall on Friday night
 
 - Sleeping Bag
 - Pillow (to be left in your car at Mount Beauty)
