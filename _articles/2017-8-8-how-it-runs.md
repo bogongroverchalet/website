@@ -26,6 +26,11 @@ community.
 The members of the Management Group are nominated at our AGM, which is normally
 hosted on the second Wednesday of October.
 
+### Aims, Objectives and Operating Guidelines
+
+The Bogong Chalet Management Group manage the Bogong Rover Chalet following the
+[Aims, Objectives and Operating Guidelines](/uploads/operating_guidelines.pdf).
+
 ## Our Scout Groups
 
 The Bogong Rover Chalet hosts a number of honorary Scout Groups.
