@@ -108,7 +108,8 @@ _Sleds are strictly prohibited, gear must be carried in a pack._
 
 - _Sleeping Bag_ - the Chalet is quite warm but a good quality bag is advisable
   for emergencies.
-- _Pillow Slip and Fitted or Inner Sheet_ - For hygiene reasons
+- _Fitted Sheet_ - **to meet our COVID-Safe plan you _must_ bring a fitted sheet**
+- _Pillow Slip and Inner Sheet_ - For hygiene reasons
 - _Spare under wear_
 - _Personal first aid kit_ - items you are likely to need including band aids,
   blister tape, 'Second Skin' headache tablets, knee brace etc.
