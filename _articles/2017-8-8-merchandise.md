@@ -24,9 +24,6 @@ Please bring cash with you if you wish to purchase merchandise during your visit
 to Bogong Rover Chalet.  If you have any questions about our merchandise,
 contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 
-[Order online now!](https://form.jotform.co/70452897002859)
-
-
 ## Price list
 
 <table>
