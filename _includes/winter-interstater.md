@@ -6,9 +6,9 @@ A week at the Bogong Rover Chalet makes for the highlight of any Rover or
 Venturer year.
 
 We have a special [SA Venturer Ski
-Week](http://www.venturers.sa.scouts.com.au/snowventure) where we help you get
+Week](http://qstore.sa.scouts.com.au/outdooradventure/alpine/) where we help you get
 here and help sort out all your gear. [Book
-now.](http://www.venturers.sa.scouts.com.au/snowventure)
+now](http://qstore.sa.scouts.com.au/outdooradventure/alpine/).
 
 All interstaters are welcome to all our other weeks as well!
 
