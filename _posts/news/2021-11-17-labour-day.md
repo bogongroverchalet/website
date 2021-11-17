@@ -6,5 +6,5 @@ category: news
 ---
 
 The Bogong Rover Chalet will not be available for any external (i.e. non-Scout)
-bookings over the 2022 labour day (March 14th) as we will be running a working
-bee.
+bookings over the 2022 labour day weekend (March 14th) as we will be running a
+working bee.
