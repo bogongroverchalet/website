@@ -9,13 +9,13 @@ title: Summer dates
   <div>
     <h5>Key dates</h5>
     <table class='dates'>
-      <tr><td>Australia Day Working bee</td><td>24 Jan - 27 Jan</td></tr>
-      <tr><td>Labour Day Working bee and nobs <span style='white-space: nowrap'>training <i class='material-icons' title='Nobs training: Learning how to run and use the Chalet as a leader'>info_outline</i></span></td><td>5 Mar - 8 Mar</td></tr>
+      <tr><td>Australia Day working bee</td><td>24 Jan - 27 Jan</td></tr>
+      <tr><td>Labour Day working bee and nobs <span style='white-space: nowrap'>training <i class='material-icons' title='Nobs training: Learning how to run and use the Chalet as a leader.<br><b>Note: no external bookings are available this weekend.</b>'>info_outline</i></span></td><td>5 Mar - 8 Mar</td></tr>
       <!--<tr><td>Summer Moot</td><td>9 Feb - 14 Feb</td></tr>-->
-      <tr><td>Easter Working bee</td><td>2 Apr - 5 Apr</td></tr>
+      <tr><td>Easter working bee</td><td>2 Apr - 5 Apr</td></tr>
       <tr><td><a href="https://bogongroverchalet.org.au/visiting/visiting-in-summer/#mountain-bike-weekend">Mountain Bike Weekend</a></td><td>8 Apr - 11 Apr</td></tr>
       <tr><td><i>Summer use ends</i></td><td>23 Apr</td></tr>
-      <tr><td>Food Working bee</td><td>24 Apr - 25 Apr</td></tr>
+      <tr><td>Food working bee</td><td>24 Apr - 25 Apr</td></tr>
     </table>
   </div>
 </div>
