@@ -14,7 +14,7 @@ title: Summer Left
     weekend, to come hang out and help with one of our working bees, or just
     relax and watch the world go by.
   </p>
-  <p>
+  <p markdown=1>
     Note that the [closest parking](https://goo.gl/maps/HbAgBqfPN1373mtj7) to
     the Chalet for visitors is approximately 1.5km away in summer.
   </p>
