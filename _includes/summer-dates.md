@@ -11,7 +11,7 @@ title: Summer dates
     <table class='dates'>
       <tr><td>Bathroom renovations</td><td>Jan/Feb - TBC</td></tr>
       <!--<tr><td>Australia day working bee</td><td>TBC</td></tr>-->
-      <tr><td>Labour day working bee and nobs <span style='white-space: nowrap'>training <i class='material-icons' title='Nobs training: Learning how to run and use the Chalet as a leader.<br><b>Note: no external bookings are available this weekend.</b>'>info_outline</i></span></td><td>11 Mar - 14 Mar</td></tr>
+      <tr><td>Labour Day working bee and nobs <span style='white-space: nowrap'>training <i class='material-icons' title='Nobs training: Learning how to run and use the Chalet as a leader.<br><b>Note: no external bookings are available this weekend.</b>'>info_outline</i></span></td><td>11 Mar - 14 Mar</td></tr>
       <tr><td>Special Rover event</td><td>15 Apr - 18 Apr</td></tr>
       <!--<tr><td>Easter working bee</td><td>15 Apr - 18 Apr</td></tr>-->
       <tr><td><a href="https://bogongroverchalet.org.au/visiting/visiting-in-summer/#mountain-bike-weekend">Mountain Bike Weekend</a></td><td>TBC</td></tr>
