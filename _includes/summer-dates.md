@@ -9,6 +9,7 @@ title: Summer dates
   <div>
     <h5>Key dates</h5>
     <table class='dates'>
+      <tr><td>Australia Day working bee</td><td>21 Jan - 23 Jan</td></tr>
       <tr><td>Bathroom renovations</td><td>Jan/Feb - TBC</td></tr>
       <!--<tr><td>Australia day working bee</td><td>TBC</td></tr>-->
       <tr><td>Labour Day working bee and nobs <span style='white-space: nowrap'>training <i class='material-icons' title='Nobs training: Learning how to run and use the Chalet as a leader.<br><b>Note: no external bookings are available this weekend.</b>'>info_outline</i></span></td><td>11 Mar - 14 Mar</td></tr>
