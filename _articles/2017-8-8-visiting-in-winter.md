@@ -17,13 +17,13 @@ need to vary because of weather and safety requirements).
 
 The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 
-## 2021 Prices
+## 2022 Prices
 
-### Early bird (before April 30)
+### Early bird (before March 30)
 
- - Current Rover $300
- - Scout Movement Member $355
- - Non Movement Member (ie everyone else) $420
+ - Current Rover $310
+ - Scout Movement Member $375
+ - Non Movement Member (ie everyone else) $450
  - Venturer's, please see our online bookings pages for prices
 
 _If you already have a parking pass for the season for Falls Creek please contact our bookings team._
