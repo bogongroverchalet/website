@@ -22,7 +22,7 @@ The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 ### Early bird (before March 30)
 
  - Current Rover $310
- - Scout Movement Member $375
+ - Scout Movement Member $380
  - Non Movement Member (ie everyone else) $450
  - Venturer's, please see our online bookings pages for prices
 
