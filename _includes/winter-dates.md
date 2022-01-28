@@ -16,8 +16,7 @@ title: Winter dates
     <tr><td>Ski Week 8b <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Aug 17th – Aug 20th</td></tr>
     <tr><td>Ski Week 9</td><td>Aug 19th – Aug 27th</td></tr>
     <tr><td>Week 10 - Ski Moot 4 <i class='material-icons' title='And recent ex-Rovers :-)'>info_outline</i></td><td>Aug 26th – Sep 3rd</td></tr>
-    <tr><td>Ski Week 11a <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Sep 2nd – Sep 7th</td></tr>
-    <tr><td>Ski Week 11b <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Sep 7th – Sep 10th</td></tr>
+    <tr><td>Ski Week 11</td><td>Sep 2nd – Sep 10th</td></tr>
     <tr><td>Ski Week 12a <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Sep 9th – Sep 14th</td></tr>
     <tr><td>Ski Week 12b <i class='material-icons' title='Join us for a half week, or book for the whole week.'>info_outline</i></td><td>Sep 13th – Sep 17th</td></tr>
     <tr><td>Vic Snow Venture 2</td><td>Sep 16th – Sep 24th</td></tr>
