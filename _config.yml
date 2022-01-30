@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Run by Rover Scouts for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog/
 booknow: "https://www.trybooking.com/BXBEA"
+mountain_bike_booknow: "https://www.trybooking.com/BXDOO"
 knowledge: "/"
 #search: "https://info.bogongroverchalet.org.au/search/"
 #twitter_username: jekyllrb

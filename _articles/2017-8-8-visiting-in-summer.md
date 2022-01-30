@@ -28,7 +28,7 @@ Or just relax and take in our beautiful natural environment.  There's a heap to 
 
 ## Mountain Bike Weekend
 
-[Book now, before it books out!](https://www.trybooking.com/BOMKI)
+[Book now, before it books out!]({{ site.mountain_bike_booknow }})
 
 The Bogong Rover Chalet offers a unique opportunity for Venturers to experience Mountain Bike Riding in the Victorian High Country at a great price. The trip will be an action packed experience, allowing Venturers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
@@ -53,7 +53,7 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual ri
 
 **Award Scheme:** Venturer Award Level Outdoors or Pursuits can be completed on the weekend with the approval of your Unit Council, and/or District/Zone Venturer Council. The weekend includes 15 hours of riding on trails, obstacles and single track, instruction on MTB safety, skills and maintenance. This weekend can contribute towards the Queen Scout Level Outdoors and Pursuits badges, which both require 30 hours over 6 months.
 
-[Book now!](https://www.trybooking.com/BOMKI)
+[Book now!]({{ site.mountain_bike_booknow }})
 
 For more details contact our [Bookings Team]({% article_url contact %}#bookings).
 
