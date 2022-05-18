@@ -11,7 +11,7 @@ We all meet and stay the night in Mt Beauty the Friday night before our party
 begins. We then ski into the Chalet on Saturday morning (day may vary for half
 weeks).
 
-**Note: For the 2021 season we be staying in the Mt Beauty Scout Hall on the
+**Note: For the 2022 season we be staying in the Mt Beauty Scout Hall on the
 first night (rather than Tawonga as in the past).**
 
 ## Getting to Mount Beauty
@@ -20,7 +20,7 @@ Transport to Mount Beauty – It is each Winter Party member's responsibility fo
 their own transport to Mount Beauty. Contact your party leader and attend the
 briefing night to arrange transport and carpooling. Your accommodation is at the
 [Mt Beauty Scout Hall](https://goo.gl/maps/Sx9m2s9pAoFy8csd6).  (_Not Tawonga
-for the 2021 season._) The cost is included in you winter party fee. Please
+for the 2022 season._) The cost is included in you winter party fee. Please
 speak to your party leader if you will be there early – you may be asked to open
 up the hall. If you are late, please be quiet.
 
