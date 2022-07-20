@@ -9,6 +9,10 @@ categories:
   - winter attendee information
 ---
 
+## COVID requirements
+
+**Bring five RATs and at least one mask.**
+
 ## Equipment checklist
 
 Nothing will spoil your Winter Party more than having equipment that doesn't do
@@ -123,6 +127,7 @@ _Sleds are strictly prohibited, gear must be carried in a pack._
 - _Small torch_ - with new batteries
 - _Mobile phone_ - reception at the chalet itself is minimal to non-existant,
   however it can useful while touring.
+- _**Five RATs and at least one mask**_.
  - Note: _Sleds are strictly prohibited, gear must be carried in a pack._
 
 **If you have any doubts, questions or concerns regarding equipment contact your
