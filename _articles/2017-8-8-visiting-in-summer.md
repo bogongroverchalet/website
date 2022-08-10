@@ -67,9 +67,11 @@ The Chalet is a comfortable walk from the [Cope Hut Carpark](https://www.google.
 
 ## Pricing and Bookings
 
-Summer bookings are per night. It's $15 per person for Scout Members or $20 per person for the general public.
+Summer bookings are per night. It's $15 per person for Scout Members or $30 per person for the general public.
 
-The minimum booking fee is $100.
+The minimum booking fee is $150.
+
+_The Bogong Rover Chalet is a unique building, and groups that require assistance running the Chalet - required for any group who haven't been to the Chalet before, or who don't have experience running the Chalet - will need to pay an additional $200 fee as part of a hosting arrangement._
 
 Note: All prices are listed in Australian Dollars (AUD).
 
