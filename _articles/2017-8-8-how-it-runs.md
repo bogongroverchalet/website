@@ -87,15 +87,15 @@ highest peak.
 
 Those invested into the Crew in 1933 were;
 
-W. F. "Bill" Waters
-Harry Hewitt
-H. E. "Bill" Williams
-P. Batterham
-G. Kemp
-J.N. Gilchrist
-C. Beeston
-Roy Driver
-E. Hulme
+- W. F. "Bill" Waters
+- Harry Hewitt
+- H. E. "Bill" Williams
+- P. Batterham
+- G. Kemp
+- J.N. Gilchrist
+- C. Beeston
+- Roy Driver
+- E. Hulme
 
 ![Bogong Rover Crew of 1933, Cope Hut](/img/info/bogongRoverCrew1939.jpg)
 
