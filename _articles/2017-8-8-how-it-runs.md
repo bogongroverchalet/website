@@ -63,8 +63,8 @@ members of a large fellowship bound together by their shared experience.
 
 #### Membership
 
-Membership of the Alpine Rover Crew is open to all Scout Members over the age of
-18. To qualify for membership of the Crew Members must:
+Membership of the Alpine Rover Crew is open to all Scout Members over the age of 18.
+To qualify for membership of the Crew Members must:
 
 - Be an invested member of the Scout Association
 - Have completed one week at a Bogong Chalet Winter Party
