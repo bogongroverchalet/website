@@ -32,7 +32,7 @@ layout: default
           e.preventDefault()
           window.scrollTo({
             behavior: 'smooth',
-            top: document.querySelector(e.target.getAttribute('href')).getBoundingClientRect().top + window.pageYOffset - Math.min.apply(null, Array.from(document.querySelectorAll('.main-header')).map(function(el) { return el.getBoundingClientRect().height }))
+            top: document.getElementById(e.target.getAttribute('href').replace(/^#/, '')).getBoundingClientRect().top + window.pageYOffset - Math.min.apply(null, Array.from(document.querySelectorAll('.main-header')).map(function(el) { return el.getBoundingClientRect().height }))
           })
         }
       })
