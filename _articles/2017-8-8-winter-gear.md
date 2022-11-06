@@ -41,10 +41,9 @@ cheaper items. If in any doubt, speak to your Party Leader.
 
 ## Pack, ski equipment, and other gear
 
-**2022 warning: We believe there may be very high demand for hiring ski gear
-this year. We suggest booking very very early (like, as soon as you read this)
-for your ski hire for your ski week.** Skis booked as part of a package arranged
-with the Chalet are locked in already.
+_Note: for 2023 we will only be offering ski rental packages for Venturers, not
+for any other type of booking. [Ajays](http://www.snow-ski.com.au) will continue
+to offer a discounted rental rate to Rovers :-)_
 
 _Pack_ – with ample hip belt and chest strap. Modern internally framed packs
 with large hip belts to load weight onto the hips make carrying your load
