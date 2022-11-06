@@ -48,9 +48,6 @@ All our other weeks are open to everyone 18+.
 
 ## How it works
 
-**Note: For the 2022 season we be staying in the Mt Beauty Scout Hall on the
-first night (rather than Tawonga as in the past).**
-
 The normal run down of a week is as follows:
 
 - A few weeks before the Ski Week, all participants attend a [Briefing
