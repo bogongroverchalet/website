@@ -1,7 +1,7 @@
 ---
 title: Winter dates
 ---
-<h4 class='dates-title'>Dates</h4>
+<h4 class='dates-title'>2023 dates</h4>
 <div class='dates-container'>
   <table class='dates'>
     <tr><td>Week 1 - Ski Moot 1</td><td>Jun 23rd – Jul 1st</td></tr>
