@@ -28,7 +28,7 @@ Or just relax and take in our beautiful natural environment.  There's a heap to 
 
 ## Mountain Bike Weekend
 
-[Book now, before it books out!]({{ site.mountain_bike_booknow }})
+<!--[Book now, before it books out!]({{ site.mountain_bike_booknow }})-->
 
 The Bogong Rover Chalet offers a unique opportunity for Venturers to experience Mountain Bike Riding in the Victorian High Country at a great price. The trip will be an action packed experience, allowing Venturers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
