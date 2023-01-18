@@ -40,14 +40,14 @@ if(target) {
         Top
       </li>
     </a>
-    <a data-scroll href='#winter' class='dark' style='background-color: blue;'>
-      <li>
-        Winter
-      </li>
-    </a>
     <a data-scroll href='#summer' style='background-color: yellow;'>
       <li>
         Summer
+      </li>
+    </a>
+    <a data-scroll href='#winter' class='dark' style='background-color: blue;'>
+      <li>
+        Winter
       </li>
     </a>
     <a data-scroll href='#winter-venturer' class='dark' style='background-color: maroon;'>
@@ -144,6 +144,46 @@ if(target) {
     </div>
   </article>
 </main>
+<section id='summer' class='hero-image pos-rel' style='background: rgba(255, 255, 0, 1);'>
+  <h2 style='background: rgba(255, 255, 120, 1); border-color: rgba(255, 255, 0, 1);'>Summer</h2>
+  <div class='hero-image hero-image__summer'></div>
+  <article class='article__summer'>
+    <div class='row row__not-narrow row--padding'>
+      <div class='not-mobile'>
+        {% include_markdown summer-dates.md %}
+      </div>
+      <div>
+        {% for tab in page.summer_tabs %}
+          <span id='{{ tab.href }}'></span>
+        {% endfor %}
+        <ul class='tab tab-block not-mobile'>
+          {% for tab in page.summer_tabs %}
+          <li class='tab-item'>
+            <a href='#{{ tab.href }}'>{{ tab.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+        <div class='tab-contents not-mobile'>
+          {% for tab in page.summer_tabs %}
+          <div data-id='{{ tab.href }}'>
+            {% include_markdown {{ tab.href }}.md %}
+          </div>
+          {% endfor %}
+        </div>
+        <div class='tab-contents only-mobile'>
+          {% for tab in page.summer_tabs %}
+          <div>
+            {% include_markdown {{ tab.href }}.md %}
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class='only-mobile dates-container'>
+        {% include_markdown summer-dates.md %}
+      </div>
+    </div>
+  </article>
+</section>
 <section id='winter' class='hero-image pos-rel' style='background: rgba(0, 200, 200, 1);'>
   <h2 style='background: rgba(0, 100, 100, 1); border-color: rgba(0, 200, 200, 1); color: white;'>Winter</h2>
   <div class='hero-image hero-image__winter'></div>
@@ -209,46 +249,6 @@ if(target) {
       </div>
       <div class='only-mobile dates-container'>
         {% include_markdown winter-dates.md %}
-      </div>
-    </div>
-  </article>
-</section>
-<section id='summer' class='hero-image pos-rel' style='background: rgba(255, 255, 0, 1);'>
-  <h2 style='background: rgba(255, 255, 120, 1); border-color: rgba(255, 255, 0, 1);'>Summer</h2>
-  <div class='hero-image hero-image__summer'></div>
-  <article class='article__summer'>
-    <div class='row row__not-narrow row--padding'>
-      <div class='not-mobile'>
-        {% include_markdown summer-dates.md %}
-      </div>
-      <div>
-        {% for tab in page.summer_tabs %}
-          <span id='{{ tab.href }}'></span>
-        {% endfor %}
-        <ul class='tab tab-block not-mobile'>
-          {% for tab in page.summer_tabs %}
-          <li class='tab-item'>
-            <a href='#{{ tab.href }}'>{{ tab.title }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-        <div class='tab-contents not-mobile'>
-          {% for tab in page.summer_tabs %}
-          <div data-id='{{ tab.href }}'>
-            {% include_markdown {{ tab.href }}.md %}
-          </div>
-          {% endfor %}
-        </div>
-        <div class='tab-contents only-mobile'>
-          {% for tab in page.summer_tabs %}
-          <div>
-            {% include_markdown {{ tab.href }}.md %}
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-      <div class='only-mobile dates-container'>
-        {% include_markdown summer-dates.md %}
       </div>
     </div>
   </article>
