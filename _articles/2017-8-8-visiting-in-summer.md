@@ -28,30 +28,28 @@ Or just relax and take in our beautiful natural environment.  There's a heap to 
 
 ## Mountain Bike Weekend
 
-<!--[Book now, before it books out!]({{ site.mountain_bike_booknow }})-->
+[Book now, before it books out!]({{ site.mountain_bike_booknow }})<br><br>
 
 The Bogong Rover Chalet offers a unique opportunity for Venturers to experience Mountain Bike Riding in the Victorian High Country at a great price. The trip will be an action packed experience, allowing Venturers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
 Whether you are a die-hard mountain biker or someone who would enjoy a casual ride in the scenic Victorian high country this weekend is for YOU. *NOTE: You still need to be a fairly strong cycler.* Venturer Leaders are encouraged to accompany their Venturers.
 
-**When:** 9 Apr - 11 Apr
+**When:** Thursday 13th April - Sunday 16th April 2023
 
-**Cost:** $TBC covers meals, accommodation, and bus transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007)
+**Cost:** $130 covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
 
-**Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Heathmont Scout Centre (on Heathmont Road)](https://www.google.com.au/maps/place/Heathmont+Scout+Centre/@-37.8267464,145.2410067,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad63bc6bcd27547:0xb01ec27ce45bfd9b!8m2!3d-37.8267464!4d145.2432007) on Thursday afternoon.
+**Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Mount Waverley](https://goo.gl/maps/jxKCANnKeTc47c6EA) on Thursday afternoon. We return around 6pm on Sunday.
 
 **Itinerary:** The following is a quick outline of the weekend.
 
-* Thursday: Travel to the Chalet
-* Friday: Riding local trails and MTB skills
+* Thursday: Travel to the Chalet, riding local trails if time available
+* Friday: MTB skills and then single track at Falls Creek in the afternoon
 * Saturday: Riding single track trails at Falls Creek
 * Sunday: Pack up and a short ride. Travel back home
 
-**Bike Hire:** Bike hire is available if you don't own a Mountain Bike. Please [contact us](mailto:mtbbookings@bogongroverchalet.org.au) if you are unsure whether your bike is suitable.
+**Bike Hire:** Bike hire is available if you don't own a Mountain Bike. Please [contact us](mailto:mtbbookings@bogongroverchalet.org.au) if you are unsure whether your bike is suitable. Working front suspension is a must, and cyclo-cross / hybrid bikes are unsuitable.
 
 **What else:** The weekend has a limited number of places, so book soon.
-
-**Award Scheme:** Venturer Award Level Outdoors or Pursuits can be completed on the weekend with the approval of your Unit Council, and/or District/Zone Venturer Council. The weekend includes 15 hours of riding on trails, obstacles and single track, instruction on MTB safety, skills and maintenance. This weekend can contribute towards the Queen Scout Level Outdoors and Pursuits badges, which both require 30 hours over 6 months.
 
 [Book now!]({{ site.mountain_bike_booknow }})
 
