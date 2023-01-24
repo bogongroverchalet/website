@@ -93,18 +93,29 @@ if(target) {
     <div style='text-align: center; font-size: 2em'>
       <!--<a class='button button-primary' href='mailto:bookings@bogongroverchalet.org.au'>Book for summer!</a>-->
       <a class='button button-primary' style='text-align: center; font-size: 1em' href='{{ site.mountain_bike_booknow }}'>Book MTB WE</a>
+      <a data-booknow class='button button-primary' style='font-size: 1em' href='{{ site.booknow }}'>Book for winter</a>
+      <script>
+        document.addEventListener('click', function bookingsWarning(e) {
+          if(e.target.href !== '{{ site.booknow }}') return
+          if(Date.now() > new Date('2023-02-14').getTime()) return
+
+          var message = Date.now() < new Date('2023-01-31').getTime()
+            ? 'NOTE: Bookings open February 1st - everything will show as sold out/unavailable until then.'
+            : 'NOTE: Bookings open in a staggered manner and are open to all from February 14th - events may not appear as expected until then.'
+
+          if('venturerBooking' in e.target.dataset && Date.now() > new Date('2023-01-31').getTime()) {
+            return
+          }
+
+          if(!confirm(message)) {
+            e.preventDefault()
+          }
+        })
+      </script>
       <br>
       <b style='font-size: 1.2em'>Summer 22/23: No hosted/external group bookings</b><br>
       <i style='font-size: 0.9em'>Due to damage to part of the Chalet we can't provide hosting for any bookings currently. <i style='vertical-align: baseline' class='material-icons' title="An arrangment where volunteer friends of the Chalet run the technical aspects of the building for groups without the necessary training/experience.<br>This is a requirement for all bookings where you haven't undertaken the relevant training about how to run the Chalet (or have equivalent experience).">info_outline</i><br></i>
       <i style='font-size: 0.9em'>We're working to get everything fixed ASAP! Sorry for the inconvenience.<br></i>
-      <!--<script>
-        if(Date.now() > new Date('2021-02-02').getTime()) {
-          var el = document.querySelector('[data-feb2]')
-          el.parentNode.removeChild(el)
-        }
-      </script>-->
-      <!--<a class='button button-primary' style='font-size: 1.5em' href='{{ site.booknow }}'>Book for winter!</a>-->
-      <br />
       <!--<a class='button button-primary' href='https://www.trybooking.com/book/event?eid=511057'>Book for our ski fun day</a>-->
     </div>
     <div class='row main-content__row'>
