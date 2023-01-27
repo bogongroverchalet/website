@@ -8,7 +8,7 @@
     <div>
     </div>
   </div>
-  <div class='info-nav-wrapper'>
+  <div class='info-nav-wrapper not-mobile'>
     <div class='info-nav'>
       <nav>
         <ul style='display: flex'>
@@ -51,6 +51,7 @@
   var headerClone = header.cloneNode(true)
   header.parentNode.insertBefore(headerClone, header)
   headerClone.style.position = 'static'
+  headerClone.classList.add('not-mobile')
   for (var idx = 0; idx < headerClone.children.length; idx++) {
     headerClone.children[idx].style.visibility = 'hidden'
   }
