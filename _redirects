@@ -9,9 +9,9 @@
 /winter/* /?target=winter 302
 
 /summer/activities/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/ 302
-/summer/mountain-bike-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
-/venturer-mountain-bike-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
-/2017-venturer-mtb-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=mountain-bike-weekend 302
+/summer/mountain-bike-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=venturer-mountain-bike-weekend 302
+/venturer-mountain-bike-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=venturer-mountain-bike-weekend 302
+/2017-venturer-mtb-weekend/ https://bogongroverchalet.org.au/visiting/visiting-in-summer/?target=venturer-mountain-bike-weekend 302
 
 /summer/* /?target=summer 302
 
