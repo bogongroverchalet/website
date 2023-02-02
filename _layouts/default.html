@@ -44,6 +44,14 @@
     })
   </script>
   <script>
+    var hashIsh = window.location.hash.replace(/^#/, '')
+    var offset = hashIsh === 'winter-rover' || hashIsh === 'winter-venturer' ? 200 : hashIsh === 'summer' || hashIsh === 'winter' || hashIsh === 'more-info' ? 150 : 0
+    if(offset) {
+      requestAnimationFrame(function() {
+        if('scrollingElement' in document) document.scrollingElement.scrollTop = document.scrollingElement.scrollTop - offset
+        else document.body.scrollTop = document.body.scrollTop - offset
+      })
+    }
     new SmoothScroll('[data-scroll]', {
       easing: 'easeOutQuad',
       offset: function(anchor, toggle) {
