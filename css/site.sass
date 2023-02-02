@@ -300,13 +300,6 @@ $all-winter-tabs: append($winter-tabs, overview)
 $summer-tabs: moot book mountain-bike-weekend working-bees
 $all-summer-tabs: append($summer-tabs, overview)
 
-#summer:before, #winter:before, #more-info:before
-  display: block
-  content: ' '
-  height: 8em
-  margin-top: -8em
-  visibility: hidden
-
 @each $tab in $winter-tabs
   #winter-#{$tab}:target ~ .tab .tab-item a[href="#winter-overview"]
     color: inherit
