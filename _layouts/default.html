@@ -44,11 +44,15 @@
     })
   </script>
   <script>
-    new SmoothScroll('[data-scroll]', { easing: 'easeOutQuad' })
+    new SmoothScroll('[data-scroll]', {
+      easing: 'easeOutQuad',
+      offset: function(anchor, toggle) {
+        return anchor.id === 'winter-rover' || anchor.id === 'winter-venturer' ? 200 : 0
+      }
+    })
     Array.from(document.querySelectorAll('[data-scroll], .tab-item a, .tab-contents a[href^="#"]')).forEach(function(el) {
       el.onclick = function(event) {
         var st = 'scrollingElement' in document ? document.scrollingElement.scrollTop : document.body.scrollTop
-        event.preventDefault()
         window.location.href = this.href
         if('scrollingElement' in document) document.scrollingElement.scrollTop = st
         else document.body.scrollTop = st

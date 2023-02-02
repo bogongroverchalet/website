@@ -308,19 +308,9 @@ $all-summer-tabs: append($summer-tabs, overview)
   visibility: hidden
 
 @each $tab in $winter-tabs
-  #winter-#{$tab}:before
-    display: block
-    content: ' '
-    visibility: hidden
   #winter-#{$tab}:target ~ .tab .tab-item a[href="#winter-overview"]
     color: inherit
     border-bottom-color: transparent
-#winter-venturer:before
-  height: 10em
-  margin-top: -10em
-#winter-rover:before
-  height: 20em
-  margin-top: -20em
 
 @each $tab in $all-winter-tabs
   #winter-#{$tab}:target ~ .tab .tab-item a[href="#winter-#{$tab}"]
