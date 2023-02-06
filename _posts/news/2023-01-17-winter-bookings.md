@@ -1,12 +1,12 @@
 ---
-title: Winter bookings open soon
+title: Winter bookings
 expires: '2023-02-20'
 date: '2018-05-18'
 category: news
 ---
 
 Winter bookings open Feb 1st for Victorian Rovers and any Venturers (and some
-others), Feb 7th all Rovers, and Feb 14th for everyone.
+others), Feb 7th all Rovers (around 6am Vic time), and Feb 14th for everyone.
 
 Learn more in the latest [Bogong Bulletin](https://mailchi.mp/aca9b9219fce/bogong-bulletin-93).
 
