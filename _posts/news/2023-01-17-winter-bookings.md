@@ -5,10 +5,9 @@ date: '2018-05-18'
 category: news
 ---
 
-Winter bookings open Feb 1st for Rovers (and some others), and Feb 14th for
-everyone.
+Winter bookings open Feb 1st for Victorian Rovers and any Venturers (and some
+others), Feb 7th all Rovers, and Feb 14th for everyone.
 
 Learn more in the latest [Bogong Bulletin](https://mailchi.mp/aca9b9219fce/bogong-bulletin-93).
 
-Didn't get the Bulletin? Add your details to our mailing list
-[here](https://bogongroverchalet.us19.list-manage.com/subscribe?u=4ca3b745e43b54dd2edf5eb5a&id=49c8d3fce2).
+Don't get the Bulletin? [Click here](https://bogongroverchalet.us19.list-manage.com/subscribe?u=4ca3b745e43b54dd2edf5eb5a&id=49c8d3fce2).
