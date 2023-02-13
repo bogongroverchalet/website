@@ -21,22 +21,25 @@ suggestions made in the following list have come from years of experience during
 Winter Parties. If borrowing gear make sure that it fits correctly and is
 serviceable. If hiring gear, explain why you need the equipment. Mention that it
 is for the Bogong Rover Chalet, many staff at outdoor stores will know about the
-Chalet. When choosing clothing go for wool, softshell, polar fleece, thermals
-and similar. **Avoid cotton and denim.** Try your local disposal store for
-cheaper items. If in any doubt, speak to your Party Leader.
+Chalet. When choosing clothing go for softshell, polar fleece, wool, thermals
+and similar. **Avoid cotton and denim.** If in any doubt, speak to your Party
+Leader.
 
 ## For Mt Beauty Scout Hall on Friday night
 
-- Sleeping Bag
+- Sleeping Bag - if possible, a second one makes packing and departing easier,
+  but is not necessary at all
 - Pillow (to be left in your car at Mount Beauty)
 - Sleeping Mat or Lilo (to be left in your car at Mount Beauty)
 - Simple prepared breakfast (to be left in your stomach at Mount Beauty)
+- Water to drink before departing - being well hydrated before starting is a
+  great way to make life better
 
 ## For the trip into the Chalet
 
-- Prepared lunch and energy food such as chocolate, muesli bars or scroggin.
-- All your Ski Equipment – Cross-country skis, boots and poles. See other page
-  for suggestions.
+- Prepared lunch and energy food such as chocolate, muesli bars or scroggin -
+  don't forget water.
+- All your ski equipment – cross-country skis, boots and poles.
 - All your equipment and clothing for the chalet in a pack.
 
 ## Pack, ski equipment, and other gear
@@ -49,13 +52,13 @@ _Pack_ – with ample hip belt and chest strap. Modern internally framed packs
 with large hip belts to load weight onto the hips make carrying your load
 easier. They are available for hire from an outdoor shop if necessary. Packs are
 not one size fits all and need to be fitted properly. Some packs are
-specifically designed for men or women
+specifically designed for men or women.
 
 _Sleds are strictly prohibited, gear must be carried in a pack._
 
 - _Water proofing_ - be sure to line your pack with a large plastic bag to keep
   everything dry. Pack your sleeping bag into another plastic bag. You can never
-  have too many plastic bags.
+  have too many plastic bags. Also a well fitting pack cover is good to have.
 - _Packing_ – Pack your sleeping bag at the bottom out of the way and heavier
   articles lower down and nearer your back. Put spare clothes that you may need
   nearer to the top or in the pockets. Nothing should be tied to the outside of
@@ -63,41 +66,52 @@ _Sleds are strictly prohibited, gear must be carried in a pack._
 
 ![Packing diagram](/img/info/pack.png)
 
-- _Load_ – Keep the weight down to about 15 kilograms including your allowance
-  for fresh food, about 2 kilograms.
-- _Extra Space at Top_ – All winter party members are expected to carry in a
+- _Load_ – Keep the weight down below 15 kilograms including your allowance
+  for fresh food, about 2 kilograms. First timers should especially focus on
+  keeping weight down by avoiding unnecessary items e.g. bringing too many
+  spares.
+- _Extra space for food_ – All winter party members are expected to carry in a
   parcel of meat and fresh vegetables. Please bring plastic bags for this
   purpose.
-- _Cross Country skis_ – suitable for medium to heavy touring with a pack. The
+- _Cross country skis_ – suitable for medium to heavy touring with a pack. The
   use of some sort of retention strap is highly recommended to prevent runaway
-  skis.
-- _Cross Country Ski Boots_ – Either plastic or leather boots are recommended.
-  For leather boots, a sturdier high cut boot is recommended.  Waterproof
+  skis (e.g. ski leashes). [See below](#skis-and-bindings) for more details if
+  needed.
+- _Cross country ski boots_ – Plastic boots are recommended, although some
+  people prefer leather boots from their previous experience.
+  For leather boots, a sturdier high cut boot is recommended. Waterproof
   leather boots with 'Snoseal' or similar. (Do not use Dubbin as it softens the
   leather)
-- _Cross Country Ski Poles_ – Any material is suitable. A larger basket for soft
-  snow is recommended.
-- _U.V. Sunglasses_ – with retention strap and ski goggles if desired.
-- _Compass and Map of the area._
-- _Beanie or Balaclava_
-- _Peaked Cap_ – Optional
+- _Cross country ski poles_ – Any material is suitable. A larger basket for soft
+  snow is recommended. Adjustable poles are nice, but not necessary.
+- _U.V. Sunglasses_ – with retention strap, and ski goggles if desired. Most
+  people prefer sunglasses for touring and have goggles for skiing the tow, and
+  sometimes in particularly bad weather.
+- _Compass and map of the area._
+- _Beanie or balaclava_
+- _Hat_ – Something to protect you from the sun in nicer weather.
 - _Coat_ - One of the most important items you'll be carrying. We recommend you
-  use some sort of breathable such as 'Goretex' or 'Entrant', Japara or dry
-  oilskin coats are also suitable. The coat should have ample hood. Most Alpine
-  or Downhill Ski jackets are too hot for Cross Country Skiing. Cotton Lined
-  Japaras should also be avoided along with full length riding 'Driazabone'
-  coats, which are too heavy and hot for Cross Country Skiing.
-- _Overpants_ – To be useful these must be water and wind proof
-- _Woollen Jumper, Fibrepile or Polarfleece_
-- _Woollen or Thermal shirt or skivvy_
+  use some sort of breathable hard shell, such as a 'Goretex' or equivalent
+  (e.g. another brand like 'eVent', or propietry fabrics from brands like
+  Kathmandu). The coat should have ample hood. Most Alpine or Downhill Ski
+  jackets are too hot for Cross Country Skiing. Cotton Lined Japaras should also
+  be avoided along with full length riding 'Driazabone' coats, which are too
+  heavy and hot for Cross Country Skiing.
+- _Overpants_ – To be useful these must be water and wind proof. These are often
+  generally available (and preferable) in similar fabrics like 'Goretex',
+  'eVent' or per-brand equivalents.
+- _Woollen jumper, polarfleece, or softshell Jacket_
+- _Woollen or thermal shirt or skivvy_
 - _Woollen or other appropriate trouser_ – High quality nylon tracksuit pants
   may be adequate. Avoid Cotton and Denim at all costs.
 - _Socks_ – Woollen blends such as 'Explorers' are recommended. Pure wool and
   football socks can cause blisters. Many people wear 2 pairs of socks when
-  wearing Ski Boots.
+  wearing Ski Boots. Specific ski touring socks, or general skiing socks, are
+  nice but aren't necessary (they can be pricey).
 - _Gaiters_ – they keep the snow out of your boots.
-- _Ski Gloves_ – bring a spare pair, overmitts are an advantage for woollen
-  gloves. Using an older pair on the tow is suggested as it is wearing
+- _Ski gloves_ – bring a spare pair, overmitts are an advantage for woollen
+  gloves. We suggest using an older pair on the tow is suggested to avoid extra
+  wear on nice (or soft) gloves
 
 ### Clothing for the Chalet
 
@@ -106,6 +120,106 @@ _Sleds are strictly prohibited, gear must be carried in a pack._
 - _Footwear_ - Light weight runners, Slippers or Surf sandals
 - _Spare Clothes_ - a single set of clothes should suffice, there is a washing
   machine and powder is provided.
+
+## Skis and bindings
+
+Most people who visit the Bogong Rover Chalet use cross-country/telemark ski
+gear. For example 75mm bindings, sometimes called Nordic Norm (_not_ New Nordic
+Norm which are different), on patterned skis. If hiring, then this type of ski -
+with metal edges - would be appropriate. Skis that are appropriate are also
+sometimes referred to as XCD skis.
+
+Shops that can assist with ski hire or purchase include: [Ajays and EMC
+(Melbourne)](http://www.snow-ski.com.au), [The Wilderness Shop
+(Melbourne)](https://www.wildernessshop.com.au/), [Rocky Valley (Mt
+Beauty)](https://www.rockyvalley.com.au/snow-ski-hire-mount-beauty.html) and
+[Cross Country Skier (Wodonga)](https://crosscountryskier.com.au/). Some of
+these stores know the Chalet and saying you're "going to the Bogong Rover
+Chalet" may be helpful.
+
+### Other ski and binding options
+
+Some peopls use different ski and binding options when visiting the Chalet. If
+this is your first time and you don't have much ski experience we suggest
+sticking with the [above](#skis-and-bindings) suggestions.
+
+These details are more appropriate for experienced skiers or experienced Chalet
+attendees.
+
+#### Binding options - telemark/cross country
+
+_Note: These details are more appropriate for experienced skiers or experienced
+Chalet attendees. Stick with the [above](#skis-and-bindings) suggestions if this
+is your first time skiing._
+
+_NTN bindings_ - these are (generally speaking) comparable (_although not
+compatible_) with 75mm bindings (and are often a higher quality option) and are
+very appropriate for visiting the Chalet. The main drawback is the possible
+increased cost.
+
+_3 pin bindings_ - these are appropriate for any attendees, however they are
+less popular than 75mm cable bindings due to their reduced boot support (which
+makes them less friendly for stopping and turning). If in doubt we suggest 75mm
+cable bindings in preference to 3 pin bindings - especially for beginners. They
+are fine, but we suggest 75mm or NTN in preference to 3 pin.
+
+_NNN bindings_ - these may be appropriate for the Chalet, but are generally not
+recommended. They generally don't offer as much support - which is not what you
+want (similar to the criticisms of 3 pin bindings). This lack of support is
+particularly noticeable for beginners with packs. More experienced skiers who
+want to progress their skiing may not like them as much because their lower
+level of support is not good for learning to turn and brake with more
+confidence. They are fine - but we suggest 75mm or NTN in preference to NNN.
+
+#### Binding options - alpine touring
+
+_Note: These details are more appropriate for skiers with some (downhill)
+experience or experienced Chalet attendees. Stick with the
+[above](#skis-and-bindings) suggestions if this is your first time skiing._
+
+If you have some downhill skiing experience, but no cross country experience,
+then it would be worth considering the binding options in this section -
+although they can be harder to hire (in particular with patterned skis). Using
+cross country gear is still appropriate if you only have downhill experience
+(it's our suggestion for first timers, so you should be fine).
+
+_Dynafit/pin-style bindings_ - these are appropriate for the Chalet. You must
+bring leashes if using this type of binding and they don't include a brake (most
+don't). This type of binding is appropriate for experienced AT (alpine touring)
+skiers. This type of binding may be appropriate for less experienced skiers who
+have downhill experience - however we are not able to help with these bindings,
+hence you must be compitent in using the bindings before arriving (e.g. having
+done a practice weekend).
+
+_Touring-centric resort-style AT bindings_ - these are appropriate for the Chalet.
+Examples include Salomon Shifts or Marker Kingpins. These are backcountry AT
+bindings which are focussed on touring/backcountry skiing, but can do double
+duty skiing at a resort. These use pin toes and then a traditional downhill heel
+(generally speaking). Again, we generally can't help with these bindings,
+although they are simpler than Dynafit/pin-style bindings.
+
+_Resort-style bindings with a touring mode_ - these are appropriate for the
+Chalet. They're generally less efficient for the trip in and out, and for other
+touring - but are workable. Again, we generally can't help with these bindings,
+although they are simpler than Dynafit/pin-style bindings. A lot of people who
+have used this type of binding decide they don't want to do it again and decide
+to investigate the more touring-centric resort-style AT bindings (or
+Dynafit/pin-style bindings). They're not as much fun for the touring, but can be
+great fun on the tow.
+
+#### Skis - patterned vs unpatterned
+
+Patterned skis are strongly advised for the Chalet. They are much much more
+enjoyable for the trip in/out, and for any touring.
+
+We would strongly discourage any inexperienced tourers from considering using
+unpatterned skis with skins for the trip in to the Chalet due to the extra
+effort and frustration they can bring - especially if they ice up, which is not
+uncommon in Australian conditions. It has been done, but a lot of people who use
+unpatterned skis with skins decide to source patterned skis for future trips. If
+you have experience with unpatterned skis and skins and are willing to travel a
+long distance on them, then they are an option worth considering (including with
+kicker skins).
 
 ## Other gear
 
