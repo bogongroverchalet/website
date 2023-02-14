@@ -137,6 +137,21 @@ Beauty)](https://www.rockyvalley.com.au/snow-ski-hire-mount-beauty.html) and
 these stores know the Chalet and saying you're "going to the Bogong Rover
 Chalet" may be helpful.
 
+### Things to say at a hire shop if you're struggling
+
+I am going to the Bogong Rover Chalet, if you know it, it's about 11km from
+Falls Creek on ungroomed trails and I'll be skiing with a pack. I'm looking for
+75mm cable bindings on patterned skis with metal edges.
+
+If this isn't enough detail for them, try the descriptions below:
+
+- I'm looking for XCD skis with telemark bindings.
+- Other people I'm skiing with use skis like: the Madshus Annum (formerly known
+  as the Karhu Guide), the Fischer S-Bound 98 (or less commonly, the Fischer
+  S-Bound 112 or 125), or the Rossignol BC 90 Positrack (or BC 80).
+- Other people I'm skiing with use bindings like: G3 Targa or Voile Switchbacks.
+  Some people use more premium options like the 22 Designs Axl or NTN bindings.
+
 ### Other ski and binding options
 
 Some peopls use different ski and binding options when visiting the Chalet. If
