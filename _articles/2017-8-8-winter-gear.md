@@ -151,6 +151,7 @@ If this isn't enough detail for them, try the descriptions below:
   S-Bound 112 or 125), or the Rossignol BC 90 Positrack (or BC 80).
 - Other people I'm skiing with use bindings like: G3 Targa or Voile Switchbacks.
   Some people use more premium options like the 22 Designs Axl or NTN bindings.
+- Other people I'm skiing with use boots like: Scarpa T4 or Scott Excursions
 
 ### Other ski and binding options
 
