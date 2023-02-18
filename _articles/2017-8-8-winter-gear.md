@@ -112,6 +112,8 @@ _Sleds are strictly prohibited, gear must be carried in a pack._
 - _Ski gloves_ – bring a spare pair, overmitts are an advantage for woollen
   gloves. We suggest using an older pair on the tow is suggested to avoid extra
   wear on nice (or soft) gloves
+- _Ski helmet_ – A nice safe option whilst cross country skiing, and an
+  essential safety item for skiing the tow.
 
 ### Clothing for the Chalet
 
@@ -151,7 +153,7 @@ If this isn't enough detail for them, try the descriptions below:
   S-Bound 112 or 125), or the Rossignol BC 90 Positrack (or BC 80).
 - Other people I'm skiing with use bindings like: G3 Targa or Voile Switchbacks.
   Some people use more premium options like the 22 Designs Axl or NTN bindings.
-- Other people I'm skiing with use boots like: Scarpa T4 or Scott Excursions
+- Other people I'm skiing with use boots like: Scarpa T4 or Scott Excursions.
 
 ### Other ski and binding options
 
@@ -165,8 +167,8 @@ attendees.
 #### Binding options - telemark/cross country
 
 _Note: These details are more appropriate for experienced skiers or experienced
-Chalet attendees. Stick with the [above](#skis-and-bindings) suggestions if this
-is your first time skiing._
+Chalet attendees. **Stick with the [above](#skis-and-bindings) suggestions if
+this is your first time skiing.**_
 
 _NTN bindings_ - these are (generally speaking) comparable (_although not
 compatible_) with 75mm bindings (and are often a higher quality option) and are
@@ -190,8 +192,8 @@ confidence. They are fine - but we suggest 75mm or NTN in preference to NNN.
 #### Binding options - alpine touring
 
 _Note: These details are more appropriate for skiers with some (downhill)
-experience or experienced Chalet attendees. Stick with the
-[above](#skis-and-bindings) suggestions if this is your first time skiing._
+experience or experienced Chalet attendees. **Stick with the
+[above](#skis-and-bindings) suggestions if this is your first time skiing.**_
 
 If you have some downhill skiing experience, but no cross country experience,
 then it would be worth considering the binding options in this section -
@@ -236,6 +238,34 @@ unpatterned skis with skins decide to source patterned skis for future trips. If
 you have experience with unpatterned skis and skins and are willing to travel a
 long distance on them, then they are an option worth considering (including with
 kicker skins).
+
+#### Boots - telemark/cross country
+
+Most people visiting the Chalet use plastic boots like the Scarpa T4 or Scott
+Excursions. Some people use heavier boots, even up to 4-buckle boots like Scarpa
+T1s. We don't suggest this as they are very heavy aren't ideal for touring, but
+people do do it.
+
+Some people use leather boots based on personal preference, and historically we
+suggested these to beginners, but we don't suggest them any more as the world
+has moved towards plastic boots.
+
+#### Boots - alpine touring
+
+_Note: These details are more appropriate for experienced skiers or experienced
+Chalet attendees. **Stick with the [above](#skis-and-bindings) suggestions if
+this is your first time skiing.**_
+
+If you are going to use alpine touring gear to get to the Chalet then ensuring
+you have appropriate boots is very important. Ensure you have boots with a
+**good walk mode**. The people we know who have visited the Chalet in boots
+without a walk mode have struggled and vowed never to do it again.
+
+Boots like the Tecnica Cochise or Dalbello Lupo are a reasonable option for a
+boot that is used at a resort but would also be acceptable (for most people) for
+the trip to the Chalet.
+
+Any touring-focussed AT (alpine touring) boot would work well.
 
 ## Other gear
 
