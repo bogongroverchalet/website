@@ -4,7 +4,7 @@ title: Summer dates
 <div class='dates-container__winter'>
   <h4>22/23 key dates</h4>
   <p style='max-width: 24em; margin-bottom: 1em'>
-    <i>Note: due to the <a href='https://regionalroads.vic.gov.au/map/north-eastern-improvements/bogong-high-plains-road-closure'>road closure</a> our summer schedule may need to be adjusted as the situation evolves.</i>
+    <i>Note: due to the <a href='https://bigbuild.vic.gov.au/projects/mrpv/bogong-high-plains-road-landslip'>road closure</a> our summer schedule may need to be adjusted as the situation evolves.</i>
   </p>
   <div>
     <table class='dates'>
