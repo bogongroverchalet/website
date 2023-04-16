@@ -16,7 +16,7 @@ title: Summer dates
       <tr><td><a href='https://www.trybooking.com/CHDSN'>Easter working bee</a></td><td>7th Apr - 10th Apr</td></tr>
       <tr><td><a href="/visiting/visiting-in-summer/#venturer-mountain-bike-weekend">Venturer Mountain Bike Weekend</a></td><td>13th Apr - 16th Apr</td></tr>
       <tr><td><i>Summer use ends</i></td><td>TBC (Approx 21st Apr)</td></tr>
-      <tr><td>Food working bee</td><td>21st Apr - 25th Apr</td></tr>
+      <tr><td><a href='https://www.trybooking.com/1047998'>Food working bee</a></td><td>21st Apr - 25th Apr</td></tr>
     </table>
   </div>
 </div>
