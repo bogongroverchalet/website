@@ -26,6 +26,10 @@ _Go Skiing_ - If the season allows it, get in some practice cross country
 skiing. Practice carrying a heavier pack for a few hours both skiing and
 walking.
 
+_Go Hiking_ - Skiing with a pack on is a different experience and is extra work.
+Go for some practice hikes to get used to carrying a pack again, and to help
+with your fitness.
+
 ## Ambulance cover
 
 We highly recommend that you have full ambulance cover as skiing, either cross
