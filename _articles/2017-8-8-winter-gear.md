@@ -48,6 +48,8 @@ _Note: for 2023 we will only be offering ski rental packages for Venturers, not
 for any other type of booking. [Ajays](http://www.snow-ski.com.au) will continue
 to offer a discounted rental rate to Rovers :-)_
 
+_Hire skis as soon as possible to ensure that the hire stores don't run out._
+
 _Pack_ – with ample hip belt and chest strap. Modern internally framed packs
 with large hip belts to load weight onto the hips make carrying your load
 easier. They are available for hire from an outdoor shop if necessary. Packs are
@@ -124,6 +126,9 @@ _Sleds are strictly prohibited, gear must be carried in a pack._
   machine and powder is provided.
 
 ## Skis and bindings
+
+_If hiring ski gear, organise it as soon as possible because ski hire shops may
+run out of appropriate gear._
 
 Most people who visit the Bogong Rover Chalet use cross-country/telemark ski
 gear. For example 75mm bindings, sometimes called Nordic Norm (_not_ New Nordic
