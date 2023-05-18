@@ -1,134 +1,27 @@
 ---
-title: Winter gear
+title: Ski gear
 description: >
-  Nothing will spoil your Winter Party more than having equipment that doesn't
-  do the job right. This page will help you get sorted.
+  Information about hiring ski gear for heading out to the Chalet.
 date: 2017-8-8
 list_order: 3
 categories:
   - winter attendee information
 ---
 
-## COVID requirements
+## Ski gear overview
 
-**Bring five RATs and at least one mask.**
-
-## Equipment checklist
-
-Nothing will spoil your Winter Party more than having equipment that doesn't do
-the job right. If you are not sure about anything ask your party leader. The
-suggestions made in the following list have come from years of experience during
-Winter Parties. If borrowing gear make sure that it fits correctly and is
-serviceable. If hiring gear, explain why you need the equipment. Mention that it
-is for the Bogong Rover Chalet, many staff at outdoor stores will know about the
-Chalet. When choosing clothing go for softshell, polar fleece, wool, thermals
-and similar. **Avoid cotton and denim.** If in any doubt, speak to your Party
-Leader.
-
-## For Mt Beauty Scout Hall on Friday night
-
-- Sleeping Bag - if possible, a second one makes packing and departing easier,
-  but is not necessary at all
-- Pillow (to be left in your car at Mount Beauty)
-- Sleeping Mat or Lilo (to be left in your car at Mount Beauty)
-- Simple prepared breakfast (to be left in your stomach at Mount Beauty)
-- Water to drink before departing - being well hydrated before starting is a
-  great way to make life better
-
-## For the trip into the Chalet
-
-- Prepared lunch and energy food such as chocolate, muesli bars or scroggin -
-  don't forget water.
-- All your ski equipment – cross-country skis, boots and poles.
-- All your equipment and clothing for the chalet in a pack.
-
-## Pack, ski equipment, and other gear
+_If hiring ski gear, organise it as soon as possible because ski hire shops may
+run out of appropriate gear._
 
 _Note: for 2023 we will only be offering ski rental packages for Venturers, not
 for any other type of booking. [Ajays](http://www.snow-ski.com.au) will continue
 to offer a discounted rental rate to Rovers :-)_
 
-_Hire skis as soon as possible to ensure that the hire stores don't run out._
+Below are more details for hiring skis, stocks (poles), bindings and boots for
+your trip to the Chalet.
 
-_Pack_ – with ample hip belt and chest strap. Modern internally framed packs
-with large hip belts to load weight onto the hips make carrying your load
-easier. They are available for hire from an outdoor shop if necessary. Packs are
-not one size fits all and need to be fitted properly. Some packs are
-specifically designed for men or women.
-
-_Sleds are strictly prohibited, gear must be carried in a pack._
-
-- _Water proofing_ - be sure to line your pack with a large plastic bag to keep
-  everything dry. Pack your sleeping bag into another plastic bag. You can never
-  have too many plastic bags. Also a well fitting pack cover is good to have.
-- _Packing_ – Pack your sleeping bag at the bottom out of the way and heavier
-  articles lower down and nearer your back. Put spare clothes that you may need
-  nearer to the top or in the pockets. Nothing should be tied to the outside of
-  your pack as it may be lost.
-
-![Packing diagram](/img/info/pack.png)
-
-- _Load_ – Keep the weight down below 15 kilograms including your allowance
-  for fresh food, about 2 kilograms. First timers should especially focus on
-  keeping weight down by avoiding unnecessary items e.g. bringing too many
-  spares.
-- _Extra space for food_ – All winter party members are expected to carry in a
-  parcel of meat and fresh vegetables. Please bring plastic bags for this
-  purpose.
-- _Cross country skis_ – suitable for medium to heavy touring with a pack. The
-  use of some sort of retention strap is highly recommended to prevent runaway
-  skis (e.g. ski leashes). [See below](#skis-and-bindings) for more details if
-  needed.
-- _Cross country ski boots_ – Plastic boots are recommended, although some
-  people prefer leather boots from their previous experience.
-  For leather boots, a sturdier high cut boot is recommended. Waterproof
-  leather boots with 'Snoseal' or similar. (Do not use Dubbin as it softens the
-  leather)
-- _Cross country ski poles_ – Any material is suitable. A larger basket for soft
-  snow is recommended. Adjustable poles are nice, but not necessary.
-- _U.V. Sunglasses_ – with retention strap, and ski goggles if desired. Most
-  people prefer sunglasses for touring and have goggles for skiing the tow, and
-  sometimes in particularly bad weather.
-- _Compass and map of the area._
-- _Beanie or balaclava_
-- _Hat_ – Something to protect you from the sun in nicer weather.
-- _Coat_ - One of the most important items you'll be carrying. We recommend you
-  use some sort of breathable hard shell, such as a 'Goretex' or equivalent
-  (e.g. another brand like 'eVent', or propietry fabrics from brands like
-  Kathmandu). The coat should have ample hood. Most Alpine or Downhill Ski
-  jackets are too hot for Cross Country Skiing. Cotton Lined Japaras should also
-  be avoided along with full length riding 'Driazabone' coats, which are too
-  heavy and hot for Cross Country Skiing.
-- _Overpants_ – To be useful these must be water and wind proof. These are often
-  generally available (and preferable) in similar fabrics like 'Goretex',
-  'eVent' or per-brand equivalents.
-- _Woollen jumper, polarfleece, or softshell Jacket_
-- _Woollen or thermal shirt or skivvy_
-- _Woollen or other appropriate trouser_ – High quality nylon tracksuit pants
-  may be adequate. Avoid Cotton and Denim at all costs.
-- _Socks_ – Woollen blends such as 'Explorers' are recommended. Pure wool and
-  football socks can cause blisters. Many people wear 2 pairs of socks when
-  wearing Ski Boots. Specific ski touring socks, or general skiing socks, are
-  nice but aren't necessary (they can be pricey).
-- _Gaiters_ – they keep the snow out of your boots.
-- _Ski gloves_ – bring a spare pair, overmitts are an advantage for woollen
-  gloves. We suggest using an older pair on the tow is suggested to avoid extra
-  wear on nice (or soft) gloves
-- _Ski helmet_ – A nice safe option whilst cross country skiing, and an
-  essential safety item for skiing the tow.
-
-### Clothing for the Chalet
-
-- _Scout Uniform_ - minimum of Shirt and Scarf (don't forget your Alpine
-  Venturer, Alpine Rover, or Bogong Rovers scarf if you have one)
-- _Footwear_ - Light weight runners, Slippers or Surf sandals
-- _Spare Clothes_ - a single set of clothes should suffice, there is a washing
-  machine and powder is provided.
-
-## Skis and bindings
-
-_If hiring ski gear, organise it as soon as possible because ski hire shops may
-run out of appropriate gear._
+Want to know more about what to pack? Check out our [winter packing
+list](../winter-packing-list).
 
 Most people who visit the Bogong Rover Chalet use cross-country/telemark ski
 gear. For example 75mm bindings, sometimes called Nordic Norm (_not_ New Nordic
@@ -162,7 +55,7 @@ If this isn't enough detail for them, try the descriptions below:
 
 ### Other ski and binding options
 
-Some peopls use different ski and binding options when visiting the Chalet. If
+Some people use different ski and binding options when visiting the Chalet. If
 this is your first time and you don't have much ski experience we suggest
 sticking with the [above](#skis-and-bindings) suggestions.
 
@@ -272,28 +165,20 @@ the trip to the Chalet.
 
 Any touring-focussed AT (alpine touring) boot would work well.
 
-## Other gear
+#### Stocks (poles)
 
-- _Sleeping Bag_ - the Chalet is quite warm but a good quality bag is advisable
-  for emergencies.
-- _Fitted Sheet_ - **to meet our COVID-Safe plan you _must_ bring a fitted sheet**
-- _Pillow Slip and Inner Sheet_ - For hygiene reasons
-- _Spare under wear_
-- _Personal first aid kit_ - items you are likely to need including band aids,
-  blister tape, 'Second Skin' headache tablets, knee brace etc.
-- _Sweets, Chocolate or Scroggin_ - Watch the weight
-- _Light weight water bottle_ - Approximately I litre.
-- _Day Pack_ - Highly recommended
-- _Toiletries – Watch the weight_ - bring only what you need for a week
-- _Towel_ – a small one will do.
-- _Sunscreen & lip balm_ - '30+' and water resistant
-- _Camera_ - light weight, optional.
-- _Small torch_ - with new batteries
-- _Mobile phone_ - reception at the chalet itself is minimal to non-existant,
-  however it can useful while touring.
-- _**Five RATs and at least one mask**_.
- - Note: _Sleds are strictly prohibited, gear must be carried in a pack._
+Adjustable stocks are preferable if possible, however fixed length stocks are
+completely fine. The length of stocks used for the Chalet are longer than stocks
+used when downhill skiing. We generally suggest using slightly shorter stocks
+than traditional cross country pole lengths (which are measured around the
+armpit) as these longer stocks can make it harder to balance with a pack.
+Between the two lengths (downhill is measured from the elbow to the ground,
+whilst cross country are measured from the armpit to the ground - so between
+those two points) is a good length for stocks.
+
+Stocks with larger baskets are better than stocks with smaller baskets. We
+specifically suggest avoiding small "skate skiing" baskets. Similarly, if
+possible, avoiding small downhill skiing baskets is preferable too.
 
 **If you have any doubts, questions or concerns regarding equipment contact your
 party leader or the bookings officer on 0407 242 538**
-

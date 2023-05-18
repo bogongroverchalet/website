@@ -19,7 +19,10 @@ related_links: false
   {% if article.slug == 'winter-preparation' %}
     {% assign winter_preparation = article.content %}
   {% endif %}
-  {% if article.slug == 'winter-gear' %}
+  {% if article.slug == 'winter-packing-list' %}
+    {% assign winter_packing_list = article.content %}
+  {% endif %}
+  {% if article.slug == 'winter-ski-gear' %}
     {% assign winter_gear = article.content %}
   {% endif %}
   {% if article.slug == 'winter-blisters' %}
@@ -32,6 +35,7 @@ related_links: false
 
 {{ winter_overview }}
 {{ winter_preparation }}
+{* winter_packing_list *}
 {{ winter_gear }}
 {{ winter_blisters }}
 {{ winter_getting_in }}
