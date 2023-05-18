@@ -35,6 +35,13 @@ related_links: false
 
 {{ winter_overview }}
 {{ winter_preparation }}
+
+## Packing list
+
+Download our packing list as a [PDF](/downloads/Packing%20list%202023.pdf) or a
+[Word doc](/downloads/Packing%20list%202023.docx), or view it online
+[here](../winter-packing-list/).
+
 {{ winter_gear }}
 {{ winter_blisters }}
 {{ winter_getting_in }}
