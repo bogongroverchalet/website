@@ -43,5 +43,8 @@ Download our packing list as a [PDF](/downloads/Packing%20list%202023.pdf) or a
 [here](../winter-packing-list/).
 
 {{ winter_gear }}
+
+## Avoiding blisters
+
 {{ winter_blisters }}
 {{ winter_getting_in }}
