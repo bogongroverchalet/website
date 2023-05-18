@@ -35,7 +35,6 @@ related_links: false
 
 {{ winter_overview }}
 {{ winter_preparation }}
-{* winter_packing_list *}
 {{ winter_gear }}
 {{ winter_blisters }}
 {{ winter_getting_in }}
