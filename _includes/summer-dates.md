@@ -8,6 +8,7 @@ title: Summer dates
   </p>
   <div>
     <table class='dates'>
+      <tr><td><i>Closed</i></td><td><i>Winter season until Melbourne Cup Day</i></td></tr>
       <tr><td>Australia Day working bee</td><td>26th Jan - 29th Jan</td></tr>
       <tr><td>Bathroom renovations</td><td>Dec/Jan/Feb - TBC</td></tr>
       <!--<tr><td>Australia day working bee</td><td>TBC</td></tr>-->
