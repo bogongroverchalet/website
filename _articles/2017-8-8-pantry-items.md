@@ -9,7 +9,7 @@ list_order: null
 related_links: false
 ---
 
-<div markdown=1 style='max-width: 30em'>
+<div markdown=1 class='narrow-article'>
 
 During winter we carry some fresh food in to the Chalet (meat and vegetables),
 but then primarily eat food from the communal pantry.

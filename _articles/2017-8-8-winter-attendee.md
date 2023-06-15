@@ -31,6 +31,9 @@ related_links: false
   {% if article.slug == 'winter-getting-in' %}
     {% assign winter_getting_in = article.content %}
   {% endif %}
+  {% if article.slug == 'pantry-items' %}
+    {% assign pantry_items = article.content %}
+  {% endif %}
 {% endfor %}
 
 {{ winter_overview }}
@@ -48,3 +51,7 @@ Download our packing list as a [PDF](/downloads/Packing%20list%202023.pdf) or a
 
 {{ winter_blisters }}
 {{ winter_getting_in }}
+
+## Food and pantry info
+
+{{ pantry_items }}
