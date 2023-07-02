@@ -17,6 +17,6 @@ title: Winter dates
     <tr><td>Ski Week 11</td><td>Sep 1st – Sep 9th</td></tr>
     <tr style='font-style: italic'><td>Private booking</td><td>Sep 9th – Sep 16th</td></tr>
     <tr><td>Vic Snow Venture 2</td><td>Sep 15th – Sep 23rd</td></tr>
-    <tr><td>Vic Snow Venture 3</td><td>Sep 22nd – Sep 30th</td></tr>
+    <!--<tr><td>Vic Snow Venture 3</td><td>Sep 22nd – Sep 30th</td></tr>-->
   </table>
 </div>
