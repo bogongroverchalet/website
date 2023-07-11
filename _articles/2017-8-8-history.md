@@ -74,8 +74,19 @@ changes the Chalet's purpose remains true to its aims, the most important of
 which are to educate young people, and to be a "fellowship of open air and
 service".
 
+## Art & Video Show – 1940 to 1965
 
+On the 25th of March 2023, friends of the Chalet ran an event to celebrate the
+history of the Chalet: The Art & Video Show – 1940 to 1965.
 
+Below are a selection of the displays that were shown at the event:
 
+- [A selection of videos](https://www.youtube.com/playlist?list=PLPY3isagL_7HiBY9yZOPzu_6sOzLZ0PHM)
+- [Log book entries - 1945-52](/uploads/High plains Hounds 1945-52 trips to Rover Scout Chalet - Log book entries.pdf)
+- [Log book artworks](/uploads/Bogong Rover Chalet - 1st Log Book Selected Artwork.pdf)
+- [Ecological experiment news article](/uploads/ABC Article - Maise Fawcett.pdf)
+
+_The Bogong Chalet Management Group want to express our appreciation for those
+that organised the event._
 
 
