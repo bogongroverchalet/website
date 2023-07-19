@@ -562,7 +562,11 @@ footer
 
 .tutorial
   .tutorial-content
-    margin-left: 230px
+    +mobile
+      margin-left: 0.5em
+      margin-right: 0.5em
+    +above-mobile
+      margin-left: 230px
     h1
       margin-top: 1em
     h2, h3, h4, h5, h6
@@ -579,5 +583,11 @@ footer
 
 h2 ~ .narrow-article
   max-width: inherit
+
+.footer-nav
+  +mobile
+    margin-bottom: 1em
+  +above-mobile
+    display: flex
 
 @import "drop"
