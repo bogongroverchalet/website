@@ -7,7 +7,7 @@
         <h4>{{ child.title }}</h4>
         <ul>
           {% for child in link.children %}
-          <li><a href='{% article_url {{ child.article_url }} %}'>{{ child.title }}</a></li>
+          <li><a href='{% if child.href %}{{ child.href }}{% else %}{% article_url {{ child.article_url }} %}{% endif %}'>{{ child.title }}</a></li>
           {% endfor %}
         </ul>
       </li>
