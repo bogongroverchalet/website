@@ -11,6 +11,55 @@
   <link href='/css/site.css' rel='stylesheet' />
 </head>
 <body>
+  <nav class='side-nav'>
+    <ul>
+      <a data-scroll href='https://app.bogongroverchalet.org.au' class='dark' style='background-color: #fafafafa; color: #333'>
+        <li>
+          Chalet App
+        </li>
+      </a>
+      <a data-scroll href='{% if page.url != '/' %}/{% endif %}#top' class='dark' style='background-color: green;'>
+        <li>
+          {% if page.url == '/' %} Top {% else %} Home {% endif %}
+        </li>
+      </a>
+      <a data-scroll href='{% if page.url != '/' %}/{% endif %}#summer' style='background-color: yellow;'>
+        <li>
+          Summer
+        </li>
+      </a>
+      <a data-scroll href='{% if page.url != '/' %}/{% endif %}#winter' class='dark' style='background-color: blue;'>
+        <li>
+          Winter
+        </li>
+      </a>
+      <a data-scroll href='{% if page.url != '/' %}/{% endif %}#winter-venturer' class='dark' style='background-color: maroon;'>
+        <li>
+          Snow Venture
+        </li>
+      </a>
+      <a data-scroll href='{% if page.url != '/' %}/{% endif %}#winter-rover' class='dark' style='background-color: red;'>
+        <li>
+          Ski Moot
+        </li>
+      </a>
+      <a data-scroll href='#more-info' class='dark not-mobile' style='background-color: #999;'>
+        <li>
+          More info
+        </li>
+      </a>
+      <a data-scroll href='#footer-nav' class='dark only-mobile' style='background-color: #999;'>
+        <li>
+          Full menu
+        </li>
+      </a>
+      <a href='#' onclick='window.event.preventDefault()' class='dark only-mobile' style='background-color: #333;'>
+        <li>
+          Close menu
+        </li>
+      </a>
+    </ul>
+  </nav>
   {{content}}
   <script id="netlify-identity" src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
   <script>
@@ -53,6 +102,8 @@
       })
     }
     new SmoothScroll('[data-scroll]', {
+      speedAsDuration: true,
+      speed: 500,
       easing: 'easeOutQuad',
       offset: function(anchor, toggle) {
         return anchor.id === 'winter-rover' || anchor.id === 'winter-venturer' ? 200 : anchor.id === 'summer' || anchor.id === 'winter' || anchor.id === 'more-info' ? 150 : 0
