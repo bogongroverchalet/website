@@ -349,3 +349,4 @@ jumper, and no need to ski it in! 😉
 
 **If you have any doubts, questions or concerns regarding equipment contact your
 party leader or the bookings officer on 0407 242 538**
+
