@@ -15,11 +15,11 @@
     - article_url: booking-conditions
       title: Booking conditions
     - href: https://app.bogongroverchalet.org.au
-      title: Chalet App
+      title: Chalet app
     - article_url: visiting-in-summer
-      title: Visiting in Summer
+      title: Visiting in summer
     - article_url: visiting-in-winter
-      title: Visiting in Winter
+      title: Visiting in winter
 - title: Winter attendee info
   children:
     - article_url: winter-attendee
