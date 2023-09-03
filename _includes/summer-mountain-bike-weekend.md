@@ -7,6 +7,4 @@ The Bogong Rover Chalet offers a unique opportunity for Venturer’s to experien
 
 The trip will be an action packed experience, allowing Venturers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
-<p style='font-weight: bold'>
-Thursday 8th April - Sunday 11th April 2021
-</p>
+<a href='/visiting/visiting-in-summer/#venturer-mountain-bike-weekend'>Learn more :-)</a>
