@@ -85,16 +85,108 @@ everything/anything.
 
 ### List
 
-- Pack
-  - 50-60L is a good target size, if it's larger ensure you don't
-    fill it
-  - Ensure it has a waterproof cover that won't blow away in wind,
-    also waterproof the inside (e.g. using garbage bags)
-  - Needs to have a functional harness (waist belt and chest strap)
-  - Try it on and ensure it fits well
-- Skis -- more details are available [here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/)
-- Stocks/poles -- more details are available [here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/)
-- Boots -- more details are available [here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/)
+<table class='winter-packing-list'>
+  <thead>
+    <tr>
+      <th>
+        Item
+      </th>
+      <th>
+        Quantity
+      </th>
+      <th>
+        Optional
+      </th>
+      <th>
+        Details
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Pack
+      </td>
+      <td>
+        1
+      </td>
+      <td>
+        No
+      </td>
+      <td>
+        <details>
+        <summary></summary>
+<div markdown=1>
+- 50-60L is a good target size, if it's larger ensure you don't
+  fill it
+- Ensure it has a waterproof cover that won't blow away in wind,
+  also waterproof the inside (e.g. using garbage bags)
+- Needs to have a functional harness (waist belt and chest strap)
+- Try it on and ensure it fits well
+</div>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Skis
+      </td>
+      <td>
+        1
+      </td>
+      <td>
+        No
+      </td>
+      <td>
+        <details>
+        <summary></summary>
+<div markdown=1>
+More details are available [here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/)
+</div>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Stocks/poles
+      </td>
+      <td>
+        1
+      </td>
+      <td>
+        No
+      </td>
+      <td>
+        <details>
+        <summary></summary>
+<div markdown=1>
+More details are available [here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/)
+</div>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Ski boots
+      </td>
+      <td>
+        1
+      </td>
+      <td>
+        No
+      </td>
+      <td>
+        <details>
+        <summary></summary>
+<div markdown=1>
+More details are available [here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/)
+</div>
+        </details>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 - Ski leashes -- these are really important as they stop your skis
   from disappearing
 - Water bottle -- at least one litre. If using an insulated one, then
