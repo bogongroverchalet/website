@@ -1,6 +1,7 @@
 ---
 title: Winter packing list draft
-categories: []
+categories:
+  - winter attendee information
 description: >
   A packing list for a trip to the Chalet. Don't take too much, but also don't
   skimp!
