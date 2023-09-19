@@ -805,8 +805,7 @@ Emergency toilet paper for tours
 There is a washing machine and it will be run daily. There is also a
 drying room. Clothing wise, less is more! Washing power is provided.
 
-Don't forget, we have merch in the chalet too -- get yourself a new
-jumper, and no need to ski it in! 😉
+Don't forget, we have merch in the chalet too! 😉
 
 ***You must not bring cotton or denim.***
 
