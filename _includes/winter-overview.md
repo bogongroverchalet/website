@@ -16,4 +16,4 @@ Our Ski Weeks are incredibly [good value](https://bogongroverchalet.org.au/visit
 
 [How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
 
-[Book now!]({{ site.booknow }})
+<!--[Book now!]({{ site.booknow }})-->
