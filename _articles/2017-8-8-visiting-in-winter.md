@@ -19,7 +19,7 @@ The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 
 ## 2023 Prices
 
-### Early bird (before March 31)
+### 2023 Early bird (before March 31)
 
  - Current Rover $340
  - Scout Movement Member $420
