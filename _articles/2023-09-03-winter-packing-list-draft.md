@@ -47,8 +47,6 @@ as optional.*
 
 ## Friday night/Saturday morning
 
-### Introduction
-
 Friday night we stay at a community/Scout hall in Towonga or Mt Beauty.
 
 You want to be able to leave everything you use Friday night in the cars
@@ -57,8 +55,6 @@ for the trip up, and means that Saturday morning can be stress free.
 This isn't mandatory, but is certainly nicer.
 
 Be prepared for the hall to be cold/cool.
-
-### List
 
 <table class='winter-packing-list'>
   <thead>
@@ -258,8 +254,6 @@ Yes
 
 Don't forget you can hire or borrow things, it's not necessary to buy
 everything/anything.
-
-### List
 
 <table class='winter-packing-list'>
   <thead>
@@ -899,7 +893,7 @@ Modesty shorts for over thermals on tours -- optional
 Mid layer
       </td>
       <td>
-44958
+1 or 2 
       </td>
       <td>
 No
