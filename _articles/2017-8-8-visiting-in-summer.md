@@ -28,7 +28,7 @@ Or just relax and take in our beautiful natural environment.  There's a heap to 
 
 ## Venturer Mountain Bike Weekend
 
-[Book now, before it books out!]({{ site.mountain_bike_booknow }})<br><br>
+<!--[Book now, before it books out!]({{ site.mountain_bike_booknow }})<br><br>-->
 
 The Bogong Rover Chalet offers a unique opportunity for Venturers to experience Mountain Bike Riding in the Victorian High Country at a great price. The trip will be an action packed experience, allowing Venturers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
@@ -51,7 +51,7 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual ri
 
 **What else:** The weekend has a limited number of places, so book soon.
 
-[Book now!]({{ site.mountain_bike_booknow }})
+<!--[Book now!]({{ site.mountain_bike_booknow }})-->
 
 For more details contact our [Bookings Team]({% article_url contact %}#bookings).
 
@@ -59,7 +59,7 @@ The Bogong Chalet Management Group reserves the right to change, restrict number
 
 ## Rover Mountain Bike Weekend
 
-[Book now, before it books out!]({{ site.rover_mountain_bike_booknow }})<br><br>
+<!--[Book now, before it books out!]({{ site.rover_mountain_bike_booknow }})<br><br>-->
 
 Following the success and popularity of our Venturer Mountain Bike Weekend, the Bogong Rover Chalet is now offering the same unique opportunity for Rovers to experience Mountain Bike Riding in the Victorian High Country at a great price. The trip will be an action packed experience, allowing Rovers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
 
@@ -75,7 +75,7 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual ri
 
 **What else:** The weekend has a limited number of places, so book soon.
 
-[Book now!]({{ site.rover_mountain_bike_booknow }})
+<!--[Book now!]({{ site.rover_mountain_bike_booknow }})-->
 
 For more details contact our [Bookings Team]({% article_url contact %}#bookings).
 
