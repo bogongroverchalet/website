@@ -2,9 +2,7 @@
 title: Emily's Draft
 date: 2017-8-8
 ---
-```
-
-```
+F﻿riday Night
 
 <table class='winter-packing-list'>
   <thead>
@@ -200,12 +198,6 @@ Yes
   </tbody>
 </table>
 
-
-
-
-
-
-
 G﻿ear
 
 <table class='winter-packing-list'>
@@ -263,7 +255,7 @@ No
         <summary></summary>
 <div markdown=1>
 Backcountry or telemark style NOT crosscountry NOT downhill
-More details are available \[here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/) 
+More details are available \\[here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/) 
 </div>
         </details>
       </td>
@@ -282,7 +274,7 @@ No
         <details>
         <summary></summary>
 <div markdown=1>
-More details are available \[here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/) 
+More details are available \\[here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/) 
 </div>
         </details>
       </td>
@@ -301,7 +293,7 @@ No
         <details>
         <summary></summary>
 <div markdown=1>
-More details are available \[here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/) 
+More details are available \\[here](https://bogongroverchalet.org.au/winter%20attendee%20information/winter-ski-gear/) 
 </div>
         </details>
       </td>
@@ -753,16 +745,6 @@ Emergency toilet paper for tours
   </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
-
 C﻿lothing
 
 <table class='winter-packing-list'>
@@ -1156,14 +1138,6 @@ Low contrast/clear sunglasses -- optional, but nice to have as eye cover when it
 
   </tbody>
 </table>
-
-
-
-
-
-
-
-
 
 C﻿halet
 
