@@ -1,12 +1,12 @@
 ---
 title: Winter packing list
+categories:
+  - winter attendee information
 description: >
   A packing list for a trip to the Chalet. Don't take too much, but also don't
   skimp!
 date: 2017-8-8
 list_order: 4
-categories:
-  - winter attendee information
 ---
 
 _Want to download this list? Here it is as a
@@ -860,7 +860,7 @@ No
         <summary></summary>
 
 <div markdown=1>
-
+M﻿erino smells less, acrylic dries fast.
 </div>
         </details>
       </td>
@@ -879,7 +879,7 @@ No
         <details>
         <summary></summary>
 <div markdown=1>
-
+M﻿erino smells less, acrylic dries fast.
 </div>
         </details>
       </td>
