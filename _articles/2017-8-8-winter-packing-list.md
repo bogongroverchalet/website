@@ -1590,7 +1590,7 @@ Yes
     </tr>
     <tr>
       <td>
-Medication
+Medication (Epi pens, puffers, antihistamines)
       </td>
       <td>
 personal
@@ -1602,7 +1602,7 @@ No
         <details>
         <summary></summary>
 <div markdown=1>
-Personal medical/care/first aid needs
+Personal medical/care/first aid needs. At least two in date epi pens (if you need them), Ventolin/puffer, antihistamine. 
 </div>
         </details>
       </td>
