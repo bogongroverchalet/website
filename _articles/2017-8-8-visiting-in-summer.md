@@ -61,25 +61,8 @@ The Bogong Chalet Management Group reserves the right to change, restrict number
 
 <!--[Book now, before it books out!]({{ site.rover_mountain_bike_booknow }})<br><br>-->
 
-Following the success and popularity of our Venturer Mountain Bike Weekend, the Bogong Rover Chalet is now offering the same unique opportunity for Rovers to experience Mountain Bike Riding in the Victorian High Country at a great price. The trip will be an action packed experience, allowing Rovers to enjoy the thrills and spills of Mountain Bike Riding in some of the most highly regarded off road cycling areas in Australia.
-
-Whether you are a die-hard mountain biker or someone who would enjoy a casual ride in the scenic Victorian high country this weekend is for YOU. *NOTE: You still need to be a fairly strong cycler.*
-
-**When:** Friday 10th March - Monday 13th March 2023
-
-**Cost:** $65 covers meals and accommodation. Bike hire is available for $30
-
-**Location:** [The Bogong Rover Chalet](#getting-here)
-
-**Bike Hire:** Bike hire is available if you don't own a Mountain Bike. Please [contact us](mailto:mtbbookings@bogongroverchalet.org.au) if you are unsure whether your bike is suitable. Working front suspension is a must, and cyclo-cross / hybrid bikes are unsuitable.
-
-**What else:** The weekend has a limited number of places, so book soon.
-
-<!--[Book now!]({{ site.rover_mountain_bike_booknow }})-->
-
-For more details contact our [Bookings Team]({% article_url contact %}#bookings).
-
-The Bogong Chalet Management Group reserves the right to change, restrict numbers and/or alter the program.
+*Unfortunately our Rover Mountain Bike Weekend won't be running in the summer of
+23/24. It will be back the following summer.*
 
 ## Getting Here
 
