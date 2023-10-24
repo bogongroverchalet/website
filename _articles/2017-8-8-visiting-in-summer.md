@@ -34,18 +34,18 @@ The Bogong Rover Chalet offers a unique opportunity for Venturers to experience 
 
 Whether you are a die-hard mountain biker or someone who would enjoy a casual ride in the scenic Victorian high country this weekend is for YOU. *NOTE: You still need to be a fairly strong cycler.* Venturer Leaders are encouraged to accompany their Venturers.
 
-**When:** Thursday 13th April - Sunday 16th April 2023
+**When:** Friday 5th April - Monday 8th April 2024
 
-**Cost:** $130 covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
+**Cost:** $170 covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
 
-**Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Mount Waverley](https://goo.gl/maps/jxKCANnKeTc47c6EA) on Thursday afternoon. We return around 6pm on Sunday.
+**Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Mount Waverley](https://goo.gl/maps/jxKCANnKeTc47c6EA) on Friday afternoon. We return around 6pm on Monday.
 
 **Itinerary:** The following is a quick outline of the weekend.
 
-* Thursday: Travel to the Chalet, riding local trails if time available
-* Friday: MTB skills and then single track at Falls Creek in the afternoon
-* Saturday: Riding single track trails at Falls Creek
-* Sunday: Pack up and a short ride. Travel back home
+* Friday: Travel to the Chalet, riding local trails if time available
+* Saturday: MTB skills and then single track at Falls Creek in the afternoon
+* Sunday: Riding single track trails at Falls Creek
+* Monday: Pack up and a short ride. Travel back home
 
 **Bike Hire:** Bike hire is available if you don't own a Mountain Bike. Please [contact us](mailto:mtbbookings@bogongroverchalet.org.au) if you are unsure whether your bike is suitable. Working front suspension is a must, and cyclo-cross / hybrid bikes are unsuitable.
 
