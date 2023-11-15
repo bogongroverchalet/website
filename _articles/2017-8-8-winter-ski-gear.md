@@ -30,8 +30,7 @@ with metal edges - would be appropriate. Skis that are appropriate are also
 sometimes referred to as XCD skis.
 
 Shops that can assist with ski hire or purchase include: [Ajays and EMC
-(Melbourne)](http://www.snow-ski.com.au), [The Wilderness Shop
-(Melbourne)](https://www.wildernessshop.com.au/), [Rocky Valley (Mt
+(Melbourne)](http://www.snow-ski.com.au), [Rocky Valley (Mt
 Beauty)](https://www.rockyvalley.com.au/snow-ski-hire-mount-beauty.html) and
 [Cross Country Skier (Wodonga)](https://crosscountryskier.com.au/). Some of
 these stores know the Chalet and saying you're "going to the Bogong Rover
