@@ -1,22 +1,23 @@
 ---
 title: Winter dates
 ---
-<h4 class='dates-title'>2023 dates</h4>
+<h4 class='dates-title'>2024 dates</h4>
 <div class='dates-container'>
   <table class='dates'>
-    <tr><td>Week 1 - Ski Moot 1</td><td>Jun 23rd – Jul 1st</td></tr>
-    <tr><td>Vic Snow Venture 1</td><td>Jun 30th – Jul 8th</td></tr>
-    <tr><td>Week 3 - Ski Moot 2</td><td>Jul 7th – Jul 15th</td></tr>
-    <tr><td>SA Snow Venture</td><td>Jul 13th – Jul 22nd</td></tr>
-    <tr><td>Week 5 - Ski Moot 3 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Jul 21st – Jul 29th</td></tr>
-    <tr><td>Ski Week 6</td><td>Jul 28th – Aug 5th</td></tr>
-    <tr style='font-style: italic'><td>National Scouts Alpine School <i class='material-icons' title='Book through the Victorian Alpine Team. This is an exclusive booking for participants in the training program.'>info_outline</i></td><td>Aug 4th – Aug 12th</td></tr>
-    <tr><td>Ski Week 8</td><td>Aug 11th – Aug 19th</td></tr>
-    <tr><td>Ski Week 9</td><td>Aug 18th – Aug 26th</td></tr>
-    <tr><td>Week 10 - Ski Moot 4 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Aug 25th – Sep 2nd</td></tr>
-    <tr><td>Ski Week 11</td><td>Sep 1st – Sep 9th</td></tr>
-    <tr style='font-style: italic'><td>Private booking</td><td>Sep 9th – Sep 16th</td></tr>
-    <tr><td>Vic Snow Venture 2</td><td>Sep 15th – Sep 23rd</td></tr>
+    <tr><td><i>Training Week</i></td><td>Jun 21st – Jun 29th</td></tr>
+    <tr><td>Week 1 - Ski Moot 1</td><td>Jun 28th – Jul 6th</td></tr>
+    <tr><td>Vic Snow Venture 1</td><td>Jul 5th – Jul 13th</td></tr>
+    <tr><td>SA Snow Venture</td><td>Jul 11th – Jul 20th</td></tr>
+    <tr><td>Week 4 - Ski Moot 2</td><td>Jul 19th – Jul 27th</td></tr>
+    <tr><td>Ski Week 5</td><td>Jul 26th – Aug 3rd</td></tr>
+    <tr><td>Ski Week 6</td><td>Aug 2nd – Aug 10th</td></tr>
+    <tr><td>Week 7 - Ski Moot 3<i class='material-icons' title='Open to Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Aug 9th – Aug 17th</td></tr>
+    <tr><td>Ski Week 8</td><td>Aug 16th – Aug 24th</td></tr>
+    <tr><td>Ski Week 9</td><td>Aug 23rd – Aug 31st</td></tr>
+    <tr><td>Week 10 - Ski Moot 4 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Aug 30th – Sep 7th</td></tr>
+    <tr><td>Ski Week 11</td><td>Sep 6th – Sep 14th</td></tr>
+    <tr><td>Ski Week 12</td><td>Sep 13th – Sep 21st</td></tr>
+    <tr><td>Vic Snow Venture 2</td><td>Sep 20th – Sep 28th</td></tr>
     <!--<tr><td>Vic Snow Venture 3</td><td>Sep 22nd – Sep 30th</td></tr>-->
   </table>
 </div>
