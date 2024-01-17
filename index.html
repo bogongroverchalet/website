@@ -49,16 +49,24 @@ if(target) {
     <div style='text-align: center; font-size: 2em'>
       <!--<a class='button button-primary' href='mailto:bookings@bogongroverchalet.org.au'>Book for summer!</a>-->
       <!--<a class='button button-primary' style='text-align: center; font-size: 0.9em' href='{{ site.rover_mountain_bike_booknow }}'>Rover MTB WE</a>-->
-      <!--<a data-booknow class='button button-primary' style='font-size: 0.9em' href='{{ site.booknow }}'>Book for winter</a>-->
+      <div><a data-booknow class='button button-primary' style='font-size: 0.9em' href='{{ site.booknow }}'>Book for winter</a></div>
       <!--<a class='button button-primary' style='text-align: center; font-size: 0.9em' href='{{ site.mountain_bike_booknow }}'>Venturer MTB WE</a>-->
       <script>
         document.addEventListener('click', function bookingsWarning(e) {
           if(e.target.href !== '{{ site.booknow }}') return
-          if(Date.now() > new Date('2023-02-14').getTime()) return
+          if(Date.now() > new Date('2024-02-14').getTime()) return
 
-          var message = 'NOTE: Bookings open in a staggered manner and are open to all from February 14th; all Rovers February 7th; and Victorian Rovers and all Venturers February 1st.\n\nEvents may not appear as expected until then.'
+          var message = Date.now() < new Date('2024-01-31').getTime()
+            ? 'NOTE: Bookings open February 1st - everything will show as sold out/unavailable until then.'
+            : 'NOTE: Bookings open in a staggered manner and are open to all from February 14th - events may not appear as expected until then.'
 
-          if('venturerBooking' in e.target.dataset && Date.now() > new Date('2023-01-31').getTime()) {
+          // var message = 'NOTE: Bookings open in a staggered manner and are open to all from February 14th; all Rovers February 7th; and Victorian Rovers and all Venturers February 1st.\n\nEvents may not appear as expected until then.'
+
+
+          if('venturerBooking' in e.target.dataset) {
+            message = 'NOTE: Venturer bookings open February 1st - everything will show as sold out/unavailable until then.'
+          }
+          if('venturerBooking' in e.target.dataset && Date.now() > new Date('2024-01-31').getTime()) {
             return
           }
 
