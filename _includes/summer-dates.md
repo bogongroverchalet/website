@@ -13,6 +13,7 @@ title: Summer dates
       <!--<tr><td>Special Rover event</td><td>15 Apr - 18 Apr</td></tr>-->
       <tr><td><a href='https://www.trybooking.com/CMMPH'>Easter working bee</a></td><td>30th Mar - 1st Apr</td></tr>
       <tr><td><a href="/visiting/visiting-in-summer/#venturer-mountain-bike-weekend">Venturer Mountain Bike Weekend</a></td><td>5th Apr - 8th Apr</td></tr>
+      <tr><td><a href="https://www.trybooking.com/COPHJ"><span style='white-space: nowrap'>Nobs training <i class='material-icons' title='Nobs training: Learning how to run and use the Chalet as a leader.<br><b>Note: no external bookings are available this weekend.</b>'>info_outline</i></span></a></td><td>12th Apr - 14th Apr</td></tr>
       <tr><td><i>Summer use ends</i></td><td>21st Apr</td></tr>
       <tr><td><a href='https://www.trybooking.com/CMMPJ'>Food working bee</a></td><td>25th Apr - 28th Apr</td></tr>
     </table>
