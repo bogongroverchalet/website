@@ -56,11 +56,9 @@ if(target) {
       <script>
         document.addEventListener('click', function bookingsWarning(e) {
           if(e.target.href !== '{{ site.booknow }}') return
-          if(Date.now() > new Date('2024-02-14').getTime()) return
+          if(Date.now() > new Date('2024-02-16').getTime()) return
 
-          var message = Date.now() < new Date('2024-01-31').getTime()
-            ? 'NOTE: Bookings open February 1st - everything will show as sold out/unavailable until then.'
-            : 'NOTE: Bookings open in a staggered manner and are open to all from February 14th - events may not appear as expected until then.'
+          var message = 'Bookings for non-Rovers will open on the 16th of February (rather than the 14th) due to the power outages.'
 
           // var message = 'NOTE: Bookings open in a staggered manner and are open to all from February 14th; all Rovers February 7th; and Victorian Rovers and all Venturers February 1st.\n\nEvents may not appear as expected until then.'
 
