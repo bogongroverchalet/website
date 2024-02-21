@@ -9,7 +9,7 @@ title: Winter dates
     <tr><td>Vic Snow Venture 1</td><td>Jul 5th – Jul 13th</td></tr>
     <tr><td>SA Snow Venture</td><td>Jul 12th – Jul 21st</td></tr>
     <tr><td>Week 4 - Ski Moot 2</td><td>Jul 19th – Jul 27th</td></tr>
-    <tr><td>Ski Week 5</td><td>Jul 26th – Aug 3rd</td></tr>
+    <tr><td>Ski Week 5 <i class='material-icons' title='Primarily a week of Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Jul 26th – Aug 3rd</td></tr>
     <tr><td>Ski Week 6</td><td>Aug 2nd – Aug 10th</td></tr>
     <tr><td>Week 7 - Ski Moot 3 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Aug 9th – Aug 17th</td></tr>
     <tr><td>Ski Week 8</td><td>Aug 16th – Aug 24th</td></tr>
