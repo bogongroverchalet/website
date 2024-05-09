@@ -28,12 +28,16 @@ contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 
 <table>
 <tr>
-<td style="min-width: 160px;">Polar fleece</td>
-<td>$55</td>
+<td style="min-width: 160px;">Nalgenes (red or blue)</td>
+<td>$25</td>
 </tr>
 <tr>
-<td style="min-width: 160px;">Polar fleece (old)</td>
-<td>$50</td>
+<td style="min-width: 160px;">Buffs (3 styles)</td>
+<td>$15</td>
+</tr>
+<tr>
+<td style="min-width: 160px;">Polar fleece</td>
+<td>$55</td>
 </tr>
 <tr>
 <td style="min-width: 160px;">Polar fleece vests</td>
@@ -44,10 +48,6 @@ contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 <td>$35</td>
 </tr>
 <tr>
-<td>Polo shirts (old)</td>
-<td>$30</td>
-</tr>
-<tr>
 <td>Bucket hats</td>
 <td>$15</td>
 </tr>
@@ -56,7 +56,7 @@ contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 <td>$15</td>
 </tr>
 <tr>
-<td>Engraved s/s mugs</td>
+<td>Ceramic or steel mugs</td>
 <td>$10</td>
 </tr>
 <tr>
@@ -65,22 +65,18 @@ contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 </tr>
 <tr>
 <td>Stubby holders</td>
-<td>$5</td>
+<td>$10</td>
 </tr>
 <tr>
-<td>Badges</td>
+<td>Rover skiing magnet, pins & coasters</td>
 <td>$2</td>
 </tr>
 <tr>
-<td>Stickers</td>
+<td>Badges & stickers - assorted styles</td>
 <td>$1</td>
 </tr>
 <tr>
 <td>Bill&#8217;s book</td>
 <td>$10</td>
-</tr>
-<tr>
-<td>Soft shell jacket<br/><i>(by order only)</i></td>
-<td>$100</td>
 </tr>
 </table>
