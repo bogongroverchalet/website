@@ -1723,25 +1723,6 @@ Not mandatory, but people do turn lights on and off -- and the sun can be glary 
     </tr>
     <tr>
       <td>
-Rapid Antigen Tests
-      </td>
-      <td>
-5
-      </td>
-      <td>
-No
-      </td>
-      <td>
-        <details>
-        <summary></summary>
-<div markdown=1>
-5 x Rapid antigen tests -- in case of COVID, the combo tests (flu, etc) are preferable if possible
-</div>
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td>
 Facemask
       </td>
       <td>
