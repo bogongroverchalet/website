@@ -11,12 +11,13 @@ list_order: 4
 
 _Our **one-pager checklist** has been **updated for 2024** and is available for
 download - it doesn't cover all the details, but is great for ensuring you have
-everything (but not too much :-D ). **Here it is as a
-[PDF](/downloads/Packing%20list%20one%20pager%202024.pdf).**_
+everything (but not too much :-D )._
 
-_Want to download the list below? Here it is as a
+_**Here it is as a [PDF](/downloads/Packing%20list%20one%20pager%202024.pdf).**_
+
+<!--_Want to download the list below? Here it is as a
 [PDF](/downloads/Packing%20list%202023.pdf) or a
-[Word doc](/downloads/Packing%20list%202023.docx)._
+[Word doc](/downloads/Packing%20list%202023.docx)._-->
 
 ## Introduction
 
