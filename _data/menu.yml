@@ -10,6 +10,8 @@
       title: How the Chalet is run
     - article_url: merchandise
       title: Merchandise
+    - article_url: special-interest-areas
+      title: Special Interest Areas
 - title: Visiting
   children:
     - article_url: booking-conditions
