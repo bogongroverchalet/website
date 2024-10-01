@@ -53,7 +53,9 @@ if(target) {
         {% if site.mountain_bike_booknow %}
         <a class='button button-primary' style='text-align: center; font-size: 0.9em' href='{{ site.mountain_bike_booknow }}'>Venturer MTB W/E</a>
         {% endif %}
+        {% if site.booknow %}
         <a data-booknow class='button button-primary' style='font-size: 0.9em' href='{{ site.booknow }}'>Book for winter</a>
+        {% endif %}
       </div>
       <script>
         document.addEventListener('click', function bookingsWarning(e) {
