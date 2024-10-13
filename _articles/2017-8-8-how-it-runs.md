@@ -29,7 +29,10 @@ hosted on the second Wednesday of October.
 ### Aims, Objectives and Operating Guidelines
 
 The Bogong Chalet Management Group manage the Bogong Rover Chalet following the
-[Aims, Objectives and Operating Guidelines](/uploads/operating_guidelines.pdf).
+[Aims, Objectives and Operating Guidelines (2020 version)](/uploads/operating_guidelines.pdf).
+
+An update to these was approved at the 2024 ARAP, and the updated guidelines
+will be uploaded once ratified.
 
 ## Our Scout Groups
 
