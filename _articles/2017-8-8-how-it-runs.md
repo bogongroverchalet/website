@@ -34,6 +34,11 @@ The Bogong Chalet Management Group manage the Bogong Rover Chalet following the
 An update to these was approved at the 2024 ARAP, and the updated guidelines
 will be uploaded once ratified.
 
+### Business, business, business
+
+Find the business of the Bogong Rover Chalet and Alpine Rover Crew, including
+minutes from our ARAP and AGM, and other documentation [here](https://drive.google.com/drive/folders/1-C-mW6y0dm0QlS12mLP29PQh6CHiSs6U?usp=sharing).
+
 ## Our Scout Groups
 
 The Bogong Rover Chalet hosts a number of honorary Scout Groups.
