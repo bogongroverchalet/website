@@ -9,8 +9,7 @@ means we've made sure Rovers get the best experience.
 Rovers have heaps of weeks open to them, with peak Ski conditions and an amazing
 party environment.
 
-Any Ski Week is open to Rovers, but our Ski Moots <i class='material-icons'
-title='Ski Weeks 1, 3, 5 and 10.'>info_outline</i> are the best of the best.
+Any Ski Week is open to Rovers, but our Ski Moots are the best of the best.
 
 [How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
 
