@@ -17,5 +17,3 @@ Venturer weeks are an amazing experience for an incredibly low price, and can de
 {% endif %}
 
 [How's it work?]({{ site.knowledge }}visiting/visiting-in-winter/#how-it-works)
-
-Also consider the [Dick & Pip Smith Leadership Through Adventure Fund](https://scouts.com.au/blog/2023/10/06/leadership-through-adventure-fund-round-5-grants-now-open/) (in particular if cost is an issue).

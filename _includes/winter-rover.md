@@ -17,5 +17,3 @@ title='Ski Weeks 1, 3, 5 and 10.'>info_outline</i> are the best of the best.
 {% if site.booknow %}
 [Book now!]({{ site.booknow }})
 {% endif %}
-
-Also consider the [Dick & Pip Smith Leadership Through Adventure Fund](https://scouts.com.au/blog/2023/10/06/leadership-through-adventure-fund-round-5-grants-now-open/) (in particular if cost is an issue).

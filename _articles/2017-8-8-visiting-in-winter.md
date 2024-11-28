@@ -26,8 +26,6 @@ The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
  - Non Movement Member (i.e. everyone else) $550
  - Venturers, please see our online bookings pages for prices
 
-Venturers and Rovers, do consider the [Dick & Pip Smith Leadership Through Adventure Fund](https://scouts.com.au/blog/2023/10/06/leadership-through-adventure-fund-round-5-grants-now-open/) if cost is an issue.
-
 _If you already have a parking pass for the season for Falls Creek please contact our bookings team._
 
 ## Everyone's welcome
