@@ -1,23 +1,23 @@
 ---
 title: Winter dates
 ---
-<h4 class='dates-title'>2024 dates</h4>
+<h4 class='dates-title'>2025 dates</h4>
 <div class='dates-container'>
   <table class='dates'>
-    <tr><td><i>Training Week</i> <i class='material-icons' title='A specific training activity for past attendees of the Chalet. More details to come.'>info_outline</i></td><td>Jun 21st – Jun 29th</td></tr>
-    <tr><td>Week 1 - Ski Moot 1</td><td>Jun 28th – Jul 6th</td></tr>
-    <tr><td>Vic Snow Venture 1</td><td>Jul 5th – Jul 13th</td></tr>
-    <tr><td>SA Snow Venture</td><td>Jul 12th – Jul 21st</td></tr>
-    <tr><td>Week 4 - Ski Moot 2</td><td>Jul 19th – Jul 27th</td></tr>
-    <tr><td>Ski Week 5 <i class='material-icons' title='Primarily a week of Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Jul 26th – Aug 3rd</td></tr>
-    <tr><td>Ski Week 6</td><td>Aug 2nd – Aug 10th</td></tr>
-    <tr><td>Week 7 - Ski Moot 3 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Aug 9th – Aug 17th</td></tr>
-    <tr><td>Ski Week 8</td><td>Aug 16th – Aug 24th</td></tr>
-    <tr><td>Ski Week 9</td><td>Aug 23rd – Aug 31st</td></tr>
-    <tr><td>Week 10 - Ski Moot 4 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-)'>info_outline</i></td><td>Aug 30th – Sep 7th</td></tr>
-    <tr><td>Ski Week 11</td><td>Sep 6th – Sep 14th</td></tr>
-    <tr><td>Ski Week 12</td><td>Sep 13th – Sep 21st</td></tr>
-    <tr><td>Vic Snow Venture 2</td><td>Sep 20th – Sep 28th</td></tr>
+    <tr><td><i>Training Week</i> <i class='material-icons' title='A specific training activity for past attendees of the Chalet. More details to come.'>info_outline</i></td><td>Jun 27st – Jul 5th</td></tr>
+    <tr><td>Vic Snow Venture 1</td><td>Jul 4th – Jul 12th</td></tr>
+    <tr><td>SA Snow Venture</td><td>Jul 10th – Jul 19th</td></tr>
+    <tr><td>Week 3 - Ski Moot 1</td><td>Jul 18th – Jul 26th</td></tr>
+    <tr><td>Week 4 - Ski Moot 2 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-) Under 30-ish week :-)'>info_outline</i></td><td>Jul 25th – Aug 2nd</td></tr>
+    <tr><td>Ski Week 5</td><td>Aug 1st – Aug 9th</td></tr>
+    <tr><td>Ski Week 6</td><td>Aug 8th – Aug 16th</td></tr>
+    <tr><td>Week 7 - Ski Moot 3</td><td>Aug 15th – Aug 23rd</td></tr>
+    <tr><td>Ski Week 8</td><td>Aug 22nd – Aug 30th</td></tr>
+    <tr><td>Ski Week 9</td><td>Aug 29th – Sep 6th</td></tr>
+    <tr><td>Week 10 - Ski Moot 4 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-) Under 30-ish week :-)'>info_outline</i></td><td>Sep 5th – Sep 13th</td></tr>
+    <tr><td>Ski Week 11</td><td>Sep 12th – Sep 20th</td></tr>
+    <tr><td>Vic Snow Venture 2</td><td>Sep 19th – Sep 27th</td></tr>
+    <tr><td>Week 13 - Ski Moot 5 <i class='material-icons' title='Open to Rovers and recent ex-Rovers :-) Under 30-ish week :-)'>info_outline</i></td><td>Sep 26th – Oct 4th</td></tr>
     <!--<tr><td>Vic Snow Venture 3</td><td>Sep 22nd – Sep 30th</td></tr>-->
   </table>
 </div>
