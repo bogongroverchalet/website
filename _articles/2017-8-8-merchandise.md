@@ -44,8 +44,8 @@ contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 <td>$40</td>
 </tr>
 <tr>
-<td>Polo shirts</td>
-<td>$35</td>
+<td>Long sleeve sub polos</td>
+<td>$45</td>
 </tr>
 <tr>
 <td>Bucket hats</td>
@@ -54,10 +54,6 @@ contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 <tr>
 <td>Beanies</td>
 <td>$15</td>
-</tr>
-<tr>
-<td>Ceramic or steel mugs</td>
-<td>$10</td>
 </tr>
 <tr>
 <td>Woggles</td>
@@ -72,11 +68,27 @@ contact Bogong Rover Chalet or have a chat to your Winter Party Adviser.
 <td>$2</td>
 </tr>
 <tr>
-<td>Badges & stickers - assorted styles</td>
+<td>Badges - assorted styles</td>
+<td>$2</td>
+</tr>
+<tr>
+<td>Stickers - assorted styles</td>
 <td>$1</td>
 </tr>
 <tr>
 <td>Bill&#8217;s book</td>
 <td>$10</td>
+</tr>
+<tr>
+<td>Replacement scarf</td>
+<td>$12</td>
+</tr>
+<tr>
+<td>Replacement scarf badge</td>
+<td>$2</td>
+</tr>
+<tr>
+<td>Replacement name tape</td>
+<td>$2</td>
 </tr>
 </table>
