@@ -1,7 +1,7 @@
 ---
 title: Winter dates
 ---
-<h4 class='dates-title'>2025 dates</h4>
+<h4 class='dates-title'>2025 dates <i class='material-icons' title='Bookings open:<br />- 30th Jan - special supporters<br />- 1st Feb - Vic Rovers and Snow Venture<br />- 4th Feb - Interstate Rovers<br />- 7th Feb - Everyone <br />- 9th Feb - Subsequent bookings allowed<br /><i>Before the 9th you can only book in for a single week, after the 9th you can book in to as many as you like :-)</i>' style='position: relative; top: 4px'>info_outline</i></h4>
 <div class='dates-container'>
   <table class='dates'>
     <tr><td><i>Training Week</i> <i class='material-icons' title='A specific training activity for past attendees of the Chalet. More details to come.'>info_outline</i></td><td>Jun 27st – Jul 5th</td></tr>
