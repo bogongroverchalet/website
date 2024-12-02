@@ -1555,7 +1555,8 @@ No
         <summary></summary>
 <div markdown=1>
 e.g. Tampons, pads, menstrual cup, etc<br />
-Bring them just in case!
+Bring them just in case!<br />
+_No period undies as they can't be washed at the Chalet._
 </div>
         </details>
       </td>
