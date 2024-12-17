@@ -17,6 +17,20 @@ need to vary because of weather and safety requirements).
 
 The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 
+## 2025 Booking dates
+
+The Bogong Rover Chalet uses a priority bookings system to ensure that the
+Chalet is available to Rovers and Scouting members before opening to the broader
+community.
+
+For 2025 bookings will open on the following dates:
+
+<b>30th Jan</b> - special supporters <i class='material-icons' title="People who help at working bees and similar supporters. We'll contact those affected.">info_outline</i>
+<br /><b>1st Feb</b> - Victorian Rovers and Snow Venture
+<br /><b>4th Feb</b> - Interstate Rovers
+<br /><b>7th Feb</b> - Everyone
+<br /><b>9th Feb</b> - Subsequent bookings allowed <i class='material-icons' title='Before this date you can only book in for a single week. After this date anyone can book into as many additional weeks as they like.'>info_outline</i>
+
 ## 2025 Prices
 
 ### 2025 Early bird (before March 31)
