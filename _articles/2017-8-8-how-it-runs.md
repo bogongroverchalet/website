@@ -43,6 +43,12 @@ minutes from our ARAP and AGM, and other documentation [here](https://drive.goog
 
 The Bogong Rover Chalet hosts a number of honorary Scout Groups.
 
+### Membership Records
+
+We maintain records of the members of our honorary Scout Groups [here](https://bit.ly/bogonggroupmembers).
+
+If you'd like to suggest any updates to our records, please do so [here](https://bit.ly/bogonggroupmembersupdates).
+
 ### The Alpine Venturer Unit
 
 The Alpine Venturer Unit was started during the winter season of the year 2000.
@@ -78,7 +84,6 @@ To qualify for membership of the Crew Members must:
 - Have completed one week at a Bogong Chalet Winter Party
 
 ### The Bogong Rover Crew
-
 
 The Bogong Rover Crew was established by W F "Bill" Waters and its first members
 were invested into the Crew on Thursday 7th of September 1933.
