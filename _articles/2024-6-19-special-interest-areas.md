@@ -33,3 +33,14 @@ cookbooks) to help us make our special edition 85th anniversary cookbook.
 
 We're also very open to other ideas and would do our best to support any SIA
 project related to the Bogong Rover Chalet.
+
+## Past Ideas
+
+Here are some ideas that have been used for SIAs in the past.
+
+<table style='margin-bottom: 3em'>
+<tr><th style='text-align: left'>Title</th><th style='text-align: left'>Description</th></tr>
+<tr><td style='white-space: nowrap; padding-right: 2em'>Bogong Ingredient List (Creating A Better World)</td><td style='max-width: 30em'>Creating an ingredient database for all the bulk food stored at the Chalet to help those with specific dietary needs</td></tr>
+<tr><td style='white-space: nowrap; padding-right: 2em'>Bogong Content (Arts & Literature)</td><td style='max-width: 30em'>Directing content for Chalet marketing materials</td></tr>
+<tr><td style='white-space: nowrap; padding-right: 2em'>Bogong Chair (Growth & Development)</td><td style='max-width: 30em'>Growing in skills</td></tr>
+</table>
