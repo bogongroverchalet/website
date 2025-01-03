@@ -35,6 +35,8 @@ For 2025 bookings will open on the following dates:
 
 ### 2025 Early bird (before March 31)
 
+**Special for 2025: $50 discount to Rovers under the age of 19 as at 1st October 2025! Help us spread the word!**
+
  - Current Rover $425
  - Scout Movement Member $530
  - Non Movement Member (i.e. everyone else) $625
