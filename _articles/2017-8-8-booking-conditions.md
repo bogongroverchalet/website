@@ -8,6 +8,14 @@ list_order: 3
 
 _Note, winter parties require a minimum of ten participants to run._
 
+## Policies and Procedures
+
+All participants who visit the Chalet need to follow the relevant [policies and proceedures](https://bit.ly/bcmgpolicies) of the Bogong Rover Chalet.
+
+They can be seen [here](https://bit.ly/bcmgpolicies).
+
+If you have any feedback on our policies and procedures, please contact the our [Management Group](/about/contact/#management).
+
 ## Winter Party Withdrawal
 
  - Refunds may be applied for in writing addressed to the BCMG.
