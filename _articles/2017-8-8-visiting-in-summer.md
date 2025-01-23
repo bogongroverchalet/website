@@ -70,7 +70,7 @@ The Bogong Chalet Management Group reserves the right to change, restrict number
 
 ## Getting Here
 
-The Bogong Rover Chalet is located in Victoria's High Country, about 11km from Falls Creek. The drive from Melbourne is roughly 5 hours.
+The Bogong Rover Chalet is located in Victoria's High Country, about 12km by road from Falls Creek (plus a 1.6km walk). The drive from Melbourne is roughly 5 hours.
 
 The Chalet is a comfortable walk from the [Cope Hut Carpark](https://www.google.com.au/maps/dir/Bogong+chalet+car+park/Bogong+Rover+Chalet,+Nelse,+Victoria/@-36.9057949,147.2963949,16z/data=!4m8!4m7!1m2!1m1!1s0x0:0x5c7e07098a6b0fbd!1m2!1m1!1s0x6b2447ea5e2780c1:0xd9d7ac523322deeb!3e2).
 

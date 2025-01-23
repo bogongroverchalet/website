@@ -38,7 +38,7 @@ Chalet" may be helpful.
 
 ### Things to say at a hire shop if you're struggling
 
-I am going to the Bogong Rover Chalet, if you know it, it's about 11km from
+I am going to the Bogong Rover Chalet, if you know it, it's an 11km ski from
 Falls Creek on ungroomed trails and I'll be skiing with a pack. I'm looking for
 75mm cable bindings on patterned skis with metal edges.
 
