@@ -119,16 +119,6 @@ call before trying to fix or improve anything yourselves.
 You may be liable for the cost of damage incurred if you fail to disclose
 relevant information, were negligent, or willfully caused damage.
 
-## Photos
-
-- Please note any photos taken at Chalet events may be shared publicly or used
-  for promotional material. If, for any reason, you do not wish to give consent
-  to your child’s or your own image being used on social media or in
-  promotional material please email
-  [bogongchalet@vicscouts.com.au](mailto:bogongchalet@vicscouts.com.au) and
-  ensure that the leaders in your group are aware of this. Additionally ensure
-  that anyone taking photos is aware, as it is very easy to take and share.
-
 ## Scouts Victoria terms and conditions
 
 Scouts Victoria approves the Hirer's use of the facility on the following conditions:
