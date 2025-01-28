@@ -18,6 +18,11 @@ They can be seen [here](https://bit.ly/bcmgpolicies).
 If you have any feedback on our policies and procedures, please contact the our
 [Management Group](/about/contact/#management).
 
+## Code of Conduct
+
+The Chalet code of conduct can be seen [here](https://bit.ly/chalet-coc). It is
+also on display in the Chalet.
+
 ## Winter Party Withdrawal
 
  - Refunds may be applied for in writing addressed to the BCMG.
