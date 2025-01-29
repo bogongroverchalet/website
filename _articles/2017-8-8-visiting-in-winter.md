@@ -79,6 +79,15 @@ The normal run down of a week is as follows:
 - The following Saturday we, with great regret, pack up and leave; skiing back
   to Falls Creek before getting the Bus down again, and then driving back home.
 
+## Participant info pack
+
+Our participant information pack includes a lot more detail about how the week
+runs. If you have more questions, it may have the answers you seek :-)
+
+Giving it a look is great idea either way :-)
+
+Check it out [here]({{ site.participant_info_pack }}).
+
 ## Getting to Mt Beauty
 
 Everyone is expected to make their own way to Mt Beauty - although we make a
@@ -89,14 +98,16 @@ organise things like carpooling.
 
 ## Briefing night
 
-A few weeks before the Ski Week we have a Briefing Night with our Ski Party (all
-the participants).
+All winter party attendees are expected to attend a briefing night. We have in
+person and online options. _Snow Venturers have different briefing nights which
+are organised separately._
 
-Here we talk about how everything works, what to expect, and answer any of your
+We talk about how everything works, what to expect, and answer any of your
 questions.
 
-It's a great way to meet everyone else in your Ski Party, and we also decide on
-a theme for our week (just a bit of fun).
+It's a great way to meet everyone else in your Ski Party.
+
+The details of our briefing nights are in the [participant info pack]({{ site.participant_info_pack }}).
 
 We have a [general briefing night
 video](https://www.youtube.com/watch?v=CNehMo4xxgY) which you can watch as well.
