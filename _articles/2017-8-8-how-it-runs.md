@@ -45,7 +45,7 @@ The Bogong Rover Chalet hosts a number of honorary Scout Groups.
 
 ### Membership Records
 
-We maintain records of the members of our honorary Scout Groups [here](https://bit.ly/bogonggroupmembers).
+We maintain records of the members of our honorary Scout Groups [here](https://bit.ly/bogong-group-members).
 
 If you'd like to suggest any updates to our records, please do so [here](https://bit.ly/bogonggroupmembersupdates).
 
