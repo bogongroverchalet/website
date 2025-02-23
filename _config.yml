@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 booknow: "https://www.trybooking.com/1319026"
 mountain_bike_booknow: "https://www.trybooking.com/CYVQH"
 rover_mountain_bike_booknow: "https://www.trybooking.com/CFOYU"
-participant_info_pack: "https://bit.ly/bogong-2025-participant-info-pack"
+participant_info_pack: "https://bit.ly/bogong-2025-participant-info-pack-2"
 knowledge: "/"
 #search: "https://info.bogongroverchalet.org.au/search/"
 #twitter_username: jekyllrb
