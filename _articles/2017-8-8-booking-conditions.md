@@ -8,14 +8,14 @@ list_order: 3
 
 While making your booking, you will need to accept the following conditions.
 
-## Policies and Procedures
+## Guidelines and Procedures
 
-All participants who visit the Chalet need to follow the relevant [policies and
-proceedures](https://bit.ly/bcmgpolicies) of the Bogong Rover Chalet.
+All participants who visit the Chalet need to follow the relevant [guidelines
+and procedures](https://bit.ly/bcmgpolicies) of the Bogong Rover Chalet.
 
 They can be seen [here](https://bit.ly/bcmgpolicies).
 
-If you have any feedback on our policies and procedures, please contact the our
+If you have any feedback on our guidelines and procedures, please contact our
 [Management Group](/about/contact/#management).
 
 ## Code of Conduct
