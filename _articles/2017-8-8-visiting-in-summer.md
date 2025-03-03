@@ -36,7 +36,7 @@ The Bogong Rover Chalet offers a unique opportunity for Venturers to experience 
 
 Whether you are a die-hard mountain biker or someone who would enjoy a casual ride in the scenic Victorian high country this weekend is for YOU. *NOTE: You still need to be a fairly strong cycler.* Venturer Leaders are encouraged to accompany their Venturers.
 
-**When:** Friday 5th April - Monday 8th April 2025
+**When:** 5th April - 8th April 2025
 
 **Cost:** $150 covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
 
@@ -44,10 +44,10 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual ri
 
 **Itinerary:** The following is a quick outline of the weekend.
 
-* Friday: Travel to the Chalet, riding local trails if time available
-* Saturday: MTB skills and then single track at Falls Creek in the afternoon
-* Sunday: Riding single track trails at Falls Creek
-* Monday: Pack up and a short ride. Travel back home
+* Day 1: Travel to the Chalet, riding local trails if time available
+* Day 2: MTB skills and then single track at Falls Creek in the afternoon
+* Day 3: Riding single track trails at Falls Creek
+* Day 4: Pack up and a short ride. Travel back home
 
 **Bike Hire:** Bike hire is available if you don't own a Mountain Bike. Please [contact us](mailto:mtbbookings@bogongroverchalet.org.au) if you are unsure whether your bike is suitable. Working front suspension is a must, and cyclo-cross / hybrid bikes are unsuitable.
 
@@ -66,7 +66,7 @@ The Bogong Chalet Management Group reserves the right to change, restrict number
 <!--[Book now, before it books out!]({{ site.rover_mountain_bike_booknow }})<br><br>-->
 
 *Unfortunately our Rover Mountain Bike Weekend won't be running in the summer of
-23/24. It will be back the following summer.*
+24/25. It will be back in summer 25/26.*
 
 ## Getting Here
 
