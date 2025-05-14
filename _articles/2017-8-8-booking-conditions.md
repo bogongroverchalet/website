@@ -11,16 +11,16 @@ While making your booking, you will need to accept the following conditions.
 ## Guidelines and Procedures
 
 All participants who visit the Chalet need to follow the relevant [guidelines
-and procedures](https://bit.ly/bcmgpolicies) of the Bogong Rover Chalet.
+and procedures](https://www.dropbox.com/scl/fo/u3699hx6czk9nwdgx068n/APgDSYJv5iWQRHSUV5gxh2Q?rlkey=faozvuny7w6giytavvdw880pw&st=gebthlgf&dl=0) of the Bogong Rover Chalet.
 
-They can be seen [here](https://bit.ly/bcmgpolicies).
+They can be seen [here](https://www.dropbox.com/scl/fo/u3699hx6czk9nwdgx068n/APgDSYJv5iWQRHSUV5gxh2Q?rlkey=faozvuny7w6giytavvdw880pw&st=gebthlgf&dl=0).
 
 If you have any feedback on our guidelines and procedures, please contact our
 [Management Group](/about/contact/#management).
 
 ## Code of Conduct
 
-The Chalet code of conduct can be seen [here](https://bit.ly/chalet-coc). It is
+The Chalet code of conduct can be seen [here](https://www.dropbox.com/scl/fo/fplitdilxrvzlr5my4baf/AAKPONUXwKo9QBsIFYA3QP8?rlkey=tmg3r7c9znwyd0q65q942nbtv&st=wckd2eng&dl=0). It is
 also on display in the Chalet.
 
 ## Winter Party Withdrawal
@@ -118,6 +118,10 @@ call before trying to fix or improve anything yourselves.
 
 You may be liable for the cost of damage incurred if you fail to disclose
 relevant information, were negligent, or willfully caused damage.
+
+## Summer terms and conditions
+
+Our summer terms and conditions can be seen [here](https://www.dropbox.com/scl/fo/4ql5leawzipun7jyidbl7/AP-D9_xmmtJyN9LllS8Sx4A?rlkey=g5vlrogz28y2ct181z11du0gd&st=kfs68lem&dl=0).
 
 ## Scouts Victoria terms and conditions
 

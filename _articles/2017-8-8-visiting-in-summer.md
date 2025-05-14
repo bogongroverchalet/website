@@ -93,3 +93,7 @@ can be seen [here]({{ mainsite }}#summer-dates).
 
 Make sure you contact the [Bookings Officer]({% article_url contact %}#bookings) to confirm your attendance (we have strict space and safety
 requirements).
+
+## Terms and conditions
+
+Our summer terms and conditions can be seen [here](https://www.dropbox.com/scl/fo/4ql5leawzipun7jyidbl7/AP-D9_xmmtJyN9LllS8Sx4A?rlkey=g5vlrogz28y2ct181z11du0gd&st=kfs68lem&dl=0).

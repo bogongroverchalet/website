@@ -111,3 +111,7 @@ The details of our briefing nights are in the [participant info pack]({{ site.pa
 
 We have a [general briefing night
 video](https://www.youtube.com/watch?v=CNehMo4xxgY) which you can watch as well.
+
+## Recipe book
+
+Want to see what you'll eat for the week? Have a look [here](https://www.dropbox.com/scl/fo/qpj425pr5c4cmxr9zie04/AOv0kan0DIUsUHz7g2B7JvI?rlkey=39c7kbesmmdt3bunbziipniei&st=5vt6wswv&dl=0).

@@ -6,7 +6,7 @@ category: news
 ---
 
 Our packing checklist has been updated for 2024, **download it
-[here](/downloads/Packing%20list%20one%20pager%202024.pdf)**.
+[here](https://www.dropbox.com/scl/fo/pss5rk1rq0jascyrrf1a4/AInYA0J2MdMsR4DyhEdTpoA?rlkey=17zdc1h8g2w5khtfjb2ztq9fa&st=g2giignc&dl=0)**.
 
 Want more info about what to pack? Check out our [packing list
 page](/winter%20attendee%20information/winter-packing-list/).

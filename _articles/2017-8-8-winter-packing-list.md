@@ -20,7 +20,7 @@ Our **one-pager checklist** has been **updated for 2024** and is available for
 download - it doesn't cover all the details, but is great for ensuring you have
 everything (but not too much :-D ).
 
-**Here it is as a [PDF](/downloads/Packing%20list%20one%20pager%202024.pdf).**
+**Here it is as a [PDF](https://www.dropbox.com/scl/fo/pss5rk1rq0jascyrrf1a4/AInYA0J2MdMsR4DyhEdTpoA?rlkey=17zdc1h8g2w5khtfjb2ztq9fa&st=g2giignc&dl=0).**
 
 </div>
 

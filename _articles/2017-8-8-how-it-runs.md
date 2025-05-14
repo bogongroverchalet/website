@@ -29,7 +29,7 @@ hosted on the second Wednesday of October.
 ### Aims, Objectives and Operating Guidelines
 
 The Bogong Chalet Management Group manage the Bogong Rover Chalet following the
-[Aims, Objectives and Operating Guidelines (2020 version)](/uploads/operating_guidelines.pdf).
+[Aims, Objectives and Operating Guidelines (2024 version)](https://www.dropbox.com/scl/fo/qdn985kb7jagaxf79gcg0/AIyIxdlAk5eA_zeMi1XdVjU?rlkey=wzkguewad9nteg7tica5idj7f&st=8sl5bi4f&dl=0).
 
 An update to these was approved at the 2024 ARAP, and the updated guidelines
 will be uploaded once ratified.
@@ -45,7 +45,7 @@ The Bogong Rover Chalet hosts a number of honorary Scout Groups.
 
 ### Membership Records
 
-We maintain records of the members of our honorary Scout Groups [here](https://bit.ly/bogong-group-members).
+We maintain records of the members of our honorary Scout Groups [here](https://www.dropbox.com/scl/fo/2d30tu4u8og8si9g5d33x/AGUtu0gqme9gtxYFPqO35rY?rlkey=uw9mub4yjgu1b2tw8ikj9o2ry&st=7g9tqzic&dl=0).
 
 If you'd like to suggest any updates to our records, please do so [here](https://bit.ly/bogonggroupmembersupdates).
 
