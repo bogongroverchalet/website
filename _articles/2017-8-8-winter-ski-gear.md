@@ -78,13 +78,14 @@ makes them less friendly for stopping and turning). If in doubt we suggest 75mm
 cable bindings in preference to 3 pin bindings - especially for beginners. They
 are fine, but we suggest 75mm or NTN in preference to 3 pin.
 
-_NNN bindings_ - these may be appropriate for the Chalet, but are generally not
-recommended. They generally don't offer as much support - which is not what you
-want (similar to the criticisms of 3 pin bindings). This lack of support is
-particularly noticeable for beginners with packs. More experienced skiers who
-want to progress their skiing may not like them as much because their lower
-level of support is not good for learning to turn and brake with more
-confidence. They are fine - but we suggest 75mm or NTN in preference to NNN.
+_NNN/NNN-BC bindings_ - these are unlikely to be appropriate for the Chalet.
+**They are not recommended.** They generally don't offer as much support - which
+is not what you want (similar to the criticisms of 3 pin bindings). This lack of
+support is particularly noticeable for beginners with packs. More experienced
+skiers who want to progress their skiing may not like them as much because their
+lower level of support is not good for learning to turn and brake with more
+confidence. They _may be_ fine - but we suggest 75mm or NTN in preference to
+NNN/NNN-BC.
 
 #### Binding options - alpine touring
 
