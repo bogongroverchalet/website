@@ -40,7 +40,7 @@ Chalet" may be helpful.
 
 I am going to the Bogong Rover Chalet, if you know it, it's an 11km ski from
 Falls Creek on ungroomed trails and I'll be skiing with a pack. I'm looking for
-75mm cable bindings on patterned skis with metal edges.
+**75mm cable bindings on patterned skis with metal edges**.
 
 If this isn't enough detail for them, try the descriptions below:
 
