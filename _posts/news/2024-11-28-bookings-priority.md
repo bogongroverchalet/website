@@ -1,6 +1,7 @@
 ---
 title: 2025 winter bookings opening dates
 date: 2024-11-16T23:52:04.891Z
+expires: 2024-11-20T14:00:00.000Z
 category: news
 ---
 
