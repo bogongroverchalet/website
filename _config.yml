@@ -5,9 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   A beautiful backcountry Chalet in the Bogong High Plains (Victoria).
   Run by Rover Scouts for everyone.
 baseurl: "" # the subpath of your site, e.g. /blog/
-booknow: "https://www.trybooking.com/1319026"
-mountain_bike_booknow: "https://www.trybooking.com/CYVQH"
-rover_mountain_bike_booknow: "https://www.trybooking.com/CFOYU"
+# booknow: "https://www.trybooking.com/1319026"
+# mountain_bike_booknow: "https://www.trybooking.com/CYVQH"
+# rover_mountain_bike_booknow: "https://www.trybooking.com/CFOYU"
 participant_info_pack: "https://www.dropbox.com/scl/fo/5igobm2njuzt4efoix351/AFdyNgT8q0wqH7NH6XGhIkQ?rlkey=de17wm9exppcnoy7en00xtc6n&st=fbce7mg1&dl=0"
 knowledge: "/"
 #search: "https://info.bogongroverchalet.org.au/search/"
