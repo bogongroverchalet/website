@@ -2,6 +2,8 @@
 summer_tabs:
   - href: summer-overview
     title: Overview
+  - href: summer-week
+    title: Summer week 🥳
   - href: summer-working-bees
     title: Working bees
   - href: summer-book
@@ -110,7 +112,7 @@ if(target) {
       </div>
       <div>
         {% for tab in page.summer_tabs %}
-          <span id='{{ tab.href }}'></span>
+          <span id='{{ tab.href }}' style='display: block; position: relative; top: -250px; visibility: hidden;'></span>
         {% endfor %}
         <ul class='tab tab-block not-mobile'>
           {% for tab in page.summer_tabs %}
