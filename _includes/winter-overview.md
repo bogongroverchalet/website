@@ -6,7 +6,7 @@ Because of the remote location (an 11km ski from Falls Creek <i class='material-
 
 Most weeks are open to anyone over 18 (Scout member or not), although some weeks are only available to specific groups.
 
-[Venturers](#winter-venturer) <i class='material-icons' title='15-18 year old Scouts.'>help_outline</i> have three weeks; one of which is specifically for <a href='#winter-interstater'>South Australians</a>.
+[Venturers](#winter-venturer) <i class='material-icons' title='15-18 year old Scouts.'>help_outline</i> have four weeks; one of which is specifically for <a href='#winter-interstater'>South Australians</a>.
 
 <!--[Other.](#TODO_OTHER) Not a member of the Scout Association? You're still welcome! [Find out more.](#TODO_OTHER)-->
 
