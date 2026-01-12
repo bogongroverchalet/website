@@ -36,9 +36,9 @@ The Bogong Rover Chalet offers a unique opportunity for Venturers to experience 
 
 Whether you are a die-hard mountain biker or someone who would enjoy a casual ride in the scenic Victorian high country this weekend is for YOU. *NOTE: You still need to be a fairly strong cycler.* Venturer Leaders are encouraged to accompany their Venturers.
 
-**When:** 5th April - 8th April 2025
+**When:** 16th April - 19th April 2026
 
-**Cost:** $150 covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
+**Cost:** $TBC covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
 
 **Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Mount Waverley](https://goo.gl/maps/jxKCANnKeTc47c6EA) on Friday afternoon. We return around 6pm on Monday.
 

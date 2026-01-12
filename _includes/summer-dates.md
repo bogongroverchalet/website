@@ -13,7 +13,7 @@ title: Summer dates
       <!--<tr><td>Special Rover event</td><td>15 Apr - 18 Apr</td></tr>-->
       <tr><td>Venturer service weekend <i class='material-icons' title='Including wood working bee'>info_outline</i></td><td>TBC</td></tr>
       <tr><td><a href='https://www.trybooking.com/DGNYG'>Easter working bee</a></td><td>2nd Apr - 6th Apr</td></tr>
-      <tr><td><a href="/visiting/visiting-in-summer/#venturer-mountain-bike-weekend">Venturer mountain bike weekend</a></td><td>TBC</td></tr>
+      <tr><td><a href="/visiting/visiting-in-summer/#venturer-mountain-bike-weekend">Venturer mountain bike weekend</a></td><td>16th Apr - 19th Apr</td></tr>
       <tr><td><i>Summer use ends</i></td><td>TBC</td></tr>
       <tr><td>Food working bee</td><td>TBC</td></tr>
     </table>
