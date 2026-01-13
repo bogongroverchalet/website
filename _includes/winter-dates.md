@@ -4,7 +4,7 @@ title: Winter dates
 <h4 class='dates-title'>2026 dates <i class='material-icons' title='Bookings open:<br />- 30th Jan - special supporters<br />- 1st Feb - Vic Rovers and Snow Venture<br />- 4th Feb - Interstate Rovers<br />- 7th Feb - Everyone <br />- 9th Feb - Subsequent bookings allowed<br />- 1st Mar - Venturer bookings open<br /><i>Before the Feb 9th you can only book in for a single week, after the Feb 9th you can book in to as many as you like :-)</i>' style='position: relative; top: 4px'>info_outline</i></h4>
 <div class='dates-container'>
   <table class='dates'>
-    <tr><td><i>Training Week</i> <i class='material-icons' title='A specific training activity for past attendees of the Chalet. More details to come.'>info_outline</i></td><td>Jun 19st – Jun 27th</td></tr>
+    <tr><td><i>Training Week</i> <i class='material-icons' title='A specific training activity for past attendees of the Chalet. More details to come.'>info_outline</i></td><td>Jun 19th – Jun 27th</td></tr>
     <tr><td>Week 1 - Ski Moot A</td><td>Jun 26th – Jul 4th</td></tr>
     <tr><td>Snow Venture A</td><td>Jul 3rd – Jul 11th</td></tr>
     <tr><td>SA Snow Venture</td><td>Jul 9th – Jul 18th</td></tr>
