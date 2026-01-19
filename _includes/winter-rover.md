@@ -2,9 +2,6 @@
 title: Winter Rover
 ---
 
-**Special for 2025: $50 discount to Rovers under the age of 19 as at 1st October
-2025! Help us spread the word!**
-
 _The jewel of the Rover section._
 
 The Bogong Rover Chalet is a owned and managed by the Rover section. And that

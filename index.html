@@ -59,6 +59,28 @@ if(target) {
         <a data-booknow class='button button-primary' style='font-size: 0.9em' href='{{ site.booknow }}'>Book for winter</a>
         {% endif %}
       </div>
+      <script>
+        document.addEventListener('click', function bookingsWarning(e) {
+          if(e.target.href !== '{{ site.booknow }}') return
+
+          var message = 'NOTE: Bookings open in a staggered manner and are open to all February 7th; all Rovers February 4th; and Victorian Rovers February 1st.\n\nEvents may not appear as expected until then.\n\nUntil February 9th, only one week can be booked by each participant.'
+
+
+          if('venturerBooking' in e.target.dataset) {
+            message = 'NOTE: Venturer bookings open March 1st - everything will show as sold out/unavailable until then.'
+          } else if (Date.now() > new Date('2026-02-09').getTime()) {
+            return
+          }
+
+          if(Date.now() > new Date('2026-03-01').getTime()) {
+            return
+          }
+
+          if(!confirm(message)) {
+            e.preventDefault()
+          }
+        })
+      </script>
       <!--<br>-->
       <!--<b style='font-size: 1.2em'>Summer 23/24: No bookings</b><br>-->
       <!--<i style='font-size: 0.9em; line-height: 1.1em; display: block; margin-bottom: 0.4em'>Due to damage to part of the Chalet we can't take any summer bookings currently.</i>-->
