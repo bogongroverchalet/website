@@ -11,8 +11,13 @@ related to your booking.
 
 ## Winter bookings terms and conditions
 
-The relevant terms and conditions are shown on the [booking page](https://www.trybooking.com/events/landing/1525281)
+{% if site.booknow %}
+The relevant terms and conditions are shown on the [booking page]({{ site.booknow }})
 (scroll down :-) ).
+{% else %}
+We are preparing our terms and conditions for our next winter season, they will
+be released closer to when winter bookings opening.
+{% endif %}
 
 ## Summer private booking terms and conditions
 
