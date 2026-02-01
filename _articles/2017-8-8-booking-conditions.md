@@ -23,6 +23,10 @@ be released closer to when winter bookings opening.
 
 Our summer private booking terms and conditions can be seen [here](https://www.dropbox.com/scl/fo/4ql5leawzipun7jyidbl7/AP-D9_xmmtJyN9LllS8Sx4A?rlkey=g5vlrogz28y2ct181z11du0gd&st=kfs68lem&dl=0).
 
+## Working bee booking terms and conditions
+
+Our working bee booking terms and conditions can be seen [here](https://www.dropbox.com/scl/fo/hv0m4lenn1ojg0om5hvs7/AOGZkkN6QDm6IiwYpksxY68?rlkey=1mv21set56hotqsiyu90rk8hh&st=lq7o87g9&dl=0).
+
 ## Scouts Victoria terms and conditions
 
 Scouts Victoria approves the Hirer's use of the facility on the following conditions:
