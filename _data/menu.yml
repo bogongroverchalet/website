@@ -16,6 +16,8 @@
   children:
     - article_url: booking-conditions
       title: Booking conditions
+    - href: /visiting/booking-conditions/#privacy-policy
+      title: Privacy policy
     - href: https://app.bogongroverchalet.org.au
       title: Chalet app
     - article_url: visiting-in-summer

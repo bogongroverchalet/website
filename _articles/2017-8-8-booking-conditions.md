@@ -35,6 +35,6 @@ Scouts Victoria approves the Hirer's use of the facility on the following condit
 2. Scouts do not insure the Hirer’s property or legal liability exposures. Consequently, Scouts strongly recommend that the Hirer obtains adequate insurance protection throughout the full duration of the event for which the facility is to be hired
 3. The Hirer acknowledges that to the fullest extent permitted by law, Scouts its servants and agents are not under any liability to the Hirer or to any third party for any loss of or damage to any property or injury suffered. This includes any legal liability that may otherwise arise as a result of any direct or indirect act, neglect or default by Scouts or any of its servants or agents.
 
-### Privacy policy
+## Privacy policy
 
 - The Bogong Rover Chalet follows the [Scouts Victoria privacy policy](https://scoutsvictoria.com.au/privacy-policy/).
