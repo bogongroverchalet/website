@@ -38,9 +38,9 @@ Whether you are a die-hard mountain biker or someone who would enjoy a casual ri
 
 **When:** 16th April - 19th April 2026
 
-**Cost:** $TBC covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
+**Cost:** $230 covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
 
-**Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Mount Waverley](https://goo.gl/maps/jxKCANnKeTc47c6EA) on Friday afternoon. We return around 6pm on Monday.
+**Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Mount Waverley](https://goo.gl/maps/jxKCANnKeTc47c6EA) on Thursday ~8am. We return around 6pm on Sunday.
 
 **Itinerary:** The following is a quick outline of the weekend.
 
