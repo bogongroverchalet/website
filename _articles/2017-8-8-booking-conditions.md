@@ -19,6 +19,10 @@ We are preparing our terms and conditions for our next winter season, they will
 be released closer to when winter bookings opening.
 {% endif %}
 
+## Code of Conduct
+
+The Chalet code of conduct can be seen [here](https://tinyurl.com/BRCCodeOfConduct). It is also on display in the Chalet.
+
 ## Summer private booking terms and conditions
 
 Our summer private booking terms and conditions can be seen [here](https://www.dropbox.com/scl/fo/4ql5leawzipun7jyidbl7/AP-D9_xmmtJyN9LllS8Sx4A?rlkey=g5vlrogz28y2ct181z11du0gd&st=kfs68lem&dl=0).
