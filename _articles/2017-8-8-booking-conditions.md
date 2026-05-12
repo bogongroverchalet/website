@@ -42,3 +42,7 @@ Scouts Victoria approves the Hirer's use of the facility on the following condit
 ## Privacy policy
 
 - The Bogong Rover Chalet follows the [Scouts Victoria privacy policy](https://scoutsvictoria.com.au/privacy-policy/).
+
+## Safety guidelines
+
+The safety guidelines for the Bogong Rover Chalet can be seen [here](https://www.dropbox.com/scl/fo/u3699hx6czk9nwdgx068n/APgDSYJv5iWQRHSUV5gxh2Q?rlkey=faozvuny7w6giytavvdw880pw&st=e4oiiihd&dl=0).
