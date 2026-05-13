@@ -45,4 +45,4 @@ Scouts Victoria approves the Hirer's use of the facility on the following condit
 
 ## Safety guidelines
 
-The safety guidelines for the Bogong Rover Chalet can be seen [here](https://www.dropbox.com/scl/fo/u3699hx6czk9nwdgx068n/APgDSYJv5iWQRHSUV5gxh2Q?rlkey=faozvuny7w6giytavvdw880pw&st=e4oiiihd&dl=0).
+The safety guidelines (including activity plans and risk assessments) for the Bogong Rover Chalet can be seen [here](https://www.dropbox.com/scl/fo/u3699hx6czk9nwdgx068n/APgDSYJv5iWQRHSUV5gxh2Q?rlkey=faozvuny7w6giytavvdw880pw&st=e4oiiihd&dl=0).
