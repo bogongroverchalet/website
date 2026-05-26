@@ -23,7 +23,7 @@ Email us at [bookings@bogongroverchalet.org.au](mailto:bookings@bogongroverchale
 ## Management
 
 Our wonderful Bogong Chalet Management Group chairperson can be contacted by
-email at [bogong@vicscouts.asn.au](mailto:bogong@vicscouts.asn.au).
+email at [bogong@vicrovers.com.au](mailto:bogong@vicrovers.com.au).
 
 
 ## Website
