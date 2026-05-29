@@ -375,7 +375,7 @@ Ski leashes
 1
       </td>
       <td>
-Yes
+No
       </td>
       <td>
         <details>
@@ -889,17 +889,17 @@ No
         <details>
         <summary></summary>
 <div markdown=1>
-M﻿erino smells less, acrylic dries fast.
+Merino smells less, acrylic dries fast.
 </div>
         </details>
       </td>
     </tr>
     <tr>
       <td>
-Board shorts
+Quick-dry shorts (hike/board shorts)
       </td>
       <td>
-1 or 2
+1
       </td>
       <td>
 Yes
@@ -1112,7 +1112,7 @@ If you want to wash them each day and keep your hands a bit cleaner
 Socks
       </td>
       <td>
-3
+4
       </td>
       <td>
 No
