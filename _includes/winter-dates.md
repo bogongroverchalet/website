@@ -17,7 +17,6 @@ title: Winter dates
     <tr><td>Ski Week 11</td><td>Sep 4th – Sep 12th</td></tr>
     <tr><td>Ski Week 12</td><td>Sep 11th – Sep 19th</td></tr>
     <tr><td>Vic Snow Venture B</td><td>Sep 18th – Sep 26th</td></tr>
-    <tr><td>Vic Snow Venture C</td><td>Sep 25th – Oct 3rd</td></tr>
     <!--<tr><td>Vic Snow Venture 3</td><td>Sep 22nd – Sep 30th</td></tr>-->
   </table>
 </div>
