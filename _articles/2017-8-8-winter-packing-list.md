@@ -652,7 +652,8 @@ No
         <details>
         <summary></summary>
 <div markdown=1>
-A reel of flouro brick layers cord is good and lightweight
+A reel of flouro brick layers cord is good and lightweight. At least 25m, 50m is
+preferable.
 </div>
         </details>
       </td>
