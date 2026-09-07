@@ -22,6 +22,21 @@ The full list of dates is available [here]({{ site.mainsite }}#winter-overview).
 The Bogong Rover Chalet is available to members of the Scout Association and the
 general public.
 
+## Open weeks
+
+Most of our Ski Weeks are "open weeks": you don't need to be a Scout to come,
+and many of our regulars aren't.
+
+"Open" means open to everyone. It does not mean the week runs like a commercial
+lodge. An open week still follows our Scout traditions (for example, our daily
+flag break) and our normal operating processes. Our days are structured and
+everyone is rostered into a duty group to help cook, clean and run the Chalet.
+We live communally and ensure our shared spaces work for everyone.
+
+If that sounds like part of the adventure, you'll fit right in. If you're after
+a week where you come and go entirely on your own terms, unfortunately the
+Bogong Rover Chalet may not suit what you're looking for.
+
 ## Different age groups
 
 During the season some Ski Weeks are restricted to different age groups.
