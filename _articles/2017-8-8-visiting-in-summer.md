@@ -36,9 +36,9 @@ The Bogong Rover Chalet offers a unique opportunity for Venturers to experience 
 
 Whether you are a die-hard mountain biker or someone who would enjoy a casual ride in the scenic Victorian high country this weekend is for YOU. *NOTE: You still need to be a fairly strong cycler.* Venturer Leaders are encouraged to accompany their Venturers.
 
-**When:** 16th April - 19th April 2026
+**When:** TBC
 
-**Cost:** $230 covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
+**Cost:** TBC - covers meals, accommodation, and bus transport for you and your bike from [Scouts Branch Activity Training Centre (BATC) (1-5 Legana St, Mount Waverley)](https://goo.gl/maps/jxKCANnKeTc47c6EA)
 
 **Location:** [The Bogong Rover Chalet](#getting-here) (we organise a bus from Melbourne). You can either make your own way there, or we organise transport for you and your bike from [Mount Waverley](https://goo.gl/maps/jxKCANnKeTc47c6EA) on Thursday ~8am. We return around 6pm on Sunday.
 
@@ -65,8 +65,7 @@ The Bogong Chalet Management Group reserves the right to change, restrict number
 
 <!--[Book now, before it books out!]({{ site.rover_mountain_bike_booknow }})<br><br>-->
 
-*Unfortunately our Rover Mountain Bike Weekend won't be running in the summer of
-24/25. It will be back in summer 25/26.*
+*Details for our 26/27 Rover Mountain Bike Weekend are TBC.*
 
 ## Getting Here
 
